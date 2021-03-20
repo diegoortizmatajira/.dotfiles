@@ -1,0 +1,22 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+
+- link:
+    ~/.config/i3/config: 
+      path: i3/config
+      create: true
+      force: true
+    ~/.config/nvim/init.vim:
+      path: nvim/init.vim
+      create: true
+      force: true
+    ~/.config/nvim/LYRD: 
+      path: LYRD
+      create: true
+      force: true
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
