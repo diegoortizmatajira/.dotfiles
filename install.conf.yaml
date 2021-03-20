@@ -4,22 +4,33 @@
       create: true
       force: true
 
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
+
 - clean: ['~']
 
-- shell:
-  - 
-    description: Installing LYRD for Neovim from repository
-    command: |
-      if [! -d .external/LYRD ] ; then 
-        git clone "https://github.com/diegoortizmatajira/LYRD" ./external/LYRD 
-      fi
-    quiet: true
+- git:
+    'external/LYRD':
+      description: LYRD for Neovim from repository
+      url: "https://github.com/diegoortizmatajira/LYRD" 
+      method: clone
+    'external/kitty-themes':
+      description: Themes for Kitty from repository
+      url: "https://github.com/dexpota/kitty-themes.git"
+      method: clone-or-pull
 
 - link:
+    # i3 config files
     ~/.config/i3/config: i3/config
 
+    # Neovim config files and setup
     ~/.config/nvim/init.vim: nvim/init.vim
     ~/.config/nvim/LYRD: external/LYRD
+
+    # kitty config files
+    ~/.config/kitty/kitty.conf: kitty/kitty.conf
+    ~/.config/kitty/theme.conf: external/kitty-themes/themes/Monokai_Pro.conf
+
 
 - create:
   - ~/Development/Personal
@@ -29,5 +40,3 @@
   - ~/Downloads/Books
   - ~/Downloads/Temporal
     
-- shell:
-  - [git submodule update --init --recursive, Installing submodules]
