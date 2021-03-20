@@ -24,6 +24,16 @@
     # i3 config files
     ~/.config/i3/config: i3/config
 
+    # picom config files
+    ~/.config/picom/picom.conf: picom/picom.conf
+
+    # polybar config files
+    ~/.config/polybar/config: polybar/config
+    ~/.config/polybar/launch.sh: polybar/launch.sh
+
+    # xsettings
+    ~/.config/xsettingsd/xsettingsd.conf: xsettingsd/xsettingsd.conf
+
     # Neovim config files and setup
     ~/.config/nvim/init.vim: nvim/init.vim
     ~/.config/nvim/LYRD: external/LYRD
