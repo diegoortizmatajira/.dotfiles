@@ -1,0 +1,124 @@
+let mapleader=","
+
+set clipboard+=unnamed
+set ignorecase smartcase
+set hlsearch
+set showmode
+set incsearch
+set relativenumber
+set number 
+
+set commentary
+set surround
+set highlightedyank
+set easymotion
+set ideajoin
+
+" CORE
+nmap <C-s> :w<CR>
+imap <C-s> <Esc>:w<CR>
+map ZQ :action exit<CR>
+map ZZ :action CloseContent<CR>
+nmap <space>qq ZQ
+
+map <leader><space> :nohlsearch<CR>
+nmap <leader>rn :action RenameElement<CR>
+
+" EASYMOTION
+map <Plug>(easymotion-prefix)l <Plug>(easymotion-lineforward)
+map <Plug>(easymotion-prefix)j <Plug>(easymotion-sol-j)
+map <Plug>(easymotion-prefix)J <Plug>(easymotion-j)
+map <Plug>(easymotion-prefix)k <Plug>(easymotion-sol-k)
+map <Plug>(easymotion-prefix)K <Plug>(easymotion-k)
+map <Plug>(easymotion-prefix)h <Plug>(easymotion-linebackward)
+map <Plug>(easymotion-prefix)a <Plug>(easymotion-jumptoanywhere)
+map <Plug>(easymotion-prefix)s <Plug>(easymotion-s)
+map <Plug>(easymotion-prefix)S <Plug>(easymotion-sln)
+map ? <Plug>(easymotion-sn)
+omap ? <Plug>(easymotion-sn)
+
+" Buffers
+nmap <space><Tab> :action GoToLastTab<CR>
+nmap <space>bf :action ReformatCode<CR>
+map <space>bd :action CloseEditor<CR>
+map <space>bx :action CloseAllEditorsButActive<CR>
+map <space>bX :action CloseAllEditors<CR>
+map <space>bh :action SplitHorizontally<CR>
+map <space>bv :action SplitVertically<CR>
+map <space>bw :action ToggleReadOnlyAttribute<CR>
+
+map <leader>z :action PreviousTab<CR>
+map <leader>x :action NextTab<CR>
+map <leader>c :action CloseEditor<CR>
+map <leader>b :action Switcher<CR>
+map <leader>h :action SplitHorizontally<CR>
+map <leader>v :action SplitVertically<CR>
+
+" Actions
+nmap <space>aa :action ShowContextActions<CR>
+nmap <space>au :action $Undo<CR>
+nmap <space>ar :action $Redo<CR>
+nmap <space>ax :action $Copy<CR>
+nmap <space>ac :action $Cut<CR>
+nmap <space>av :action $Paste<CR>
+nmap <space>as :action $SelectAll<CR>
+
+" GIT
+nmap <space>gs :action ActivateCommitToolWindow<CR>
+nmap <space>gc :action ActivateCommitToolWindow<CR>
+nmap <space>gb :action Git.Branches<CR>
+nmap <space>ga :action Git.Add<CR>
+nmap <space>gp :action Vcs.Push<CR>
+nmap <space>gP :action Git.Pull<CR>
+nmap <space>gf :action Git.Fetch<CR>
+nmap <space>gd :action Git.CompareWithBranch <CR>
+nmap <space>gS :action Git.Stage.Add<CR>
+nmap <space>gU :action Git.Stage.Revert<CR>
+nmap <space>gv :action Vcs.ShowTabbedFileHistory<CR>
+nmap <space>gV :action Git.Log<CR>
+
+" Search
+nmap <space>ss :action GotoSymbol<CR>
+nmap <space>sa :action GotoAction<CR>
+nmap <space>sf :action GotoFile<CR>
+nmap <space>sh :action RecentFiles<CR>
+nmap <space>sH :action RecentLocations<CR>
+nmap <space>sc :action GotoClass<CR>
+nmap <space>sb :action Switcher<CR>
+nmap <space>s. :action SearchEverywhere<CR>
+nmap <space>so :action FileStructurePopup<CR>
+
+map <C-p> <Esc>:action GotoFile<CR>
+
+" View
+nmap <space>ve :action ActivateErrorsInSolutionToolWindow<CR>
+nmap <space>vp :action ActivateProjectToolWindow<CR>
+nmap <space>vo :action ActivateStructureToolWindow<CR>
+nmap <space>vt :action ActivateUnitTestsToolWindow<CR>
+nmap <space>vT :action ActivateUnitTestsCoverageToolWindow
+nmap <space>vc :action ActivateTerminalToolWindow<CR>
+
+" Development
+nmap <space>d. :action ToggleLineBreakpoint<CR>
+nmap <space>db :action BuildSolutionAction<CR>
+nmap <space>dB :action RebuildSolutionAction<CR>
+nmap <space>du :action FindUsages<CR>
+nmap <space>di :action GotoImplementation<CR>
+nmap <space>dl :action GotoTypeDeclaration<CR>
+nmap <space>dr :action RenameElement<CR>
+nmap <space>dR :action Refactorings.QuickListPopupAction<CR>
+nmap <space>dd :action GotoDeclaration<CR>
+nmap <space>dd :action GotoDeclaration<CR>
+nmap <space>dx :action ChooseRunConfiguration<CR>
+nmap <space>dX :action ChooseDebugConfiguration<CR>
+
+" Test
+nmap <space>t. :action RiderUnitTestQuickListPopupAction<CR>
+nmap <space>tt :action RiderUnitTestRunSolutionAction<CR>
+nmap <space>td :action RiderUnitTestDebugContextAction<CR>
+nmap <space>tr :action RiderUnitTestRepeatPreviousRunAction<CR>
+
+" Commentary workaround
+nmap gcc :action CommentByLineComment<CR>
+vmap gc :action CommentByLineComment<CR>
+

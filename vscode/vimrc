@@ -1,0 +1,1 @@
+nremap <C-s> <Esc>:w<CR>

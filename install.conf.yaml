@@ -14,6 +14,7 @@
       description: LYRD for Neovim from repository
       url: "https://github.com/diegoortizmatajira/LYRD" 
       method: clone
+
     'external/kitty-themes':
       description: Themes for Kitty from repository
       url: "https://github.com/dexpota/kitty-themes.git"
@@ -31,6 +32,17 @@
     ~/.config/kitty/kitty.conf: kitty/kitty.conf
     ~/.config/kitty/theme.conf: external/kitty-themes/themes/Monokai_Pro.conf
 
+    # visual studio 
+    ~/.vsvimrc: vs/vimrc
+
+    # visual studio code
+    ~/.vscode_vimrc: vscode/vimrc
+
+    # Jetbrains IDE
+    ~/.ideavimrc: jetbrains/vimrc
+
+    # Zsh config files
+    ~/.zshrc: zsh/zshrc
 
 - create:
   - ~/Development/Personal
