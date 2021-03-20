@@ -1,22 +1,33 @@
 - defaults:
     link:
       relink: true
+      create: true
+      force: true
 
 - clean: ['~']
 
-- link:
-    ~/.config/i3/config: 
-      path: i3/config
-      create: true
-      force: true
-    ~/.config/nvim/init.vim:
-      path: nvim/init.vim
-      create: true
-      force: true
-    ~/.config/nvim/LYRD: 
-      path: LYRD
-      create: true
-      force: true
+- shell:
+  - 
+    description: Installing LYRD for Neovim from repository
+    command: |
+      if [! -d .external/LYRD ] ; then 
+        git clone "https://github.com/diegoortizmatajira/LYRD" ./external/LYRD 
+      fi
+    quiet: true
 
+- link:
+    ~/.config/i3/config: i3/config
+
+    ~/.config/nvim/init.vim: nvim/init.vim
+    ~/.config/nvim/LYRD: external/LYRD
+
+- create:
+  - ~/Development/Personal
+  - ~/Development/Sandbox
+  - ~/Downloads/Torrents - Completed
+  - ~/Downloads/Torrents - In Process
+  - ~/Downloads/Books
+  - ~/Downloads/Temporal
+    
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
