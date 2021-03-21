@@ -146,7 +146,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 # exit i3 (logs you out of your X session)
-bindsym $mod+Delete exec --no-startup-id qdbus org.kde.ksmserver /KSMServer org.kde.KSMServerInterface.logout -1 -1 -1
+bindsym $mod+Delete exec --no-startup-id ~/.local/bin/custom-askpoweroptions
 
 
 # resize window (you can also use the mouse for that)
@@ -199,16 +199,6 @@ mode "Move Workspace" {
 
 bindsym $mod+w mode "Move Workspace"
 
-bar {
-    status_command ~/.config/polybar/launch.sh
-    # status_command i3status
-    mode hide
-    height 24
-    colors {
-      background #242424
-    }
-}
-
 #Gaps
 gaps inner 6
 gaps outer 0
@@ -233,18 +223,17 @@ for_window [class="Kmix"] floating enable; border none
 for_window [class="Klipper"] floating enable; border none
 for_window [class="Plasmoidviewer"] floating enable; border none
 for_window [class="(?i)*nextcloud*"] floating disable
-# assign [class="plasmashell" window_type="notification"] output primary
-for_window [class="plasmashell" window_type="notification"] border none, move right 700px, move down 450px
-no_focus [class="plasmashell" window_type="notification"]
-for_window [title="Desktop — Plasma"] floating enable, border none, kill 
+for_window [title="Desktop — Plasma"] floating enable; border none; kill 
 for_window [title="Welcome to JetBrains Rider"] floating enable; border none
-# exec autorandr --change
 
-# Notifications
-exec --no-startup-id dunst
-
+# Sets display profile
+exec_always --no-startup-id autorandr --change
 # Launch Display Compositor
 exec --no-startup-id picom -bc
-
+# Notifications
+exec --no-startup-id dunst
 # Launch Background drawing
 exec_always --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*
+
+exec_always --no-startup-id ~/.config/polybar/launch.sh
+

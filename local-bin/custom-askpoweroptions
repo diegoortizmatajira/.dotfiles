@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+rofi -show power-menu -modi power-menu:~/.local/bin/rofi-power-menu -lines 6 -width 20
