@@ -60,7 +60,7 @@ font-3 = Font Awesome 5 Free:pixelsize=12;2
 font-4 = Font Awesome 5 Free Solid:pixelsize=12;2
 font-5 = Font Awesome 5 Brands:pixelsize=12;2
 
-modules-left = bspwm i3
+modules-left = i3
 modules-center = 
 modules-right = date 
 
@@ -86,7 +86,7 @@ inherit = generic-bar
 
 modules-left = i3
 modules-center = 
-modules-right = alsa xkeyboard wlan eth battery date powermenu
+modules-right = alsa xkeyboard wlan eth nordvpn battery date powerbutton
 
 tray-position = right
 tray-padding = 2
@@ -434,6 +434,22 @@ menu-0-0 =  reboot
 menu-0-0-exec = systemctl reboot
 menu-0-1 =  power off
 menu-0-1-exec = systemctl poweroff
+
+[module/nordvpn]
+type = custom/script
+exec = nordvpn status | grep "Country" | cut -d ":" -f2 && echo ""
+interval = 30
+format-prefix = ""
+format-prefix-foreground = ${colors.foreground-alt}
+format-underline = #1a7c1b
+
+[module/powerbutton]
+type = custom/script
+exec = echo " Power "
+interval = 3600
+click-left = "~/.local/bin/custom-askpoweroptions &"
+format = ""
+format-foreground = #ff0000 
 
 [settings]
 screenchange-reload = true

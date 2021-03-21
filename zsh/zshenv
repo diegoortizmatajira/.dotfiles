@@ -1,0 +1,7 @@
+export GOPATH=/home/diegoortizmatajira/go
+export GOPRIVATE="https://gitlab.com/diegoortizmatajira,https://gitlab.com/get-software,$GOPRIVATE"
+
+export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:/opt/brew/bin
+export PATH=$PATH:~/.dotnet/tools
+export PATH=$PATH:~/.local/bin

@@ -92,14 +92,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
 alias dng="WINEPREFIX=~/.PlayOnLinux/wineprefix/adobe_dng/ ~/.PlayOnLinux/wine/linux-amd64/5.0.1/bin/wine ~/.PlayOnLinux/wineprefix/adobe_dng/drive_c/Program\ Files/Adobe/Adobe\ DNG\ Converter/Adobe\ DNG\ Converter.exe"
 alias vi=nvim
 alias vide="VIMASIDE=true nvim"
-export GOPATH=/home/diegoortizmatajira/go
-export PATH=$PATH:$GOPATH/bin
-export PATH=$PATH:/opt/brew/bin
-export PATH=$PATH:~/.dotnet/tools
-export PATH=$PATH:~/.local/bin
-export GOPRIVATE="https://gitlab.com/diegoortizmatajira,https://gitlab.com/get-software,$GOPRIVATE"
-export FREETYPE_PROPERTIES="truetype:interpreter-version=35"
-export EDITOR=vi

@@ -60,9 +60,9 @@
 
     # Zsh config files
     ~/.zshrc: zsh/zshrc
-
-    # Profile
-    ~/.profile: profile/.profile
+    ~/.zprofile: zsh/zprofile
+    ~/.zshenv: zsh/zshenv
+    ~/.oh-my-zsh/custom/themes/agnoster-jimlaptop.zsh-theme: zsh/themes/agnoster-jimlaptop.zsh-theme
 
     # PowerMenu
     ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
