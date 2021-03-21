@@ -31,6 +31,9 @@
     ~/.config/polybar/config: polybar/config
     ~/.config/polybar/launch.sh: polybar/launch.sh
 
+    # dunst config files
+    ~/.config/dunst/dunstrc: dunst/dunstrc
+
     # xsettings
     ~/.config/xsettingsd/xsettingsd.conf: xsettingsd/xsettingsd.conf
 
@@ -53,6 +56,9 @@
 
     # Zsh config files
     ~/.zshrc: zsh/zshrc
+
+    # Profile
+    ~/.profile: profile/.profile
 
 - create:
   - ~/Development/Personal
