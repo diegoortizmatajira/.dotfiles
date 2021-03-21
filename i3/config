@@ -200,7 +200,8 @@ mode "Move Workspace" {
 bindsym $mod+w mode "Move Workspace"
 
 bar {
-    status_command i3status
+    status_command ~/.config/polybar/launch.sh
+    # status_command i3status
     mode hide
     height 24
     colors {
@@ -238,6 +239,9 @@ no_focus [class="plasmashell" window_type="notification"]
 for_window [title="Desktop — Plasma"] floating enable, border none, kill 
 for_window [title="Welcome to JetBrains Rider"] floating enable; border none
 # exec autorandr --change
+
+# Notifications
+exec --no-startup-id dunst
 
 # Launch Display Compositor
 exec --no-startup-id picom -bc
