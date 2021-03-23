@@ -19,21 +19,24 @@
       description: Themes for Kitty from repository
       url: "https://github.com/dexpota/kitty-themes.git"
       method: clone-or-pull
+      
     'external/rofi-power-menu':
       description: Rofi power menu from repository
       url: "https://github.com/jluttine/rofi-power-menu"
       method: clone-or-pull
-
 - link:
     # i3 config files
     ~/.config/i3/config: i3/config
-
+    
     # picom config files
     ~/.config/picom/picom.conf: picom/picom.conf
 
     # polybar config files
     ~/.config/polybar/config: polybar/config
     ~/.config/polybar/launch.sh: polybar/launch.sh
+
+    # rofi config file
+    ~/.config/rofi/config.rasi: rofi/config.rasi
 
     # dunst config files
     ~/.config/dunst/dunstrc: dunst/dunstrc
@@ -64,11 +67,13 @@
     ~/.zshenv: zsh/zshenv
     ~/.oh-my-zsh/custom/themes/agnoster-jimlaptop.zsh-theme: zsh/themes/agnoster-jimlaptop.zsh-theme
 
-    # PowerMenu
+    # Rofi Commands
     ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
     
     # Custom commands
     ~/.local/bin/custom-askpoweroptions: local-bin/custom-askpoweroptions
+    ~/.local/bin/custom-i3exit: local-bin/custom-i3exit
+    ~/.local/bin/custom-lock: local-bin/custom-lock
 
 - create:
   - ~/Development/Personal
