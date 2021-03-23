@@ -217,6 +217,8 @@ for_window [class="Plasmoidviewer"] floating enable; border none
 for_window [class="(?i)*nextcloud*"] floating disable
 for_window [title="Desktop — Plasma"] floating enable; border none; kill 
 for_window [title="Welcome to JetBrains Rider"] floating enable; border none
+for_window [class="Blueman-services"] floating enable; border none
+for_window [class="Nm-connection-editor"] floating enable; border none
 
 # xss-lock grabs a logind suspend inhibit lock and will use custom-lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
