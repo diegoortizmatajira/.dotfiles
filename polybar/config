@@ -27,6 +27,15 @@ primary-pale = #aa7c25
 secondary = #e60053
 alert = #bd2c40
 traybackground = #c09e9e9e
+material-00 = #388e3c
+material-01 = #0288D1
+material-02 = #3F51B5
+material-03 = #9C27B0
+material-04 = #E91E63
+material-05 = #F44336
+material-06 = #FF5722
+material-07 = #FF9800
+material-08 = #FFEB3B
 
 [generic-bar]
 monitor = ${env:MONITOR:}
@@ -91,15 +100,13 @@ blacklist-0 = num lock
 
 format-prefix = "  "
 format-prefix-foreground = ${colors.foreground-alt}
-format-prefix-underline = ${colors.secondary}
+format-underline = ${colors.material-01}
 
 label-layout = %layout%
-label-layout-underline = ${colors.secondary}
 
 label-indicator-padding = 2
 label-indicator-margin = 1
 label-indicator-background = ${colors.secondary}
-label-indicator-underline = ${colors.secondary}
 
 [module/filesystem]
 type = internal/fs
@@ -242,7 +249,7 @@ interval = 3.0
 format-connected-prefix = "  "
 format-connected-prefix-foreground = ${colors.foreground-alt}
 format-connected = <label-connected> 
-format-connected-underline = #9f78e1
+format-connected-underline = ${colors.material-02}
 label-connected = %signal%%
 
 format-disconnected =
@@ -263,11 +270,10 @@ type = internal/network
 interface = enp2s0
 interval = 3.0
 
-format-connected-underline = #55aa55
+format-connected-underline = ${colors.material-03}
 format-connected-prefix = "  "
 format-connected-prefix-foreground = ${colors.foreground-alt}
-format-connected = "<label-connected>"
-label-connected = %local_ip%
+format-connected = "Online"
 
 format-disconnected =
 ;format-disconnected = <label-disconnected>
@@ -287,29 +293,14 @@ time-alt = %l:%M:%S %p
 
 format-prefix = "  "  
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #0a6cf5
+format-underline = ${colors.material-06}
 
 label = %date% %time%
 
 [module/pulseaudio]
 type = internal/pulseaudio
 
-format-volume-underline = #15c1c4
-format-volume-prefix = "  "
-format-volume-prefix-foreground = ${colors.foreground-alt}
-format-volume = <label-volume>
-label-volume = %percentage%%
-label-volume-foreground = ${root.foreground}
-
-format-muted-prefix = "  "
-format-muted-foreground = ${colors.foreground-alt}
-label-muted = " Muted "
-label-muted-foreground = ${root.foreground}
-
-[module/alsa]
-type = internal/alsa
-
-format-volume-underline = #15c1c4
+format-volume-underline = ${colors.material-00} 
 format-volume-prefix = "  "
 format-volume-prefix-foreground = ${colors.foreground-alt}
 format-volume = <label-volume>
@@ -330,7 +321,7 @@ full-at = 98
 format-charging-prefix = "  "
 format-charging = <animation-charging> <label-charging>
 format-charging-prefix-foreground = ${colors.foreground-alt}
-format-charging-underline = #ffb52a
+format-charging-underline = ${colors.material-05}
 
 format-discharging-prefix = 
 format-discharging = <animation-discharging> <label-discharging>
@@ -386,7 +377,7 @@ exec = nordvpn status | grep "Country" | cut -d ":" -f2 && echo ""
 interval = 30
 format-prefix = "  "
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #7c4dff
+format-underline = ${colors.material-04}
 
 [module/powerbutton]
 type = custom/script
