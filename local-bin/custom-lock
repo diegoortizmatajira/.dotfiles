@@ -1,23 +1,40 @@
 #!/bin/sh
 
-T='#3F51B5' # text
+T='#FFEB3B' # text
+R='#607D8B' # Ring
+L='#757575' # Keyboard Layout
+F='SF Pro Display'
 
 IMAGE=/tmp/lockscreen.png
 TEXT=/tmp/locktext.png
 scrot $IMAGE
 convert $IMAGE -blur 0x5 -fill black -colorize 25% $IMAGE
 [ -f $TEXT ] || {
-    convert -size 3000x60 xc:white -font Liberation-Sans -pointsize 26 -fill black -gravity center -annotate +0+0 'Type password to unlock' $TEXT
+    convert -size 3000x60 xc:white -font $F -pointsize 24 -fill black -gravity center -annotate +0+0 'Type password to unlock' $TEXT
     convert $TEXT -alpha set -channel A -evaluate set 50% $TEXT
 }
 convert $IMAGE $TEXT -gravity center -geometry +0+200 -composite $IMAGE
 
 i3lock \
+    --time-font=$F \
+    --date-font=$F \
+    --verif-font=$F \
+    --verifsize=20 \
+    --wrong-font=$F \
+    --wrongsize=20\
+    --greeter-font=$F \
+    --greetersize=20 \
+    --pass-screen-keys \
+    --pass-volume-keys \
+    --indicator \
     --clock \
     --timecolor=$T \
     --timestr="%H:%M" \
     --datecolor=$T \
-    --datestr="%A, %m %Y" \
+    --datestr="%a, %e %b %Y" \
+    --ringcolor=$R \
+    --layoutcolor=$L \
+    --keylayout=0 \
     -i $IMAGE
 
 rm $IMAGE
