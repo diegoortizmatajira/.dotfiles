@@ -31,6 +31,10 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec i3-sensible-terminal
 
+# start a file explorer
+bindsym $mod+e exec thunar 
+
+
 # kill focused window
 bindsym $mod+Shift+q kill
 bindsym $alt+F4 kill
@@ -220,8 +224,7 @@ for_window [title="Welcome to JetBrains Rider"] floating enable; border none
 for_window [class="Blueman-services"] floating enable; border none
 for_window [class="Nm-connection-editor"] floating enable; border none
 
-# xss-lock grabs a logind suspend inhibit lock and will use custom-lock to lock the
-# screen before suspend. Use loginctl lock-session to lock your screen.
+exec --no-startup_id xset 300 600
 exec --no-startup-id xss-lock --transfer-sleep-lock -- custom-lock --nofork
 # Startup applications
 exec --no-startup-id picom -bc
