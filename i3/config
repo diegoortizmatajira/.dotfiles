@@ -108,6 +108,10 @@ set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
 
+workspace $ws1 output $display1 $display2 $display3
+workspace $ws2 output $display2 $display3
+workspace $ws3 output $display3
+
 # switch to workspace
 bindsym $mod+1 workspace number $ws1
 bindsym $mod+2 workspace number $ws2
@@ -224,7 +228,7 @@ for_window [title="Welcome to JetBrains Rider"] floating enable; border none
 for_window [class="Blueman-services"] floating enable; border none
 for_window [class="Nm-connection-editor"] floating enable; border none
 
-exec --no-startup_id xset 300 600
+exec --no-startup_id xset s 300 600
 exec --no-startup-id xss-lock --transfer-sleep-lock -- custom-lock --nofork
 # Startup applications
 exec --no-startup-id picom -bc
@@ -238,4 +242,8 @@ exec --no-startup-id barrier
 exec_always --no-startup-id autorandr --change
 exec_always --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*
 exec_always --no-startup-id ~/.config/polybar/launch.sh
+
+# Dropdown terminal
+exec_always --no-startup-id kitti3 -p top 
+bindsym $mod+Shift+Return nop kitti3
 
