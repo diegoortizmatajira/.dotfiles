@@ -43,6 +43,7 @@ bindsym $alt+F4 kill
 # bindcode 133 --release exec "qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.activateLauncherMenu"
 
 # start rofi (a program launcher)
+bindcode 133 --release exec "rofi -show drun -show-icons"
 bindsym $mod+s exec "rofi -show drun -show-icons"
 bindsym $alt+Tab exec "rofi -show window -show-icons"
 
