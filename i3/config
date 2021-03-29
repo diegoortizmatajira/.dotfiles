@@ -46,6 +46,7 @@ bindsym $alt+F4 kill
 bindcode 133 --release exec "rofi -show drun -show-icons"
 bindsym $mod+s exec "rofi -show drun -show-icons"
 bindsym $alt+Tab exec "rofi -show window -show-icons"
+bindsym $mod+d exec --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*
 
 # change focus
 bindsym $alt+h focus left
