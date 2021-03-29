@@ -67,7 +67,7 @@ font-2 = Fira Code:style=Regular:pixelsize=20;2
 font-3 = Font Awesome 5 Free:pixelsize=12;2
 font-4 = Font Awesome 5 Free Solid:pixelsize=12;2
 font-5 = Font Awesome 5 Brands:pixelsize=12;2
-font-6 = Fira Code:style=Regular:pixelsize=10;2
+font-6 = JetBrainsMono Nerd Font:style=Regular:pixelsize=10;2
 
 modules-left = i3 xwindow
 modules-center =  
