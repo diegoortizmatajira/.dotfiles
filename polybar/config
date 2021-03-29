@@ -67,9 +67,10 @@ font-2 = Fira Code:style=Regular:pixelsize=20;2
 font-3 = Font Awesome 5 Free:pixelsize=12;2
 font-4 = Font Awesome 5 Free Solid:pixelsize=12;2
 font-5 = Font Awesome 5 Brands:pixelsize=12;2
+font-6 = Fira Code:style=Regular:pixelsize=10;2
 
-modules-left = i3
-modules-center = 
+modules-left = i3 xwindow
+modules-center =  
 modules-right = date 
 
 cursor-click = pointer
@@ -81,8 +82,6 @@ inherit = generic-bar
 [bar/primary-bar]
 inherit = generic-bar
 
-modules-left = i3
-modules-center = 
 modules-right = pulseaudio xkeyboard wlan eth nordvpn battery date powerbutton
 
 tray-position = right
@@ -93,6 +92,9 @@ tray-background = ${colors.traybackground}
 [module/xwindow]
 type = internal/xwindow
 label = %title:0:30:...%
+label-font = 7
+format-prefix = "  "
+format-prefix-foreground = ${colors.foreground-alt}
 
 [module/xkeyboard]
 type = internal/xkeyboard

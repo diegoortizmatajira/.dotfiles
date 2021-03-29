@@ -24,6 +24,7 @@
       description: Rofi power menu from repository
       url: "https://github.com/jluttine/rofi-power-menu"
       method: clone-or-pull
+
 - link:
     # i3 config files
     ~/.config/i3/config: i3/config
@@ -50,7 +51,7 @@
 
     # kitty config files
     ~/.config/kitty/kitty.conf: kitty/kitty.conf
-    ~/.config/kitty/theme.conf: external/kitty-themes/themes/Monokai_Pro.conf
+    ~/.config/kitty/theme.conf: external/kitty-themes/themes/Apprentice.conf
 
     # visual studio 
     ~/.vsvimrc: vs/vimrc
