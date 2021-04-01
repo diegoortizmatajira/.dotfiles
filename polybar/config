@@ -61,7 +61,7 @@ padding-right = 3
 module-margin-left = 2
 module-margin-right = 1
 
-font-0 = SF Pro Display:pixelsize=10;1
+font-0 = SF Pro Display:pixelsize=9;1
 font-1 = unifont:fontformat=truetype:size=14:antialias=false;2
 font-2 = Fira Code:style=Regular:pixelsize=20;2
 font-3 = Font Awesome 5 Free:pixelsize=12;2
@@ -82,7 +82,7 @@ inherit = generic-bar
 [bar/primary-bar]
 inherit = generic-bar
 
-modules-right = pulseaudio xkeyboard wlan eth nordvpn battery date powerbutton
+modules-right = xkeyboard pulseaudio wlan eth nordvpn battery date powerbutton
 
 tray-position = right
 tray-padding = 2
@@ -102,7 +102,7 @@ blacklist-0 = num lock
 
 format-prefix = "  "
 format-prefix-foreground = ${colors.foreground-alt}
-format-underline = ${colors.material-01}
+format-underline = ${colors.material-00}
 
 label-layout = %layout%
 
@@ -302,7 +302,7 @@ label = %date% %time%
 [module/pulseaudio]
 type = internal/pulseaudio
 
-format-volume-underline = ${colors.material-00} 
+format-volume-underline = ${colors.material-01} 
 format-volume-prefix = "  "
 format-volume-prefix-foreground = ${colors.foreground-alt}
 format-volume = <label-volume>
@@ -382,12 +382,10 @@ format-prefix-foreground = ${colors.foreground-alt}
 format-underline = ${colors.material-04}
 
 [module/powerbutton]
-type = custom/script
-exec = echo " Power "
-interval = 3600
+type = custom/text
 click-left = "~/.local/bin/custom-askpoweroptions &"
-format = "  "
-format-foreground = #ff0000 
+content = "  "
+content-foreground = #ff0000 
 
 [settings]
 screenchange-reload = true

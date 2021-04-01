@@ -34,6 +34,10 @@ bindsym $mod+Return exec i3-sensible-terminal
 # start a file explorer
 bindsym $mod+e exec thunar 
 
+# capture screen 
+bindsym Print exec flameshot screen -c
+bindsym Shift+Print exec flameshot full -c
+bindsym $mod+Shift+Print exec flameshot gui
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -229,6 +233,7 @@ for_window [title="Desktop — Plasma"] floating enable; border none; kill
 for_window [title="Welcome to JetBrains Rider"] floating enable; border none
 for_window [class="Blueman-services"] floating enable; border none
 for_window [class="Nm-connection-editor"] floating enable; border none
+for_window [class="File-roller"] floating enable; border none
 
 exec --no-startup_id xset s 300 600
 exec --no-startup-id xss-lock --transfer-sleep-lock -- custom-lock --nofork
