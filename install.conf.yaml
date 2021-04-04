@@ -83,6 +83,7 @@
     ~/.local/bin/layout-docked: local-bin/layout-docked.sh
     ~/.local/bin/layout-undocked: local-bin/layout-undocked.sh
     ~/.local/bin/layout-tv: local-bin/layout-tv.sh
+    ~/.local/bin/layout-selector: local-bin/layout-selector.sh
 
 - create:
   - ~/Development/Personal
@@ -93,6 +94,10 @@
   - ~/Downloads/Temporal
     
 - sudo:
+  - create:
+    - /etc/systemd/logind.conf.d
+
   - link:
       /etc/X11/xorg.conf.d/90-touchpad.conf: xorg.conf.d/90-touchpad.conf
+      /etc/systemd/logind.conf.d/custom.conf: systemd/logind.conf
 

@@ -34,6 +34,10 @@ bindsym $mod+Return exec i3-sensible-terminal
 # start a file explorer
 bindsym $mod+e exec thunar 
 
+# launch screen layout selector
+bindsym $mod+p exec layout-selector 
+
+
 # capture screen 
 bindsym Print exec flameshot screen -c
 bindsym Shift+Print exec flameshot full -c
@@ -237,7 +241,7 @@ for_window [class="File-roller"] floating enable; border none
 for_window [class="Google-chrome"] floating disable
 
 exec --no-startup_id xset s 300 600
-exec --no-startup-id xss-lock --transfer-sleep-lock custom-lock
+exec --no-startup-id xss-lock --transfer-sleep-lock -- custom-lock
 # Startup applications
 exec --no-startup-id picom -bc
 exec --no-startup-id dunst
