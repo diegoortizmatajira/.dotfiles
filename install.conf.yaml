@@ -45,6 +45,9 @@
     # xsettings
     ~/.config/xsettingsd/xsettingsd.conf: xsettingsd/xsettingsd.conf
 
+    # fonts config
+    ~/.config/fontconfig/fonts.conf: fontconfig/fonts.conf
+
     # Neovim config files and setup
     ~/.config/nvim/init.vim: nvim/init.vim
     ~/.config/nvim/LYRD: external/LYRD
@@ -79,6 +82,7 @@
     ~/.local/bin/plex-stop: local-bin/plex-stop
     ~/.local/bin/layout-docked: local-bin/layout-docked.sh
     ~/.local/bin/layout-undocked: local-bin/layout-undocked.sh
+    ~/.local/bin/layout-tv: local-bin/layout-tv.sh
 
 - create:
   - ~/Development/Personal

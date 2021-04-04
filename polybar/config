@@ -69,7 +69,7 @@ font-4 = Font Awesome 5 Free Solid:pixelsize=12;2
 font-5 = Font Awesome 5 Brands:pixelsize=12;2
 font-6 = JetBrainsMono Nerd Font:style=Regular:pixelsize=10;2
 
-modules-left = i3 xwindow
+modules-left = i3 
 modules-center =  
 modules-right = date 
 
@@ -82,6 +82,7 @@ inherit = generic-bar
 [bar/primary-bar]
 inherit = generic-bar
 
+modules-left = i3 xwindow
 modules-right = xkeyboard pulseaudio wlan eth nordvpn battery date powerbutton
 
 tray-position = right
