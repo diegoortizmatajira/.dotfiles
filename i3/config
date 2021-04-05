@@ -249,6 +249,7 @@ exec --no-startup-id /usr/lib/kdeconnectd
 exec --no-startup-id nm-applet
 exec --no-startup-id blueman-applet
 exec --no-startup-id barrier 
+exec --no-startup-id sleep 3 && xfce4-power-manager
 
 # UI Applications that need to be launched on i3 reloading
 exec_always --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*
