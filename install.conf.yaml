@@ -82,6 +82,8 @@
     ~/.local/bin/plex-stop: local-bin/plex-stop
     ~/.local/bin/layout-docked: local-bin/layout-docked.sh
     ~/.local/bin/layout-undocked: local-bin/layout-undocked.sh
+    ~/.local/bin/layout-partially-docked-1: local-bin/layout-partially-docked-1.sh
+    ~/.local/bin/layout-partially-docked-2: local-bin/layout-partially-docked-2.sh
     ~/.local/bin/layout-tv: local-bin/layout-tv.sh
     ~/.local/bin/layout-selector: local-bin/layout-selector.sh
 

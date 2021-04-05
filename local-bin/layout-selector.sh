@@ -2,19 +2,19 @@
 TITLES=()
 COMMANDS=()
 
-TITLES[0]="Fully Docked (HDMI+VGA+Int.)"
+TITLES[0]="Fully Docked (HDMI+VGA+Laptop)"
 COMMANDS[0]="layout-docked"
 
-TITLES[1]="Undocked"
+TITLES[1]="Undocked (Only Laptop)"
 COMMANDS[1]="layout-undocked"
 
-TITLES[2]="Parcially Docked (HDMI+Int.)"
+TITLES[2]="Partially Docked (HDMI+Laptop)"
 COMMANDS[2]="layout-partially-docked-1"
 
-TITLES[3]="Parcially Docked (VGA+Int.)"
+TITLES[3]="Partially Docked (VGA+Laptop)"
 COMMANDS[3]="layout-partially-docked-2"
 
-TITLES[4]="TV Plugged (TV+Int.)"
+TITLES[4]="TV Plugged (TV+Laptop)"
 COMMANDS[4]="layout-tv"
 
 TITLES[5]="Manual setup"
