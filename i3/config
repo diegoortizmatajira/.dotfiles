@@ -37,7 +37,6 @@ bindsym $mod+e exec thunar
 # launch screen layout selector
 bindsym $mod+p exec layout-selector 
 
-
 # capture screen 
 bindsym Print exec flameshot screen -c
 bindsym Shift+Print exec flameshot full -c
@@ -46,9 +45,6 @@ bindsym $mod+Shift+Print exec flameshot gui
 # kill focused window
 bindsym $mod+Shift+q kill
 bindsym $alt+F4 kill
-
-# Opens the Plasna application menu with META/WIN
-# bindcode 133 --release exec "qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.activateLauncherMenu"
 
 # start rofi (a program launcher)
 bindcode 133 --release exec "rofi -show drun -show-icons"
@@ -198,11 +194,18 @@ bindsym $mod+r mode "Resize"
 
 # Move workspace mode allows to move the entire workspace to anoter display
 mode "Move Workspace" {
+        bindsym k move workspace to output up
+        bindsym j move workspace to output down
+        bindsym h move workspace to output left
+        bindsym l move workspace to output right
+        
         bindsym Up move workspace to output up
         bindsym Down move workspace to output down
         bindsym Left move workspace to output left
         bindsym Right move workspace to output right
+
         bindsym space move workspace to output primary
+
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
@@ -239,17 +242,18 @@ for_window [class="Blueman-services"] floating enable; border none
 for_window [class="Nm-connection-editor"] floating enable; border none
 for_window [class="File-roller"] floating enable; border none
 for_window [class="Google-chrome"] floating disable
+for_window [class="Popcorn-Time"] floating disable
 
-exec --no-startup_id xset s 300 600
 exec --no-startup-id xss-lock --transfer-sleep-lock -- custom-lock
+
 # Startup applications
 exec --no-startup-id picom -bc
 exec --no-startup-id dunst
 exec --no-startup-id /usr/lib/kdeconnectd
 exec --no-startup-id nm-applet
 exec --no-startup-id blueman-applet
-exec --no-startup-id barrier 
 exec --no-startup-id sleep 3 && xfce4-power-manager
+exec --no-startup-id barrier 
 
 # UI Applications that need to be launched on i3 reloading
 exec_always --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*

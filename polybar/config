@@ -26,7 +26,9 @@ primary = #ffb52a
 primary-pale = #aa7c25
 secondary = #e60053
 alert = #bd2c40
-traybackground = #c09e9e9e
+#c09e9e9e
+material-fg-light = #ffffff
+material-fg-dark = #555555
 material-00 = #388e3c
 material-01 = #0288D1
 material-02 = #3F51B5
@@ -35,15 +37,22 @@ material-04 = #E91E63
 material-05 = #F44336
 material-06 = #FF5722
 material-07 = #FF9800
-material-08 = #FFEB3B
+material-08 = #FBC02D
+material-00-light = #C8E6C9
+material-01-light = #B3E5FC
+material-02-light = #C5CAE9
+material-03-light = #E1BEE7
+material-04-light = #F8BBD0
+material-05-light = #FFCDD2
+material-06-light = #FFCCBC
+material-07-light = #FFE0B2
+material-08-light = #FFF9C4
+traybackground = ${self.material-07-light}
 
 [generic-bar]
 monitor = ${env:MONITOR:}
 width = 100%
 height = 27
-;offset-x = 1%
-;offset-y = 1%
-radius = 3.0
 fixed-center = true
 
 background = ${colors.background}
@@ -56,10 +65,10 @@ border-size = 0
 border-color = #00000000
 
 padding-left = 0
-padding-right = 3
+padding-right = 0
 
-module-margin-left = 2
-module-margin-right = 1
+module-margin-left = 0
+module-margin-right = 0
 
 font-0 = SF Pro Display:pixelsize=9;1
 font-1 = unifont:fontformat=truetype:size=14:antialias=false;2
@@ -70,7 +79,7 @@ font-5 = Font Awesome 5 Brands:pixelsize=12;2
 font-6 = JetBrainsMono Nerd Font:style=Regular:pixelsize=10;2
 
 modules-left = i3 
-modules-center =  
+modules-center = 
 modules-right = date 
 
 cursor-click = pointer
@@ -89,59 +98,6 @@ tray-position = right
 tray-padding = 2
 tray-maxsize = 16
 tray-background = ${colors.traybackground}
-
-[module/xwindow]
-type = internal/xwindow
-label = %title:0:30:...%
-label-font = 7
-format-prefix = "  "
-format-prefix-foreground = ${colors.foreground-alt}
-
-[module/xkeyboard]
-type = internal/xkeyboard
-blacklist-0 = num lock
-
-format-prefix = "  "
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = ${colors.material-00}
-
-label-layout = %layout%
-
-label-indicator-padding = 2
-label-indicator-margin = 1
-label-indicator-background = ${colors.secondary}
-
-[module/filesystem]
-type = internal/fs
-interval = 25
-
-mount-0 = /
-
-label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
-label-unmounted = %mountpoint% not mounted
-label-unmounted-foreground = ${colors.foreground-alt}
-
-[module/bspwm]
-type = internal/bspwm
-
-label-focused = %index%
-label-focused-background = ${colors.background-alt}
-label-focused-underline= ${colors.primary}
-label-focused-padding = 2
-
-label-occupied = %index%
-label-occupied-padding = 2
-
-label-urgent = %index%!
-label-urgent-background = ${colors.alert}
-label-urgent-padding = 2
-
-label-empty = %index%
-label-empty-foreground = ${colors.foreground-alt}
-label-empty-padding = 2
-
-; Separator in between workspaces
-; label-separator = |
 
 [module/i3]
 type = internal/i3
@@ -185,135 +141,93 @@ label-urgent-padding = 2
 
 strip-wsnumbers = true
 
+[module/xkeyboard]
+type = internal/xkeyboard
+blacklist-0 = num lock
 
-[module/mpd]
-type = internal/mpd
-format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
+format-prefix = "  "
+format-prefix-foreground = ${colors.material-fg-light}
+format-prefix-background = ${colors.material-00}
+format-prefix-padding = 2
+format-underline = ${colors.material-00}
 
-icon-play = ⏵
-icon-pause = ⏸
-icon-stop = ⏹
-icon-prev = ⏮
-icon-next = ⏭
-icon-seekb = ⏪
-icon-seekf = ⏩
-icon-random = 🔀
-icon-repeat = 🔁
-icon-repeatone = 🔂
-icon-single = 🔂
-icon-consume = ✀
+label-layout = %layout%
+label-layout-padding = 2
+label-layout-background = ${colors.material-00-light}
+label-layout-foreground = ${colors.material-fg-dark}
 
-label-song-maxlen = 25
-label-song-ellipsis = true
-
-[module/xbacklight]
-type = internal/xbacklight
-
-format = <label> <bar>
-label = BL
-
-bar-width = 10
-bar-indicator = |
-bar-indicator-foreground = #fff
-bar-indicator-font = 2
-bar-fill = ─
-bar-fill-font = 2
-bar-fill-foreground = #9f78e1
-bar-empty = ─
-bar-empty-font = 2
-bar-empty-foreground = ${colors.foreground-alt}
-
-[module/backlight-acpi]
-inherit = module/xbacklight
-type = internal/backlight
-card = intel_backlight
-
-[module/cpu]
-type = internal/cpu
-interval = 2
-format-prefix = " "
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #f90000
-label = %percentage:2%%
-
-[module/memory]
-type = internal/memory
-interval = 2
-format-prefix = " "
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #4bffdc
-label = %percentage_used%%
-
-[module/wlan]
-type = internal/network
-interface = wlan0
-interval = 3.0
-
-format-connected-prefix = "  "
-format-connected-prefix-foreground = ${colors.foreground-alt}
-format-connected = <label-connected> 
-format-connected-underline = ${colors.material-02}
-label-connected = %signal%%
-
-format-disconnected =
-;format-disconnected = <label-disconnected>
-;format-disconnected-underline = ${self.format-connected-underline}
-;label-disconnected = %ifname% disconnected
-;label-disconnected-foreground = ${colors.foreground-alt}
-
-ramp-signal-0 = 1
-ramp-signal-1 = 2
-ramp-signal-2 = 3
-ramp-signal-3 = 4
-ramp-signal-4 = 5
-ramp-signal-foreground = ${colors.foreground-alt}
-
-[module/eth]
-type = internal/network
-interface = enp2s0
-interval = 3.0
-
-format-connected-underline = ${colors.material-03}
-format-connected-prefix = "  "
-format-connected-prefix-foreground = ${colors.foreground-alt}
-format-connected = "Online"
-
-format-disconnected =
-;format-disconnected = <label-disconnected>
-;format-disconnected-underline = ${self.format-connected-underline}
-;label-disconnected = %ifname% disconnected
-;label-disconnected-foreground = ${colors.foreground-alt}
-
-[module/date]
-type = internal/date
-interval = 5
-
-date = %a
-date-alt = " %e-%b-%Y"
-
-time = %l:%M %p
-time-alt = %l:%M:%S %p
-
-format-prefix = "  "  
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = ${colors.material-06}
-
-label = %date% %time%
+label-indicator-padding = 2
+label-indicator-background = ${colors.material-00}
+label-indicator-foreground = ${colors.material-00-light}
 
 [module/pulseaudio]
 type = internal/pulseaudio
 
 format-volume-underline = ${colors.material-01} 
 format-volume-prefix = "  "
-format-volume-prefix-foreground = ${colors.foreground-alt}
+format-volume-prefix-foreground = ${colors.material-fg-light}
+format-volume-prefix-background = ${colors.material-01}
+format-volume-prefix-padding = 2
 format-volume = <label-volume>
 label-volume = %percentage%%
-label-volume-foreground = ${root.foreground}
+label-volume-padding = 2
+label-volume-background = ${colors.material-01-light}
+label-volume-foreground = ${colors.material-fg-dark}
 
 format-muted-prefix = "  "
 format-muted-foreground = ${colors.foreground-alt}
 label-muted = " Muted "
 label-muted-foreground = ${root.foreground}
+
+[module/wlan]
+type = internal/network
+interface = wlan0
+interval = 3.0
+
+format-connected-prefix = 
+format-connected-prefix-padding = 2
+format-connected-background = ${colors.material-02}
+format-connected-signal-foreground = ${colors.material-fg-light}
+
+label-connected = %signal%% 
+label-connected-padding = 2
+label-connected-background = ${colors.material-02-light}
+label-connected-foreground = ${colors.material-fg-dark}
+
+format-disconnected =
+ramp-signal-0 = 
+ramp-signal-1 = 
+ramp-signal-2 = 
+ramp-signal-3 = 
+ramp-signal-padding = 2
+ramp-signal-background = ${colors.material-02}
+ramp-signal-foreground = ${colors.material-fg-light}
+
+[module/eth]
+type = internal/network
+interface = enp2s0
+interval = 3.0
+
+format-connected = <label-connected> 
+label-connected = "  "
+label-connected-padding = 2
+label-connected-background = ${colors.material-03}
+label-connected-foreground = ${colors.material-fg-light}
+
+format-disconnected =
+
+[module/nordvpn]
+type = custom/script
+exec = nordvpn status | grep "Country" | cut -d ":" -f2 && echo ""
+interval = 30
+format-prefix = "  "
+format-prefix-foreground = ${colors.material-fg-light}
+format-prefix-background = ${colors.material-04}
+format-prefix-padding = 2
+format-underline = ${colors.material-04}
+label-padding = 2
+label-background = ${colors.material-04-light}
+label-foreground = ${colors.material-fg-dark}
 
 [module/battery]
 type = internal/battery
@@ -323,17 +237,32 @@ full-at = 98
 
 format-charging-prefix = "  "
 format-charging = <animation-charging> <label-charging>
-format-charging-prefix-foreground = ${colors.foreground-alt}
+format-charging-prefix-foreground = ${colors.material-fg-light}
+format-charging-prefix-background = ${colors.material-05}
+format-charging-prefix-padding = 2
 format-charging-underline = ${colors.material-05}
+label-charging-padding = 2
+label-charging-background = ${colors.material-05-light}
+label-charging-foreground = ${colors.material-fg-dark}
 
 format-discharging-prefix = 
 format-discharging = <animation-discharging> <label-discharging>
+format-discharging-prefix-foreground = ${colors.material-fg-light}
+format-discharging-prefix-background = ${colors.material-05}
+format-discharging-prefix-padding = 2
 format-discharging-underline = ${self.format-charging-underline}
-format-discharging-prefix-foreground = ${colors.foreground-alt}
+label-discharging-padding = 2
+label-discharging-background = ${colors.material-05-light}
+label-discharging-foreground = ${colors.material-fg-dark}
 
 format-full-prefix = "  "
-format-full-prefix-foreground = ${colors.foreground-alt}
+format-full-prefix-foreground = ${colors.material-fg-light}
+format-full-prefix-background = ${colors.material-05}
+format-full-prefix-padding = 2
 format-full-underline = ${self.format-charging-underline}
+label-full-padding = 2
+label-full-background = ${colors.material-05-light}
+label-full-foreground = ${colors.material-fg-dark}
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 
@@ -356,45 +285,37 @@ animation-discharging-4 = 
 animation-discharging-foreground = ${colors.foreground-alt}
 animation-discharging-framerate = 750
 
-[module/temperature]
-type = internal/temperature
-thermal-zone = 0
-warn-temperature = 60
+[module/date]
+type = internal/date
+interval = 5
 
-format = <ramp> <label>
-format-underline = #f50a4d
-format-warn = <ramp> <label-warn>
-format-warn-underline = ${self.format-underline}
+date = %a
+date-alt = " %e-%b-%Y"
 
-label = %temperature-c%
-label-warn = %temperature-c%
-label-warn-foreground = ${colors.secondary}
-ramp-0 = 
-ramp-1 = 
-ramp-2 = 
-ramp-foreground = ${colors.foreground-alt}
+time = %l:%M %p
+time-alt = %l:%M:%S %p
 
-[module/nordvpn]
-type = custom/script
-exec = nordvpn status | grep "Country" | cut -d ":" -f2 && echo ""
-interval = 30
-format-prefix = "  "
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = ${colors.material-04}
+format-prefix = "  "  
+format-prefix-foreground = ${colors.material-fg-light}
+format-prefix-background = ${colors.material-06}
+format-prefix-padding = 2
+format-underline = ${colors.material-06}
+
+format-background = ${colors.material-06-light}
+format-foreground = ${colors.material-fg-dark}
+label-padding = 2
+label = %date% %time%
 
 [module/powerbutton]
 type = custom/text
 click-left = "~/.local/bin/custom-askpoweroptions &"
 content = "  "
-content-foreground = #ff0000 
+content-foreground = ${colors.material-fg-light}
+content-background = ${colors.material-07}
+content-padding = 2
 
 [settings]
-screenchange-reload = true
-;compositing-background = xor
-;compositing-background = screen
-;compositing-foreground = source
-;compositing-border = over
-;pseudo-transparency = false
+screenchange-reload = false
 
 [global/wm]
 margin-top = 5
