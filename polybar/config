@@ -109,6 +109,28 @@ tray-padding = 2
 tray-maxsize = 16
 tray-background = ${colors.traybackground}
 
+[bar-section]
+dark = ${colors.material-00}
+light = ${colors.material-00-light}
+
+content-foreground = ${self.light}
+content-background = ${self.dark}
+prefix-foreground = ${colors.material-fg-light}
+prefix-background = ${self.dark}
+prefix-padding = 2
+label-foreground = ${colors.material-fg-dark}
+label-background = ${self.light}
+label-padding = 2
+
+format-underline = ${self.dark}
+format-overline = ${self.dark}
+format-foreground = ${self.light}
+format-background = ${self.dark}
+format-padding = 0
+format-prefix-foreground = ${self.prefix-foreground}
+format-prefix-background = ${self.prefix-background}
+format-prefix-padding = ${self.prefix-padding}
+
 [module/i3]
 type = internal/i3
 format = <label-state> <label-mode>
@@ -160,55 +182,71 @@ strip-wsnumbers = true
 
 [module/xkeyboard]
 type = internal/xkeyboard
+inherit = bar-section
+dark = ${colors.material-00}
+light = ${colors.material-00-light}
 blacklist-0 = num lock
-
 format-prefix = "  "
-format-prefix-foreground = ${colors.material-fg-light}
-format-prefix-background = ${colors.material-00}
-format-prefix-padding = 2
 
 label-layout = %layout%
 label-layout-padding = 2
-label-layout-background = ${colors.material-00-light}
+label-layout-background = ${self.light}
 label-layout-foreground = ${colors.material-fg-dark}
 
 label-indicator-padding = 2
-label-indicator-background = ${colors.material-00}
+label-indicator-background = ${self.dark}
 label-indicator-foreground = ${colors.material-00-light}
 
 [module/pulseaudio]
 type = internal/pulseaudio
+inherit = bar-section
+dark = ${colors.material-01}
+light = ${colors.material-01-light}
 
-; format-volume-underline = ${colors.material-01} 
 format-volume-prefix = "  "
-format-volume-prefix-foreground = ${colors.material-fg-light}
-format-volume-prefix-background = ${colors.material-01}
-format-volume-prefix-padding = 2
 format-volume = <label-volume>
 label-volume = %percentage%%
-label-volume-padding = 2
-label-volume-background = ${colors.material-01-light}
-label-volume-foreground = ${colors.material-fg-dark}
+
+format-volume-prefix-foreground = ${self.prefix-foreground}
+format-volume-prefix-background = ${self.prefix-background}
+format-volume-prefix-padding = ${self.prefix-padding}
+format-volume-underline = ${self.format-underline}
+format-volume-overline = ${self.format-overline}
+label-volume-padding = ${self.label-padding}
+label-volume-foreground = ${self.label-foreground}
+label-volume-background = ${self.label-background}
 
 format-muted-prefix = "  "
-format-muted-foreground = ${colors.foreground-alt}
 label-muted = " Muted "
-label-muted-foreground = ${root.foreground}
+
+format-muted-prefix-foreground = ${self.prefix-foreground}
+format-muted-prefix-background = ${self.prefix-background}
+format-muted-prefix-padding = ${self.prefix-padding}
+format-muted-underline = ${self.format-underline}
+format-muted-overline = ${self.format-overline}
+label-muted-padding = ${self.label-padding}
+label-muted-foreground = ${self.label-foreground}
+label-muted-background = ${self.label-background}
 
 [module/wlan]
 type = internal/network
+inherit = bar-section
+dark = ${colors.material-02}
+light = ${colors.material-02-light}
 interface = wlan0
 interval = 3.0
 
 format-connected-prefix = 
-format-connected-prefix-padding = 2
-format-connected-background = ${colors.material-02}
-format-connected-signal-foreground = ${colors.material-fg-light}
-
 label-connected = %signal%% 
-label-connected-padding = 2
-label-connected-background = ${colors.material-02-light}
-label-connected-foreground = ${colors.material-fg-dark}
+
+format-connected-prefix-foreground = ${self.prefix-foreground}
+format-connected-prefix-background = ${self.prefix-background}
+format-connected-prefix-padding = ${self.prefix-padding}
+format-connected-underline = ${self.format-underline}
+format-connected-overline = ${self.format-overline}
+label-connected-padding = ${self.label-padding}
+label-connected-foreground = ${self.label-foreground}
+label-connected-background = ${self.label-background}
 
 format-disconnected =
 ramp-signal-0 = 
@@ -221,60 +259,73 @@ ramp-signal-foreground = ${colors.material-fg-light}
 
 [module/eth]
 type = internal/network
+inherit = bar-section
+dark = ${colors.material-03}
+light = ${colors.material-03-light}
 interface = enp2s0
 interval = 3.0
 
 format-connected = <label-connected> 
 label-connected = "  "
-label-connected-padding = 2
-label-connected-background = ${colors.material-03}
-label-connected-foreground = ${colors.material-fg-light}
+
+label-connected-padding = ${self.prefix-padding}
+label-connected-foreground = ${self.prefix-foreground}
+label-connected-background = ${self.prefix-background}
 
 format-disconnected =
 
 [module/nordvpn]
 type = custom/script
+inherit = bar-section
+dark = ${colors.material-04}
+light = ${colors.material-04-light}
 exec = nordvpn status | grep "Country" | cut -d ":" -f2 && echo ""
 interval = 30
 format-prefix = "  "
-format-prefix-foreground = ${colors.material-fg-light}
-format-prefix-background = ${colors.material-04}
-format-prefix-padding = 2
-label-padding = 2
-label-background = ${colors.material-04-light}
-label-foreground = ${colors.material-fg-dark}
 
 [module/battery]
 type = internal/battery
+inherit = bar-section
+dark = ${colors.material-05}
+light = ${colors.material-05-light}
 battery = BAT0
 adapter = AC0
 full-at = 98
 
 format-charging-prefix = "  "
 format-charging = <animation-charging> <label-charging>
-format-charging-prefix-foreground = ${colors.material-fg-light}
-format-charging-prefix-background = ${colors.material-05}
-format-charging-prefix-padding = 2
-label-charging-padding = 2
-label-charging-background = ${colors.material-05-light}
-label-charging-foreground = ${colors.material-fg-dark}
+
+format-charging-prefix-foreground = ${self.prefix-foreground}
+format-charging-prefix-background = ${self.prefix-background}
+format-charging-prefix-padding = ${self.prefix-padding}
+format-charging-underline = ${self.format-underline}
+format-charging-overline = ${self.format-overline}
+label-charging-padding = ${self.label-padding}
+label-charging-foreground = ${self.label-foreground}
+label-charging-background = ${self.label-background}
 
 format-discharging-prefix = 
 format-discharging = <animation-discharging> <label-discharging>
-format-discharging-prefix-foreground = ${colors.material-fg-light}
-format-discharging-prefix-background = ${colors.material-05}
-format-discharging-prefix-padding = 2
-label-discharging-padding = 2
-label-discharging-background = ${colors.material-05-light}
-label-discharging-foreground = ${colors.material-fg-dark}
+
+format-discharging-prefix-foreground = ${self.prefix-foreground}
+format-discharging-prefix-background = ${self.prefix-background}
+format-discharging-prefix-padding = ${self.prefix-padding}
+format-discharging-underline = ${self.format-underline}
+format-discharging-overline = ${self.format-overline}
+label-discharging-padding = ${self.label-padding}
+label-discharging-foreground = ${self.label-foreground}
+label-discharging-background = ${self.label-background}
 
 format-full-prefix = "  "
-format-full-prefix-foreground = ${colors.material-fg-light}
-format-full-prefix-background = ${colors.material-05}
-format-full-prefix-padding = 2
-label-full-padding = 2
-label-full-background = ${colors.material-05-light}
-label-full-foreground = ${colors.material-fg-dark}
+
+format-full-prefix-foreground = ${self.prefix-foreground}
+format-full-prefix-background = ${self.prefix-background}
+format-full-prefix-padding = ${self.prefix-padding}
+format-full-underline = ${self.format-underline}
+format-full-overline = ${self.format-overline}
+label-full-padding = ${self.label-padding}
+label-full-foreground = ${self.label-foreground}
+label-full-background = ${self.label-background}
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 
@@ -299,6 +350,9 @@ animation-discharging-framerate = 750
 
 [module/date]
 type = internal/date
+inherit = bar-section
+dark = ${colors.material-06}
+light = ${colors.material-06-light}
 interval = 5
 
 date = %a
@@ -308,22 +362,16 @@ time = %l:%M %p
 time-alt = %l:%M:%S %p
 
 format-prefix = "  "  
-format-prefix-foreground = ${colors.material-fg-light}
-format-prefix-background = ${colors.material-06}
-format-prefix-padding = 2
-
-format-background = ${colors.material-06-light}
-format-foreground = ${colors.material-fg-dark}
-label-padding = 2
 label = %date% %time%
 
 [module/powerbutton]
 type = custom/text
+inherit = bar-section
+dark = ${colors.material-06}
+light = ${colors.material-06-light}
 click-left = "~/.local/bin/custom-askpoweroptions &"
 content = "  "
-content-foreground = ${colors.material-fg-light}
-content-background = ${colors.material-07}
-content-padding = 2
+content-padding = ${self.prefix-padding}
 
 [settings]
 screenchange-reload = false
