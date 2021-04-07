@@ -86,7 +86,7 @@ font-2 = Fira Code:style=Regular:pixelsize=20;2
 font-3 = Font Awesome 5 Free:pixelsize=12;2
 font-4 = Font Awesome 5 Free Solid:pixelsize=12;2
 font-5 = Font Awesome 5 Brands:pixelsize=12;2
-font-6 = JetBrainsMono Nerd Font:style=Regular:pixelsize=10;2
+font-6 = JetBrainsMono Nerd Font:style=bold:pixelsize=9;2
 
 modules-left = i3 
 modules-center = 
@@ -133,40 +133,46 @@ format-prefix-padding = ${self.prefix-padding}
 
 [module/i3]
 type = internal/i3
+inherit = bar-section
+dark = ${colors.material-01}
+light = ${colors.material-01-light}
 format = <label-state> <label-mode>
 index-sort = true
 wrapping-scroll = false
+
+content-padding = 4
+format-prefix = ""
+format-suffix = ""
+format-suffix-foreground = ${self.prefix-foreground}
+format-suffix-background = ${self.prefix-background}
+format-suffix-padding = ${self.prefix-padding}
 
 ; Only show workspaces on the same output as the bar
 pin-workspaces = true
 
 label-mode-padding = 3
-label-mode-margin = 3
 label-mode-foreground = ${colors.material-fg-light}
 label-mode-background = ${colors.material-04}
 
 ; focused = Active workspace on focused monitor
 label-focused = %index%
-label-focused-background = ${colors.material-06}
-label-focused-foreground= ${colors.material-fg-light}
-label-focused-underline= ${colors.material-06-light}
+label-focused-background = ${self.label-background}
+label-focused-foreground= ${self.label-foreground}
+label-focused-underline = ${colors.material-07}
+label-focused-overline = ${colors.material-07}
 label-focused-padding = 3
-label-focused-margin = 1
 
 ; unfocused = Inactive workspace on any monitor
 label-unfocused = %index%
-label-unfocused-background = ${colors.material-02-light}
-label-unfocused-foreground= ${colors.material-fg-dark}
+label-unfocused-foreground = ${self.prefix-foreground}
+label-unfocused-background = ${self.prefix-background}
 label-unfocused-padding = 3
-label-unfocused-margin = 1
 
 ; visible = Active workspace on unfocused monitor
 label-visible = %index%
-label-visible-background = ${colors.material-06-light}
-label-visible-underline= ${colors.material-06}
-label-visible-padding = ${self.label-focused-padding}
-label-visible-foreground = ${colors.material-fg-dark}
-label-visible-margin = 1
+label-visible-background = ${self.label-background}
+label-visible-foreground = ${self.label-foreground}
+label-visible-padding = 3
 
 ; urgent = Workspace with urgency hint set
 label-urgent = %index%
@@ -174,11 +180,21 @@ label-urgent-background = ${colors.alert}
 label-urgent-padding = 3
 
 ; Separator in between workspaces
-; label-separator = |
-; label-separator-padding = 2
-; label-separator-foreground = #ffb52a
+label-separator = |
+label-separator-foreground = ${colors.foreground-alt2}
+label-separator-background = ${self.prefix-background}
+label-separator-padding = 1
 
 strip-wsnumbers = true
+
+[module/xwindow]
+type = internal/xwindow
+inherit = bar-section
+dark = ${colors.material-02}
+light = ${colors.material-02-light}
+label = %title:0:30:...%
+label-font = 7
+format-prefix = "  "
 
 [module/xkeyboard]
 type = internal/xkeyboard
@@ -367,8 +383,8 @@ label = %date% %time%
 [module/powerbutton]
 type = custom/text
 inherit = bar-section
-dark = ${colors.material-06}
-light = ${colors.material-06-light}
+dark = ${colors.material-07}
+light = ${colors.material-07-light}
 click-left = "~/.local/bin/custom-askpoweroptions &"
 content = "  "
 content-padding = ${self.prefix-padding}
