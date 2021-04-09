@@ -219,7 +219,10 @@ inherit = bar-section
 dark = ${colors.material-01}
 light = ${colors.material-01-light}
 
+click-right = pavucontrol
+
 format-volume-prefix = "  "
+; format-volume = <bar-volume>
 format-volume = <label-volume>
 label-volume = %percentage%%
 
@@ -243,6 +246,18 @@ format-muted-overline = ${self.format-overline}
 label-muted-padding = ${self.label-padding}
 label-muted-foreground = ${self.label-foreground}
 label-muted-background = ${self.label-background}
+
+bar-volume-width = 8
+bar-volume-fill = ▣
+; bar-volume-fill-font = 7
+bar-volume-indicator = ▣
+; bar-volume-indicator-font = 7
+bar-volume-empty = ▢ 
+; bar-volume-empty-font = 7
+format-padding = ${self.label-padding}
+format-volume-foreground = ${self.label-foreground}
+format-volume-background = ${self.label-background}
+
 
 [module/wlan]
 type = internal/network
