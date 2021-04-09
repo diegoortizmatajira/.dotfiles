@@ -143,7 +143,8 @@ bindsym $mod+Shift+9 move container to workspace number $ws9
 bindsym $mod+Shift+0 move container to workspace number $ws10
 
 #switch workspace
-bindsym $mod+Tab workspace next
+workspace_auto_back_and_forth yes
+bindsym $mod+Tab workspace back_and_fort
 bindsym $mod+Shift+Tab workspace prev
 
 # reload the configuration file
@@ -258,6 +259,7 @@ exec --no-startup-id barrier
 # UI Applications that need to be launched on i3 reloading
 exec_always --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*
 exec_always --no-startup-id ~/.config/polybar/launch.sh
+exec_always --no-startup-id autotiling
 
 # Dropdown terminal
 exec_always --no-startup-id kitti3 -p top 
