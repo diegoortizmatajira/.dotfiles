@@ -202,6 +202,7 @@ inherit = bar-section
 dark = ${colors.material-00}
 light = ${colors.material-00-light}
 blacklist-0 = num lock
+format = <label-layout><label-indicator>
 format-prefix = "  "
 
 label-layout = %layout%
@@ -336,7 +337,7 @@ label-charging-foreground = ${self.label-foreground}
 label-charging-background = ${self.label-background}
 
 format-discharging-prefix = 
-format-discharging = <animation-discharging> <label-discharging>
+format-discharging = <animation-discharging><label-discharging>
 
 format-discharging-prefix-foreground = ${self.prefix-foreground}
 format-discharging-prefix-background = ${self.prefix-background}
@@ -368,7 +369,9 @@ animation-charging-1 = 
 animation-charging-2 = 
 animation-charging-3 =  
 animation-charging-4 =   
-animation-charging-foreground = ${colors.foreground-alt}
+animation-charging-foreground = ${self.prefix-foreground}
+animation-charging-background = ${self.prefix-background}
+animation-charging-padding = ${self.prefix-padding}
 animation-charging-framerate = 750
 
 animation-discharging-0 =   
@@ -376,7 +379,9 @@ animation-discharging-1 = 
 animation-discharging-2 = 
 animation-discharging-3 = 
 animation-discharging-4 = 
-animation-discharging-foreground = ${colors.foreground-alt}
+animation-discharging-foreground = ${self.prefix-foreground}
+animation-discharging-background = ${self.prefix-background}
+animation-discharging-padding = ${self.prefix-padding}
 animation-discharging-framerate = 750
 
 [module/date]
