@@ -71,10 +71,8 @@
     ~/.zshenv: zsh/zshenv
     ~/.oh-my-zsh/custom/themes/agnoster-jimlaptop.zsh-theme: zsh/themes/agnoster-jimlaptop.zsh-theme
 
-    # Rofi Commands
-    ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
-    
     # Custom commands
+    ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
     ~/.local/bin/custom-askpoweroptions: local-bin/custom-askpoweroptions
     ~/.local/bin/custom-i3exit: local-bin/custom-i3exit
     ~/.local/bin/custom-lock: local-bin/custom-lock
@@ -86,6 +84,7 @@
     ~/.local/bin/layout-partially-docked-2: local-bin/layout-partially-docked-2.sh
     ~/.local/bin/layout-tv: local-bin/layout-tv.sh
     ~/.local/bin/layout-selector: local-bin/layout-selector.sh
+    ~/.local/bin/i3-next-available-ws: local-bin/i3-next-available-ws.sh
 
 - create:
   - ~/Development/Personal
