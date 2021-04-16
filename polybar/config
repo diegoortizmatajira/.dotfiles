@@ -325,7 +325,7 @@ adapter = AC0
 full-at = 98
 
 format-charging-prefix = "  "
-format-charging = <animation-charging> <label-charging>
+format-charging = <animation-charging><label-charging>
 
 format-charging-prefix-foreground = ${self.prefix-foreground}
 format-charging-prefix-background = ${self.prefix-background}
