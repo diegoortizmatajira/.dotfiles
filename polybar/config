@@ -312,6 +312,7 @@ inherit = bar-section
 dark = ${colors.material-04}
 light = ${colors.material-04-light}
 exec = nordvpn status | grep "Country" | cut -d ":" -f2 && echo ""
+click-left = "rofi-nordvpn"
 interval = 30
 format-prefix = "  "
 
