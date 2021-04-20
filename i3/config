@@ -280,3 +280,7 @@ exec_always --no-startup-id autotiling
 exec_always --no-startup-id kitti3 -p top 
 bindsym $mod+Shift+Return nop kitti3
 
+#Clipboard history
+exec --no-startup-id clipmenud 
+bindsym $mod+v exec clipmenu
+
