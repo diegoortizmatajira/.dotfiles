@@ -76,6 +76,7 @@
     ~/.local/bin/custom-askpoweroptions: local-bin/custom-askpoweroptions
     ~/.local/bin/custom-i3exit: local-bin/custom-i3exit
     ~/.local/bin/custom-lock: local-bin/custom-lock
+    ~/.local/bin/custom-clipboard: local-bin/custom-clipboard.sh
     ~/.local/bin/plex-start: local-bin/plex-start
     ~/.local/bin/plex-stop: local-bin/plex-stop
     ~/.local/bin/layout-docked: local-bin/layout-docked.sh
