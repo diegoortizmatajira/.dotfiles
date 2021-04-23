@@ -92,6 +92,7 @@ material-light-19 = #D0CFD8DC
 
 material-fg-light = #ffffff
 material-fg-dark = #333333
+material-bar-fg = ${self.material-dark-19}
 
 linear-00 = ${self.material-dark-09}
 linear-01 = ${self.material-dark-07}
@@ -290,9 +291,9 @@ light = ${colors.linear-01-light}
 
 click-right = pavucontrol
 
-format-volume-prefix = "  "
-; format-volume = <bar-volume>
-format-volume = <label-volume>
+format-volume-prefix = ""
+format-volume = "-<bar-volume>-"
+; format-volume = <label-volume>
 label-volume = %percentage%%
 
 format-volume-prefix-foreground = ${self.prefix-foreground}
@@ -304,7 +305,7 @@ label-volume-padding = ${self.label-padding}
 label-volume-foreground = ${self.label-foreground}
 label-volume-background = ${self.label-background}
 
-format-muted-prefix = "  "
+format-muted-prefix = ""
 label-muted = " Muted "
 
 format-muted-prefix-foreground = ${self.prefix-foreground}
@@ -316,15 +317,14 @@ label-muted-padding = ${self.label-padding}
 label-muted-foreground = ${self.label-foreground}
 label-muted-background = ${self.label-background}
 
-bar-volume-width = 8
-bar-volume-fill = ▣
-; bar-volume-fill-font = 7
-bar-volume-indicator = ▣
-; bar-volume-indicator-font = 7
-bar-volume-empty = ▢
-; bar-volume-empty-font = 7
-format-padding = ${self.label-padding}
-format-volume-foreground = ${self.label-foreground}
+bar-volume-width = 6
+bar-volume-fill = ■
+bar-volume-fill-foreground = ${colors.material-dark-05}
+bar-volume-indicator = ■
+bar-volume-indicator-foreground = ${colors.material-dark-05}
+bar-volume-empty = □
+bar-volume-empty-foreground = ${colors.material-bar-fg}
+
 format-volume-background = ${self.label-background}
 
 
@@ -365,12 +365,18 @@ light = ${colors.linear-03-light}
 interface = enp2s0
 interval = 3.0
 
+format-connected-prefix = 
 format-connected = <label-connected>
-label-connected = "  "
+label-connected = ""
 
-label-connected-padding = ${self.prefix-padding}
-label-connected-foreground = ${self.prefix-foreground}
-label-connected-background = ${self.prefix-background}
+format-connected-prefix-foreground = ${self.prefix-foreground}
+format-connected-prefix-background = ${self.prefix-background}
+format-connected-prefix-padding = ${self.prefix-padding}
+format-connected-underline = ${self.format-underline}
+format-connected-overline = ${self.format-overline}
+label-connected-padding = ${self.label-padding}
+label-connected-foreground = ${self.dark}
+label-connected-background = ${self.label-background}
 
 format-disconnected =
 
@@ -382,7 +388,7 @@ light = ${colors.linear-04-light}
 exec = nordvpn status | grep "Country" | cut -d ":" -f2 && echo ""
 click-left = "rofi-nordvpn"
 interval = 30
-format-prefix = "  "
+format-prefix = ""
 
 [module/battery]
 type = internal/battery
@@ -393,7 +399,7 @@ battery = BAT0
 adapter = AC0
 full-at = 98
 
-format-charging-prefix = "  "
+format-charging-prefix = ""
 format-charging = <animation-charging><label-charging>
 
 format-charging-prefix-foreground = ${self.prefix-foreground}
@@ -417,7 +423,7 @@ label-discharging-padding = ${self.label-padding}
 label-discharging-foreground = ${self.label-foreground}
 label-discharging-background = ${self.label-background}
 
-format-full-prefix = "  "
+format-full-prefix = ""
 
 format-full-prefix-foreground = ${self.prefix-foreground}
 format-full-prefix-background = ${self.prefix-background}
@@ -428,9 +434,11 @@ label-full-padding = ${self.label-padding}
 label-full-foreground = ${self.label-foreground}
 label-full-background = ${self.label-background}
 
-ramp-capacity-0 = 
-ramp-capacity-1 = 
-ramp-capacity-2 = 
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
 ramp-capacity-foreground = ${colors.foreground-alt}
 
 animation-charging-0 = 
