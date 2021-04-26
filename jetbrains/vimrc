@@ -58,8 +58,8 @@ map <leader>v :action SplitVertically<CR>
 nmap <space>aa :action ShowContextActions<CR>
 nmap <space>au :action $Undo<CR>
 nmap <space>ar :action $Redo<CR>
-nmap <space>ax :action $Copy<CR>
-nmap <space>ac :action $Cut<CR>
+nmap <space>ac :action $Copy<CR>
+nmap <space>ax :action $Cut<CR>
 nmap <space>av :action $Paste<CR>
 nmap <space>as :action $SelectAll<CR>
 

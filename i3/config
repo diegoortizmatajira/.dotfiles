@@ -64,6 +64,9 @@ bindsym $mod+s exec "rofi -show drun -show-icons"
 bindsym $alt+Tab exec "rofi -show window -show-icons -kb-row-down 'Down,Control+n,Alt+Tab' -kb-accept-entry '!Alt+Tab,!Alt_L,!Alt+Alt_L,Return'"
 bindsym $mod+d exec --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*
 
+# connect to vpn
+bindsym $mod+g exec "custom-nordvpn-menu"
+
 # change focus
 bindsym $alt+h focus left
 bindsym $alt+j focus down

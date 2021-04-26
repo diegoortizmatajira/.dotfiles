@@ -77,6 +77,7 @@
     ~/.local/bin/custom-i3exit: local-bin/custom-i3exit
     ~/.local/bin/custom-lock: local-bin/custom-lock
     ~/.local/bin/custom-clipboard: local-bin/custom-clipboard.sh
+    ~/.local/bin/custom-nordvpn-menu: local-bin/custom-nordvpn-menu.sh
     ~/.local/bin/plex-start: local-bin/plex-start
     ~/.local/bin/plex-stop: local-bin/plex-stop
     ~/.local/bin/layout-docked: local-bin/layout-docked.sh
@@ -101,5 +102,6 @@
 
   - link:
       /etc/X11/xorg.conf.d/90-touchpad.conf: xorg.conf.d/90-touchpad.conf
+      /etc/X11/xorg.conf.d/10-monitor.conf: xorg.conf.d/10-monitor.conf
       /etc/systemd/logind.conf.d/custom.conf: systemd/logind.conf
 
