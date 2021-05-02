@@ -472,11 +472,11 @@ date = "%a"
 date-alt = "%e-%b-%Y"
 
 time = "%l:%M %p"
-time-alt = "%l:%M:%S %p"
+time-alt = "%I:%M:%S %p"
 
 format-prefix = "  "
 label-font = 5
-label = %date%%time%
+label = %date% %time%
 
 [module/powerbutton]
 type = custom/text
