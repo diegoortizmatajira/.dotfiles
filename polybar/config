@@ -17,78 +17,70 @@
 ;==========================================================
 
 [colors]
-background-lighter = #d08888ff
-background-light = #804185eb
-background = #80205be0
-background-dark = #802057d5
-background-darker = #d02d53a5
-; background = #c0020202
+background = #e0020202
 background-alt = #444
 foreground = #dfdfdf
 foreground-alt = #03a9f4
 foreground-alt2 = #c4a468
-primary = #ffb52a
-primary-pale = #aa7c25
-secondary = #e60053
 alert = #bd2c40
 
 #red
-material-dark-01 = #D0F44336
-material-light-01 = #D0FFCDD2
+material-dark-01 = #F44336
+material-light-01 = #FFCDD2
 #pink
-material-dark-02 = #D0E91E63
-material-light-02 = #D0F8BBD0
+material-dark-02 = #E91E63
+material-light-02 = #F8BBD0
 #purple
-material-dark-03 = #D09C27B0
-material-light-03 = #D0E1BEE7
+material-dark-03 = #9C27B0
+material-light-03 = #E1BEE7
 #deep purple
-material-dark-04 = #D0673AB7
-material-light-04 = #D0D1C4E9
+material-dark-04 = #673AB7
+material-light-04 = #D1C4E9
 #indigo
-material-dark-05 = #D03F51B5
-material-light-05 = #D0C5CAE9
+material-dark-05 = #3F51B5
+material-light-05 = #C5CAE9
 #blue
-material-dark-06 = #D02196F3
-material-light-06 = #D0BBDEFB
+material-dark-06 = #2196F3
+material-light-06 = #BBDEFB
 #light blue
-material-dark-07 = #D003A9F4
-material-light-07 = #D0B3E5FC
+material-dark-07 = #03A9F4
+material-light-07 = #B3E5FC
 #cyan
-material-dark-08 = #D000BCD4
-material-light-08 = #D0B2EBF2
+material-dark-08 = #00BCD4
+material-light-08 = #B2EBF2
 #teal
-material-dark-09 = #D0009688
-material-light-09 = #D0B2DFDB
+material-dark-09 = #009688
+material-light-09 = #B2DFDB
 #green
-material-dark-10 = #D04CAF50
-material-light-10 = #D0C8E6C9
+material-dark-10 = #4CAF50
+material-light-10 = #C8E6C9
 #light green
-material-dark-11 = #D08BC34A
-material-light-11 = #D0DCEDC8
+material-dark-11 = #8BC34A
+material-light-11 = #DCEDC8
 #lime
-material-dark-12 = #D0CDDC39
-material-light-12 = #D0F0F4C3
+material-dark-12 = #CDDC39
+material-light-12 = #F0F4C3
 #yellow
-material-dark-13 = #D0FFEB3B
-material-light-13 = #D0FFF9C4
+material-dark-13 = #FFEB3B
+material-light-13 = #FFF9C4
 #amber
-material-dark-14 = #D0FFC107
-material-light-14 = #D0FFECB3
+material-dark-14 = #FFC107
+material-light-14 = #FFECB3
 #orange
-material-dark-15 = #D0FF9800
-material-light-15 = #D0FFE0B2
+material-dark-15 = #FF9800
+material-light-15 = #FFE0B2
 #deep orange
-material-dark-16 = #D0FF5722
-material-light-16 = #D0FFCCBC
+material-dark-16 = #FF5722
+material-light-16 = #FFCCBC
 #brown
-material-dark-17 = #D0795548
-material-light-17 = #D0D7CCC8
+material-dark-17 = #795548
+material-light-17 = #D7CCC8
 #grey
-material-dark-18 = #D09E9E9E
-material-light-18 = #D0F5F5F5
+material-dark-18 = #9E9E9E
+material-light-18 = #F5F5F5
 #blue grey
-material-dark-19 = #D0607D8B
-material-light-19 = #D0CFD8DC
+material-dark-19 = #607D8B
+material-light-19 = #CFD8DC
 
 material-fg-light = #ffffff
 material-fg-dark = #333333
@@ -113,7 +105,7 @@ linear-06-light = ${self.material-light-02}
 linear-07-light = ${self.material-light-01}
 linear-08-light = ${self.material-light-16}
 
-traybackground = ${self.linear-07-light}
+traybackground = #E09E9E9E
 
 [generic-bar]
 monitor = ${env:MONITOR:}
@@ -121,19 +113,12 @@ width = 100%
 height = 27
 fixed-center = true
 
-background-0 = ${colors.background-light}
-background-1 = ${colors.background}
-background-2 = ${colors.background}
-background-3 = ${colors.background-dark}
-background-4 = ${colors.background-darker}
-foreground = ${colors.foreground}
+background = ${colors.background}
 
 line-size = 3
-line-color = #f00
 
 border-size = 1
-border-top-color = ${colors.background-lighter}
-border-bottom-color = ${colors.background-darker}
+border-color = ${colors.background}
 
 padding-left = 0
 padding-right = 0
@@ -172,27 +157,17 @@ tray-background = ${colors.traybackground}
 dark = ${colors.linear-00}
 light = ${colors.linear-00-light}
 
-content-foreground = ${self.light}
-content-background = ${self.dark}
-prefix-foreground = ${self.light}
-prefix-background = ${self.dark}
+prefix-foreground = ${self.dark}
 prefix-padding = 2
-suffix-foreground = ${self.light}
-suffix-background = ${self.dark}
-label-foreground = ${colors.material-fg-dark}
-label-background = ${self.light}
+suffix-foreground = ${self.dark}
+label-foreground = ${self.light}
 label-padding = 2
 
-format-underline = ${self.dark}
-format-overline = ${self.dark}
 format-foreground = ${self.light}
-format-background = ${self.dark}
 format-padding = 0
 format-prefix-foreground = ${self.prefix-foreground}
-format-prefix-background = ${self.prefix-background}
 format-prefix-padding = ${self.prefix-padding}
 format-suffix-foreground = ${self.prefix-foreground}
-format-suffix-background = ${self.prefix-background}
 
 [module/i3]
 type = internal/i3
@@ -207,7 +182,6 @@ content-padding = 4
 format-prefix = ""
 format-suffix = ""
 format-suffix-foreground = ${self.prefix-foreground}
-format-suffix-background = ${self.prefix-background}
 format-suffix-padding = ${self.prefix-padding}
 
 ; Only show workspaces on the same output as the bar
@@ -215,11 +189,9 @@ pin-workspaces = true
 
 label-mode-padding = 3
 label-mode-foreground = ${colors.material-fg-light}
-label-mode-background = ${colors.linear-04}
 
 ; focused = Active workspace on focused monitor
 label-focused = %index%
-label-focused-background = ${self.label-background}
 label-focused-foreground= ${self.label-foreground}
 label-focused-underline = ${colors.linear-07}
 label-focused-overline = ${colors.linear-07}
@@ -228,12 +200,10 @@ label-focused-padding = 3
 ; unfocused = Inactive workspace on any monitor
 label-unfocused = %index%
 label-unfocused-foreground = ${colors.material-fg-light}
-label-unfocused-background = ${self.prefix-background}
 label-unfocused-padding = 3
 
 ; visible = Active workspace on unfocused monitor
 label-visible = %index%
-label-visible-background = ${self.label-background}
 label-visible-foreground = ${self.label-foreground}
 label-visible-padding = 3
 
@@ -245,7 +215,6 @@ label-urgent-padding = 3
 ; Separator in between workspaces
 label-separator = |
 label-separator-foreground = ${self.prefix-foreground}
-label-separator-background = ${self.prefix-background}
 label-separator-padding = 1
 
 strip-wsnumbers = true
@@ -256,8 +225,6 @@ inherit = bar-section
 dark = ${colors.material-dark-11}
 light = ${colors.material-light-11}
 width = 40%
-; dark = ${colors.linear-03}
-; light = ${colors.linear-03-light}
 label = %title:0:50:...%
 label-font = 5
 label-minlen = 53
@@ -276,11 +243,9 @@ format-prefix = "  "
 
 label-layout = %layout%
 label-layout-padding = 2
-label-layout-background = ${self.label-background}
 label-layout-foreground = ${self.label-foreground}
 
 label-indicator-padding = 2
-label-indicator-background = ${self.dark}
 label-indicator-foreground = ${colors.material-fg-light}
 
 [module/pulseaudio]
@@ -292,41 +257,29 @@ light = ${colors.linear-01-light}
 click-right = pavucontrol
 
 format-volume-prefix = ""
-format-volume = "-<bar-volume>-"
-; format-volume = <label-volume>
+format-volume = " <bar-volume> "
 label-volume = %percentage%%
 
 format-volume-prefix-foreground = ${self.prefix-foreground}
-format-volume-prefix-background = ${self.prefix-background}
 format-volume-prefix-padding = ${self.prefix-padding}
-format-volume-underline = ${self.format-underline}
-format-volume-overline = ${self.format-overline}
 label-volume-padding = ${self.label-padding}
 label-volume-foreground = ${self.label-foreground}
-label-volume-background = ${self.label-background}
 
 format-muted-prefix = ""
 label-muted = " Muted "
 
 format-muted-prefix-foreground = ${self.prefix-foreground}
-format-muted-prefix-background = ${self.prefix-background}
 format-muted-prefix-padding = ${self.prefix-padding}
-format-muted-underline = ${self.format-underline}
-format-muted-overline = ${self.format-overline}
 label-muted-padding = ${self.label-padding}
 label-muted-foreground = ${self.label-foreground}
-label-muted-background = ${self.label-background}
 
 bar-volume-width = 6
 bar-volume-fill = ■
-bar-volume-fill-foreground = ${colors.material-dark-05}
+bar-volume-fill-foreground = ${self.prefix-foreground}
 bar-volume-indicator = ■
-bar-volume-indicator-foreground = ${colors.material-dark-05}
+bar-volume-indicator-foreground = ${self.label-foreground}
 bar-volume-empty = □
 bar-volume-empty-foreground = ${colors.material-bar-fg}
-
-format-volume-background = ${self.label-background}
-
 
 [module/wlan]
 type = internal/network
@@ -340,13 +293,11 @@ format-connected-prefix = 
 label-connected = %signal%%
 
 format-connected-prefix-foreground = ${self.prefix-foreground}
-format-connected-prefix-background = ${self.prefix-background}
 format-connected-prefix-padding = ${self.prefix-padding}
 format-connected-underline = ${self.format-underline}
 format-connected-overline = ${self.format-overline}
 label-connected-padding = ${self.label-padding}
 label-connected-foreground = ${self.label-foreground}
-label-connected-background = ${self.label-background}
 
 format-disconnected =
 ramp-signal-0 = 
@@ -354,7 +305,6 @@ ramp-signal-1 = 
 ramp-signal-2 = 
 ramp-signal-3 = 
 ramp-signal-padding = 2
-ramp-signal-background = ${colors.linear-02}
 ramp-signal-foreground = ${colors.material-fg-light}
 
 [module/eth]
@@ -370,13 +320,11 @@ format-connected = <label-connected>
 label-connected = ""
 
 format-connected-prefix-foreground = ${self.prefix-foreground}
-format-connected-prefix-background = ${self.prefix-background}
 format-connected-prefix-padding = ${self.prefix-padding}
 format-connected-underline = ${self.format-underline}
 format-connected-overline = ${self.format-overline}
 label-connected-padding = ${self.label-padding}
 label-connected-foreground = ${self.dark}
-label-connected-background = ${self.label-background}
 
 format-disconnected =
 
@@ -403,36 +351,30 @@ format-charging-prefix = ""
 format-charging = <animation-charging><label-charging>
 
 format-charging-prefix-foreground = ${self.prefix-foreground}
-format-charging-prefix-background = ${self.prefix-background}
 format-charging-prefix-padding = ${self.prefix-padding}
 format-charging-underline = ${self.format-underline}
 format-charging-overline = ${self.format-overline}
 label-charging-padding = ${self.label-padding}
 label-charging-foreground = ${self.label-foreground}
-label-charging-background = ${self.label-background}
 
 format-discharging-prefix =
 format-discharging = <animation-discharging><label-discharging>
 
 format-discharging-prefix-foreground = ${self.prefix-foreground}
-format-discharging-prefix-background = ${self.prefix-background}
 format-discharging-prefix-padding = ${self.prefix-padding}
 format-discharging-underline = ${self.format-underline}
 format-discharging-overline = ${self.format-overline}
 label-discharging-padding = ${self.label-padding}
 label-discharging-foreground = ${self.label-foreground}
-label-discharging-background = ${self.label-background}
 
 format-full-prefix = ""
 
 format-full-prefix-foreground = ${self.prefix-foreground}
-format-full-prefix-background = ${self.prefix-background}
 format-full-prefix-padding = ${self.prefix-padding}
 format-full-underline = ${self.format-underline}
 format-full-overline = ${self.format-overline}
 label-full-padding = ${self.label-padding}
 label-full-foreground = ${self.label-foreground}
-label-full-background = ${self.label-background}
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 
@@ -447,7 +389,6 @@ animation-charging-2 = 
 animation-charging-3 = 
 animation-charging-4 = 
 animation-charging-foreground = ${self.prefix-foreground}
-animation-charging-background = ${self.prefix-background}
 animation-charging-padding = ${self.prefix-padding}
 animation-charging-framerate = 750
 
@@ -457,7 +398,6 @@ animation-discharging-2 = 
 animation-discharging-3 = 
 animation-discharging-4 = 
 animation-discharging-foreground = ${self.prefix-foreground}
-animation-discharging-background = ${self.prefix-background}
 animation-discharging-padding = ${self.prefix-padding}
 animation-discharging-framerate = 750
 
@@ -486,6 +426,7 @@ light = ${colors.linear-07-light}
 click-left = "~/.local/bin/custom-askpoweroptions &"
 content = "  "
 content-padding = ${self.prefix-padding}
+content-foreground = ${self.prefix-foreground}
 
 [settings]
 screenchange-reload = false
@@ -494,4 +435,3 @@ screenchange-reload = false
 margin-top = 5
 margin-bottom = 5
 
-; vim:ft=dosini
