@@ -127,8 +127,8 @@ module-margin-left = 0
 module-margin-right = 0
 
 font-0 = SF Pro Display:pixelsize=9;1
-font-1 = Font Awesome 5 Free:pixelsize=12;2
-font-2 = Font Awesome 5 Free Solid:pixelsize=12;2
+font-1 = Font Awesome 5 Pro Regular:pixelsize=12;2
+font-2 = Font Awesome 5 Pro Solid:pixelsize=12;2
 font-3 = Font Awesome 5 Brands:pixelsize=12;2
 font-4 = JetBrains Mono:style=bold:pixelsize=9;2
 
@@ -189,6 +189,7 @@ pin-workspaces = true
 
 label-mode-padding = 3
 label-mode-foreground = ${colors.material-fg-light}
+label-mode-background = ${colors.material-dark-03}
 
 ; focused = Active workspace on focused monitor
 label-focused = %index%
@@ -289,7 +290,9 @@ light = ${colors.linear-02-light}
 interface = wlan0
 interval = 3.0
 
-format-connected-prefix = 
+; format-connected-prefix = 
+; format-connected = <ramp-signal><label-connected>
+format-connected = <ramp-signal>
 label-connected = %signal%%
 
 format-connected-prefix-foreground = ${self.prefix-foreground}
@@ -300,12 +303,11 @@ label-connected-padding = ${self.label-padding}
 label-connected-foreground = ${self.label-foreground}
 
 format-disconnected =
-ramp-signal-0 = 
-ramp-signal-1 = 
+ramp-signal-0 = 
+ramp-signal-1 = 
 ramp-signal-2 = 
-ramp-signal-3 = 
 ramp-signal-padding = 2
-ramp-signal-foreground = ${colors.material-fg-light}
+ramp-signal-foreground = ${self.prefix-foreground}
 
 [module/eth]
 type = internal/network
@@ -315,16 +317,15 @@ light = ${colors.linear-03-light}
 interface = enp2s0
 interval = 3.0
 
-format-connected-prefix = 
 format-connected = <label-connected>
-label-connected = ""
+label-connected = 
 
 format-connected-prefix-foreground = ${self.prefix-foreground}
 format-connected-prefix-padding = ${self.prefix-padding}
 format-connected-underline = ${self.format-underline}
 format-connected-overline = ${self.format-overline}
 label-connected-padding = ${self.label-padding}
-label-connected-foreground = ${self.dark}
+label-connected-foreground = ${self.prefix-foreground}
 
 format-disconnected =
 

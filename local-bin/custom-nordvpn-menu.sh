@@ -21,7 +21,7 @@ whereis nordvpn > /dev/null || echoexit "'nordvpn' not found."
 menu() {
     # Menu command, should read from stdin and write to stdout.
 
-    rofi -dmenu -i -p "NordVPN Options" -no-custom
+    rofi -dmenu -i -p "NordVPN Options" -no-custom -lines 7 -width 30
 }
 
 usage() {

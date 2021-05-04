@@ -60,7 +60,6 @@ bindsym $alt+F4 kill
 # start rofi (a program launcher)
 bindcode 133 --release exec "rofi -show drun -show-icons"
 bindsym $mod+s exec "rofi -show drun -show-icons"
-# bindsym $alt+Tab exec "rofi -show window -show-icons"
 bindsym $alt+Tab exec "rofi -show window -show-icons -kb-row-down 'Down,Control+n,Alt+Tab' -kb-accept-entry '!Alt+Tab,!Alt_L,!Alt+Alt_L,Return'"
 bindsym $mod+d exec --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*
 
@@ -230,7 +229,7 @@ mode "Move Workspace" {
 bindsym $mod+w mode "Move Workspace"
 
 #Gaps
-gaps inner 6
+gaps inner 4
 gaps outer 0
 smart_borders on
 smart_gaps on
