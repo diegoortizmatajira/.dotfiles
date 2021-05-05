@@ -17,7 +17,7 @@
 ;==========================================================
 
 [colors]
-background = #e0020202
+background = #d0020202
 background-alt = #444
 foreground = #dfdfdf
 foreground-alt = #03a9f4
@@ -105,7 +105,7 @@ linear-06-light = ${self.material-light-02}
 linear-07-light = ${self.material-light-01}
 linear-08-light = ${self.material-light-16}
 
-traybackground = #E09E9E9E
+; traybackground = #D09E9E9E
 
 [generic-bar]
 monitor = ${env:MONITOR:}
@@ -269,7 +269,7 @@ label-volume-foreground = ${self.label-foreground}
 
 format-muted-prefix = 
 format-muted = "<label-muted>"
-label-muted = "□□□□□□"
+label-muted = "■■■■■■"
 
 format-muted-prefix-foreground = ${self.prefix-foreground}
 format-muted-prefix-padding = ${self.prefix-padding}
@@ -282,7 +282,7 @@ bar-volume-fill = ■
 bar-volume-fill-foreground = ${self.prefix-foreground}
 bar-volume-indicator = ■
 bar-volume-indicator-foreground = ${self.label-foreground}
-bar-volume-empty = □
+bar-volume-empty = ■
 bar-volume-empty-foreground = ${colors.material-bar-fg}
 
 [module/wlan]
@@ -409,7 +409,7 @@ interval = 5
 date = "%a"
 date-alt = "%e-%b-%Y"
 
-time = "%l:%M %p"
+time = "%I:%M %p"
 time-alt = "%I:%M:%S %p"
 
 format-prefix = 
