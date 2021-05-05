@@ -121,21 +121,15 @@ overline-size = 2
 border-size = 1
 border-color = ${colors.background}
 
-padding-left = 0
-padding-right = 0
+padding-left = 1
+padding-right = 1
 
-module-margin-left = 0
-module-margin-right = 0
+separator = " "
 
-font-0 = SF Pro Display:pixelsize=9;1
+font-0 = JetBrains Mono:style=bold:pixelsize=9;2
 font-1 = Font Awesome 5 Pro Regular:pixelsize=12;2
 font-2 = Font Awesome 5 Brands:pixelsize=12;2
-font-3 = JetBrains Mono:style=bold:pixelsize=9;2
-
-; font-0 = JetBrains Mono:style=bold:pixelsize=9;2
-; font-1 = Font Awesome 5 Pro Regular:pixelsize=12;2
-; font-2 = Font Awesome 5 Brands:pixelsize=12;2
-; font-3 = SF Pro Display:pixelsize=9;1
+font-3 = SF Pro Display:pixelsize=9;1
 
 modules-left = i3
 modules-center =
@@ -163,16 +157,18 @@ dark = ${colors.linear-00}
 light = ${colors.linear-00-light}
 
 prefix-foreground = ${self.dark}
-prefix-padding = 2
+prefix-padding = 0
 suffix-foreground = ${self.dark}
 label-foreground = ${self.light}
-label-padding = 2
+label-padding = 1
 
 format-foreground = ${self.light}
 format-padding = 0
 format-prefix-foreground = ${self.prefix-foreground}
 format-prefix-padding = ${self.prefix-padding}
 format-suffix-foreground = ${self.prefix-foreground}
+
+bar-font = 3
 
 [module/i3]
 type = internal/i3
@@ -183,16 +179,16 @@ format = <label-state> <label-mode>
 index-sort = true
 wrapping-scroll = false
 
-content-padding = 4
-format-prefix = ""
-format-suffix = ""
+content-padding = 1
+format-prefix = 
+format-suffix = 
 format-suffix-foreground = ${self.prefix-foreground}
 format-suffix-padding = ${self.prefix-padding}
 
 ; Only show workspaces on the same output as the bar
 pin-workspaces = true
 
-label-mode-padding = 3
+label-mode-padding = 1
 label-mode-foreground = ${colors.material-fg-light}
 label-mode-background = ${colors.material-dark-03}
 
@@ -201,29 +197,29 @@ label-focused = %index%
 label-focused-foreground= ${self.label-foreground}
 label-focused-underline = ${colors.material-dark-15}
 label-focused-overline = ${colors.material-dark-15}
-label-focused-padding = 3
+label-focused-padding = 1
 
 ; unfocused = Inactive workspace on any monitor
 label-unfocused = %index%
 label-unfocused-foreground = ${colors.material-fg-light}
-label-unfocused-padding = 3
+label-unfocused-padding = 1
 
 ; visible = Active workspace on unfocused monitor
 label-visible = %index%
 label-visible-foreground = ${self.label-foreground}
 label-visible-underline = ${colors.material-light-15}
 label-visible-overline = ${colors.material-light-15}
-label-visible-padding = 3
+label-visible-padding = 1
 
 ; urgent = Workspace with urgency hint set
 label-urgent = %index%
 label-urgent-background = ${colors.alert}
-label-urgent-padding = 3
+label-urgent-padding = 1
 
 ; Separator in between workspaces
 label-separator = |
 label-separator-foreground = ${self.prefix-foreground}
-label-separator-padding = 1
+label-separator-padding = 0
 
 strip-wsnumbers = true
 
@@ -234,11 +230,8 @@ dark = ${colors.material-dark-11}
 light = ${colors.material-light-11}
 width = 40%
 label = %title:0:50:...%
-label-font = 4
 label-minlen = 53
-format-prefix = "  "
-format-suffix = " "
-format-suffix-padding = 1
+format-prefix = 
 
 [module/xkeyboard]
 type = internal/xkeyboard
@@ -247,14 +240,15 @@ dark = ${colors.linear-00}
 light = ${colors.linear-00-light}
 blacklist-0 = num lock
 format = <label-indicator><label-layout>
-format-prefix = "  "
+format-prefix = 
 
 label-layout = %layout%
-label-layout-padding = 2
+label-layout-padding = 1
 label-layout-foreground = ${self.label-foreground}
 
-label-indicator-padding = 2
-label-indicator-foreground = ${colors.material-fg-light}
+label-indicator-padding = 1
+label-indicator-background = ${self.dark}
+label-indicator-foreground = ${self.light}
 
 [module/pulseaudio]
 type = internal/pulseaudio
@@ -264,8 +258,8 @@ light = ${colors.linear-01-light}
 
 click-right = pavucontrol
 
-format-volume-prefix = ""
-format-volume = " <bar-volume> "
+format-volume-prefix = 
+format-volume = "<bar-volume>"
 label-volume = %percentage%%
 
 format-volume-prefix-foreground = ${self.prefix-foreground}
@@ -273,7 +267,8 @@ format-volume-prefix-padding = ${self.prefix-padding}
 label-volume-padding = ${self.label-padding}
 label-volume-foreground = ${self.label-foreground}
 
-format-muted-prefix = ""
+format-muted-prefix = 
+format-muted = "<label-muted>"
 label-muted = "□□□□□□"
 
 format-muted-prefix-foreground = ${self.prefix-foreground}
@@ -282,6 +277,7 @@ label-muted-foreground = ${colors.material-bar-fg}
 label-muted-padding = 1
 
 bar-volume-width = 6
+bar-volume-format = " %fill%%indicator%%empty% "
 bar-volume-fill = ■
 bar-volume-fill-foreground = ${self.prefix-foreground}
 bar-volume-indicator = ■
@@ -308,7 +304,6 @@ format-disconnected =
 ramp-signal-0 = 
 ramp-signal-1 = 
 ramp-signal-2 = 
-ramp-signal-padding = 2
 ramp-signal-foreground = ${self.prefix-foreground}
 
 [module/eth]
@@ -336,10 +331,10 @@ type = custom/script
 inherit = bar-section
 dark = ${colors.linear-04}
 light = ${colors.linear-04-light}
-exec = nordvpn status | grep "Country" | cut -d ":" -f2 && echo ""
+exec = nordvpn status | grep "Country" | cut -d " " -f2- && echo ""
 click-left = "custom-nordvpn-menu"
 interval = 30
-format-prefix = ""
+format-prefix = 
 
 [module/battery]
 type = internal/battery
@@ -350,7 +345,7 @@ battery = BAT0
 adapter = AC0
 full-at = 98
 
-format-charging-prefix = ""
+format-charging-prefix = 
 format-charging = <animation-charging><label-charging>
 
 format-charging-prefix-foreground = ${self.prefix-foreground}
@@ -370,7 +365,7 @@ format-discharging-overline = ${self.format-overline}
 label-discharging-padding = ${self.label-padding}
 label-discharging-foreground = ${self.label-foreground}
 
-format-full-prefix = ""
+format-full-prefix = 
 
 format-full-prefix-foreground = ${self.prefix-foreground}
 format-full-prefix-padding = ${self.prefix-padding}
@@ -417,8 +412,7 @@ date-alt = "%e-%b-%Y"
 time = "%l:%M %p"
 time-alt = "%I:%M:%S %p"
 
-format-prefix = "  "
-label-font = 4
+format-prefix = 
 label = %date% %time%
 
 [module/powerbutton]
@@ -427,7 +421,7 @@ inherit = bar-section
 dark = ${colors.linear-07}
 light = ${colors.linear-07-light}
 click-left = "~/.local/bin/custom-askpoweroptions &"
-content = "  "
+content = 
 content-padding = ${self.prefix-padding}
 content-foreground = ${self.prefix-foreground}
 
