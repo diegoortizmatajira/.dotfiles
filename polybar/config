@@ -115,7 +115,8 @@ fixed-center = true
 
 background = ${colors.background}
 
-line-size = 3
+underline-size = 2
+overline-size = 2
 
 border-size = 1
 border-color = ${colors.background}
@@ -128,9 +129,13 @@ module-margin-right = 0
 
 font-0 = SF Pro Display:pixelsize=9;1
 font-1 = Font Awesome 5 Pro Regular:pixelsize=12;2
-font-2 = Font Awesome 5 Pro Solid:pixelsize=12;2
-font-3 = Font Awesome 5 Brands:pixelsize=12;2
-font-4 = JetBrains Mono:style=bold:pixelsize=9;2
+font-2 = Font Awesome 5 Brands:pixelsize=12;2
+font-3 = JetBrains Mono:style=bold:pixelsize=9;2
+
+; font-0 = JetBrains Mono:style=bold:pixelsize=9;2
+; font-1 = Font Awesome 5 Pro Regular:pixelsize=12;2
+; font-2 = Font Awesome 5 Brands:pixelsize=12;2
+; font-3 = SF Pro Display:pixelsize=9;1
 
 modules-left = i3
 modules-center =
@@ -194,8 +199,8 @@ label-mode-background = ${colors.material-dark-03}
 ; focused = Active workspace on focused monitor
 label-focused = %index%
 label-focused-foreground= ${self.label-foreground}
-label-focused-underline = ${colors.linear-07}
-label-focused-overline = ${colors.linear-07}
+label-focused-underline = ${colors.material-dark-15}
+label-focused-overline = ${colors.material-dark-15}
 label-focused-padding = 3
 
 ; unfocused = Inactive workspace on any monitor
@@ -206,6 +211,8 @@ label-unfocused-padding = 3
 ; visible = Active workspace on unfocused monitor
 label-visible = %index%
 label-visible-foreground = ${self.label-foreground}
+label-visible-underline = ${colors.material-light-15}
+label-visible-overline = ${colors.material-light-15}
 label-visible-padding = 3
 
 ; urgent = Workspace with urgency hint set
@@ -227,7 +234,7 @@ dark = ${colors.material-dark-11}
 light = ${colors.material-light-11}
 width = 40%
 label = %title:0:50:...%
-label-font = 5
+label-font = 4
 label-minlen = 53
 format-prefix = "  "
 format-suffix = " "
@@ -266,13 +273,13 @@ format-volume-prefix-padding = ${self.prefix-padding}
 label-volume-padding = ${self.label-padding}
 label-volume-foreground = ${self.label-foreground}
 
-format-muted-prefix = ""
-label-muted = " Muted "
+format-muted-prefix = ""
+label-muted = "□□□□□□"
 
 format-muted-prefix-foreground = ${self.prefix-foreground}
 format-muted-prefix-padding = ${self.prefix-padding}
-label-muted-padding = ${self.label-padding}
-label-muted-foreground = ${self.label-foreground}
+label-muted-foreground = ${colors.material-bar-fg}
+label-muted-padding = 1
 
 bar-volume-width = 6
 bar-volume-fill = ■
@@ -290,19 +297,14 @@ light = ${colors.linear-02-light}
 interface = wlan0
 interval = 3.0
 
-; format-connected-prefix = 
-; format-connected = <ramp-signal><label-connected>
 format-connected = <ramp-signal>
 label-connected = %signal%%
 
-format-connected-prefix-foreground = ${self.prefix-foreground}
-format-connected-prefix-padding = ${self.prefix-padding}
-format-connected-underline = ${self.format-underline}
-format-connected-overline = ${self.format-overline}
 label-connected-padding = ${self.label-padding}
 label-connected-foreground = ${self.label-foreground}
 
-format-disconnected =
+format-disconnected = 
+
 ramp-signal-0 = 
 ramp-signal-1 = 
 ramp-signal-2 = 
@@ -337,7 +339,7 @@ light = ${colors.linear-04-light}
 exec = nordvpn status | grep "Country" | cut -d ":" -f2 && echo ""
 click-left = "custom-nordvpn-menu"
 interval = 30
-format-prefix = ""
+format-prefix = ""
 
 [module/battery]
 type = internal/battery
@@ -348,7 +350,7 @@ battery = BAT0
 adapter = AC0
 full-at = 98
 
-format-charging-prefix = ""
+format-charging-prefix = ""
 format-charging = <animation-charging><label-charging>
 
 format-charging-prefix-foreground = ${self.prefix-foreground}
@@ -416,7 +418,7 @@ time = "%l:%M %p"
 time-alt = "%I:%M:%S %p"
 
 format-prefix = "  "
-label-font = 5
+label-font = 4
 label = %date% %time%
 
 [module/powerbutton]
