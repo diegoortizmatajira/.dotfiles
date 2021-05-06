@@ -256,6 +256,7 @@ inherit = bar-section
 dark = ${colors.linear-01}
 light = ${colors.linear-01-light}
 
+use-ui-max = false
 click-right = pavucontrol
 
 format-volume-prefix = 
@@ -345,7 +346,7 @@ battery = BAT0
 adapter = AC0
 full-at = 98
 
-format-charging-prefix = 
+format-charging-prefix = " "
 format-charging = <animation-charging><label-charging>
 
 format-charging-prefix-foreground = ${self.prefix-foreground}
@@ -356,7 +357,7 @@ label-charging-padding = ${self.label-padding}
 label-charging-foreground = ${self.label-foreground}
 
 format-discharging-prefix =
-format-discharging = <animation-discharging><label-discharging>
+format-discharging = <ramp-capacity><label-discharging>
 
 format-discharging-prefix-foreground = ${self.prefix-foreground}
 format-discharging-prefix-padding = ${self.prefix-padding}
