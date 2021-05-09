@@ -46,7 +46,7 @@ bindsym $mod+Return exec i3-sensible-terminal
 bindsym $mod+e exec thunar 
 
 # launch screen layout selector
-bindsym $mod+p exec layout-selector 
+bindsym $mod+p exec custom-layout
 
 # capture screen 
 bindsym Print exec flameshot screen -c

@@ -1,5 +1,5 @@
 export FREETYPE_PROPERTIES="truetype:interpreter-version=35"
-export EDITOR=vi
+export EDITOR=nvim
 export TERMINAL=kitty
 if [ "$XDG_CURRENT_DESKTOP" = "i3" ]; then
     export QT_QPA_PLATFORMTHEME="qt5ct"
