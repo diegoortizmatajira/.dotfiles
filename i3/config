@@ -43,7 +43,7 @@ floating_modifier $mod
 bindsym $mod+Return exec i3-sensible-terminal
 
 # start a file explorer
-bindsym $mod+e exec thunar 
+bindsym $mod+e exec nautilus 
 
 # launch screen layout selector
 bindsym $mod+p exec custom-layout
@@ -58,10 +58,10 @@ bindsym $mod+Shift+q kill
 bindsym $alt+F4 kill
 
 # start rofi (a program launcher)
-bindcode 133 --release exec "rofi -show drun -show-icons"
-bindsym $mod+s exec "rofi -show drun -show-icons"
-bindsym $alt+Tab exec "rofi -show window -show-icons -kb-row-down 'Down,Control+n,Alt+Tab' -kb-accept-entry '!Alt+Tab,!Alt_L,!Alt+Alt_L,Return'"
-bindsym $mod+d exec --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*
+bindcode 133 --release exec "custom-launcher"
+bindsym $mod+s exec "custom-launcher"
+bindsym $alt+Tab exec "custom-alttab"
+bindsym $mod+d exec --no-startup-id "custom-wallpaper"
 
 # connect to vpn
 bindsym $mod+g exec "custom-nordvpn-menu"
@@ -168,7 +168,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 # exit i3 (logs you out of your X session)
-bindsym $mod+Delete exec --no-startup-id ~/.local/bin/custom-askpoweroptions
+bindsym $mod+Delete exec --no-startup-id custom-askpoweroptions
 
 
 # resize window (you can also use the mouse for that)
@@ -274,7 +274,7 @@ exec --no-startup-id sleep 3 && xfce4-power-manager
 exec --no-startup-id barrier 
 
 # UI Applications that need to be launched on i3 reloading
-exec_always --no-startup-id feh --bg-fill --recursive --randomize ~/Pictures/Wallpapers/*
+exec_always --no-startup-id custom-wallpaper
 exec_always --no-startup-id ~/.config/polybar/launch.sh
 exec_always --no-startup-id autotiling
 

@@ -300,7 +300,7 @@ label-connected = %signal%%
 label-connected-padding = ${self.label-padding}
 label-connected-foreground = ${self.label-foreground}
 
-format-disconnected = 
+format-disconnected =
 
 ramp-signal-0 = 
 ramp-signal-1 = 

@@ -28,9 +28,9 @@ function getOptions() {
 
 SEL=$(getOptions | rofi -dmenu -p "Display Layout" -format i -lines 6 -width 30)
 
-if [ $SEL == "" ] 
-then
+if [ $SEL == "" ]; then
     echo "Cancelled"
-else
-    ${COMMANDS[$SEL]} && i3-msg restart
+    else
+    ${COMMANDS[$SEL]} 
+    # ${COMMANDS[$SEL]} && i3-msg restart
 fi
