@@ -95,4 +95,4 @@ source $ZSH/oh-my-zsh.sh
 
 alias dng="WINEPREFIX=~/.PlayOnLinux/wineprefix/adobe_dng/ ~/.PlayOnLinux/wine/linux-amd64/5.0.1/bin/wine ~/.PlayOnLinux/wineprefix/adobe_dng/drive_c/Program\ Files/Adobe/Adobe\ DNG\ Converter/Adobe\ DNG\ Converter.exe"
 alias vi=nvim
-alias vide="VIMASIDE=true nvim"
+alias vim=nvim

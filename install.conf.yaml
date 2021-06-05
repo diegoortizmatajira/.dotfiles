@@ -59,10 +59,9 @@
     ~/.config/fontconfig/fonts.conf: fontconfig/fonts.conf
 
     # Neovim config files and setup
-    ~/.config/nvim/init.vim: nvim/init.vim
     ~/.config/nvim/LYRD: external/LYRD
     ~/.config/nvim/lua/LYRD: external/LYRD-lua
-    # ~/.config/nvim/init.lua: external/LYRD-lua/root-init.lua
+    ~/.config/nvim/init.lua: external/LYRD-lua/root-init.lua
 
     # kitty config files
     ~/.config/kitty/kitty.conf: kitty/kitty.conf
