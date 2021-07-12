@@ -58,6 +58,9 @@
     # fonts config
     ~/.config/fontconfig/fonts.conf: fontconfig/fonts.conf
 
+    # autorandr
+    ~/.config/autorandr: autorandr
+
     # Neovim config files and setup
     ~/.config/nvim/LYRD: external/LYRD
     ~/.config/nvim/lua/LYRD: external/LYRD-lua
