@@ -34,7 +34,7 @@
       description: Awesome Settings
       url: "https://github.com/diegoortizmatajira/my-awesome"
       method: clone-or-pull
-
+   
 - link:
     # i3 config files
     ~/.config/i3/config: i3/config
@@ -62,7 +62,6 @@
     ~/.config/autorandr: autorandr
 
     # Neovim config files and setup
-    ~/.config/nvim/LYRD: external/LYRD
     ~/.config/nvim/lua/LYRD: external/LYRD-lua
     ~/.config/nvim/init.lua: external/LYRD-lua/root-init.lua
 
