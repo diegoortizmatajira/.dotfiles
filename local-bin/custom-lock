@@ -6,29 +6,29 @@ L='#757575' # Keyboard Layout
 F='SF Pro Display'
 
 IMAGE=/tmp/lockscreen.png
-scrot $IMAGE
+scrot -o $IMAGE
 convert $IMAGE -blur 0x5 -fill black -colorize 25% $IMAGE
 
 i3lock \
     --time-font=$F \
     --date-font=$F \
     --verif-font=$F \
-    --verifsize=20 \
+    --verif-size=20 \
     --wrong-font=$F \
-    --wrongsize=20\
+    --wrong-size=20\
     --greeter-font=$F \
-    --greetersize=20 \
+    --greeter-size=20 \
     --pass-screen-keys \
     --pass-volume-keys \
     --indicator \
     --clock \
-    --timecolor=$T \
-    --timestr="%H:%M" \
-    --datecolor=$T \
-    --datestr="%a, %e %b %Y" \
-    --ringcolor=$R \
-    --layoutcolor=$L \
+    --time-color=$T \
+    --time-str="%H:%M" \
+    --date-color=$T \
+    --date-str="%a, %e %b %Y" \
+    --ring-color=$R \
+    --layout-color=$L \
     --keylayout=0 \
     -i $IMAGE
 
-rm $IMAGE
+# rm $IMAGE
