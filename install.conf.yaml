@@ -7,7 +7,7 @@
 - shell:
   - [git submodule update --init --recursive, Installing submodules]
 
-- clean: ['~']
+- clean: ['~','~/.local/bin']
 
 - git:
     'external/LYRD-lua':
@@ -100,12 +100,8 @@
     ~/.local/bin/custom-wallpaper: local-bin/custom-wallpaper.sh
     ~/.local/bin/plex-start: local-bin/plex-start
     ~/.local/bin/plex-stop: local-bin/plex-stop
-    ~/.local/bin/layout-docked: local-bin/layout-docked.sh
-    ~/.local/bin/layout-undocked: local-bin/layout-undocked.sh
-    ~/.local/bin/layout-partially-docked-1: local-bin/layout-partially-docked-1.sh
-    ~/.local/bin/layout-partially-docked-2: local-bin/layout-partially-docked-2.sh
-    ~/.local/bin/layout-tv: local-bin/layout-tv.sh
     ~/.local/bin/i3-next-available-ws: local-bin/i3-next-available-ws.sh
+    ~/.local/bin/profile-image: local-bin/profile-image.sh
 
 - create:
   - ~/Development/Personal

@@ -7,12 +7,12 @@ pos 0x0
 primary
 rate 60.00
 output DP-1
-crtc 2
-mode 1600x900
-pos 1920x0
-rate 59.98
-output eDP-1
 crtc 1
+mode 1920x1080
+pos 1920x0
+rate 60.00
+output eDP-1
+crtc 2
 mode 1366x768
-pos 3520x0
+pos 3840x0
 rate 60.07
