@@ -31,4 +31,4 @@ i3lock \
     --keylayout=0 \
     -i $IMAGE
 
-# rm $IMAGE
+ rm $IMAGE
