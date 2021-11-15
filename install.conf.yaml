@@ -97,6 +97,7 @@
     ~/.local/bin/custom-layout: local-bin/custom-layout.sh
     ~/.local/bin/custom-alttab: local-bin/custom-alttab.sh
     ~/.local/bin/custom-launcher: local-bin/custom-launcher.sh
+    ~/.local/bin/custom-xrandr-modes: local-bin/custom-xrandr-modes.sh
     ~/.local/bin/custom-wallpaper: local-bin/custom-wallpaper.sh
     ~/.local/bin/plex-start: local-bin/plex-start
     ~/.local/bin/plex-stop: local-bin/plex-stop
