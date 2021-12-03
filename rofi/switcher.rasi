@@ -1,0 +1,88 @@
+/*
+ *
+ * Author  : Aditya Shakya
+ * Mail    : adi1090x@gmail.com
+ * Github  : @adi1090x
+ * Twitter : @adi1090x
+ *
+ */
+
+configuration {
+    show-icons:                     true;
+    display-drun: 					"";
+    drun-display-format:            "{name}";
+    disable-history:                false;
+	sidebar-mode: 					false;
+    font:							"SF Pro Display 10";
+}
+
+@import "colors.rasi"
+
+window {
+    transparency:                   "real";
+    background-color:               @bg;
+    text-color:                     @fg;
+	border:							2px;
+	border-color:					@ac;
+    border-radius:                  12px;
+	width:							35%;
+    location:                       center;
+    x-offset:                       0;
+    y-offset:                       0;
+}
+
+listview {
+    background-color:               @al;
+    padding:                        10px;
+    columns:                        6;
+    lines:                          6;
+    spacing:                        0%;
+    cycle:                          true;
+    dynamic:                        true;
+    layout:                         horizontal;
+}
+
+mainbox {
+    background-color:               @al;
+	border:							0% 0% 0% 0%;
+    border-radius:                  0% 0% 0% 0%;
+	border-color:					@ac;
+    children:                       [ listview ];
+    spacing:                       	0%;
+    padding:                        0%;
+}
+
+element {
+    background-color:               @al;
+    text-color:                     @fg;
+    orientation:                    horizontal;
+    border-radius:                  0%;
+    padding:                        2% 1% 2% 1%;
+    children:                       [ element-icon ];
+}
+
+element-icon {
+    background-color: 				inherit;
+    text-color:       				inherit;
+    horizontal-align:               0.5;
+    vertical-align:                 0.5;
+    size:                           64px;
+    border:                         0px;
+}
+
+element-text selected {
+    background-color: 				@al;
+    text-color:       				inherit;
+    expand:                         true;
+    horizontal-align:               0.5;
+    vertical-align:                 0.5;
+    margin:                         0.5% 0.5% -0.5% 0.5%;
+}
+
+element selected {
+    background-color:               @se;
+    text-color:                     @fg;
+	border:							0% 0% 0% 0%;
+    border-radius:                  12px;
+    border-color:                  	@bg;
+}

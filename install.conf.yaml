@@ -48,6 +48,9 @@
 
     # rofi config file
     ~/.config/rofi/config.rasi: rofi/config.rasi
+    ~/.config/rofi/colors.rasi: rofi/colors.rasi
+    ~/.config/rofi/launcher.rasi: rofi/launcher.rasi
+    ~/.config/rofi/switcher.rasi: rofi/switcher.rasi
 
     # dunst config files
     ~/.config/dunst/dunstrc: dunst/dunstrc
