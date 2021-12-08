@@ -1,2 +1,2 @@
 #!/bin/sh
-rofi -show drun -show-icons -theme launcher.rasi
+rofi -show drun -theme launcher.rasi
