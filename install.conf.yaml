@@ -107,6 +107,7 @@
     ~/.local/bin/i3-next-available-ws: local-bin/i3-next-available-ws.sh
     ~/.local/bin/profile-image: local-bin/profile-image.sh
     ~/.local/bin/speak: local-bin/speak.sh
+    ~/.local/bin/habla: local-bin/habla.sh
 
 - create:
   - ~/Development/Personal
