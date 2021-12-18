@@ -108,6 +108,7 @@
     ~/.local/bin/profile-image: local-bin/profile-image.sh
     ~/.local/bin/speak: local-bin/speak.sh
     ~/.local/bin/habla: local-bin/habla.sh
+    ~/.local/bin/download-comics: local-bin/download-comics.py
 
 - create:
   - ~/Development/Personal
