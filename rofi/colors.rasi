@@ -8,4 +8,5 @@
   dfg: #616161FF;
   fg:  #FFFFFFFF;
   ac:  #00000055;
+  bd:  #616161FF;
 }
