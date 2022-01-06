@@ -5,7 +5,6 @@ set ignorecase smartcase
 set hlsearch
 set showmode
 set incsearch
-set relativenumber
 set number 
 
 set commentary
@@ -19,30 +18,21 @@ nmap <C-s> :w<CR>
 imap <C-s> <Esc>:w<CR>
 map ZQ :action exit<CR>
 map ZZ :action CloseContent<CR>
+map gi :action GotoImplementation<CR>
 nmap <space>qq ZQ
 
 map <leader><space> :nohlsearch<CR>
 nmap <leader>rn :action RenameElement<CR>
 
 " EASYMOTION
-map <Plug>(easymotion-prefix)l <Plug>(easymotion-lineforward)
-map <Plug>(easymotion-prefix)j <Plug>(easymotion-sol-j)
-map <Plug>(easymotion-prefix)J <Plug>(easymotion-j)
-map <Plug>(easymotion-prefix)k <Plug>(easymotion-sol-k)
-map <Plug>(easymotion-prefix)K <Plug>(easymotion-k)
-map <Plug>(easymotion-prefix)h <Plug>(easymotion-linebackward)
-map <Plug>(easymotion-prefix)a <Plug>(easymotion-jumptoanywhere)
-map <Plug>(easymotion-prefix)s <Plug>(easymotion-s)
-map <Plug>(easymotion-prefix)S <Plug>(easymotion-sln)
-map ? <Plug>(easymotion-sn)
-omap ? <Plug>(easymotion-sn)
+map s <Plug>(easymotion-s)
 
 " Buffers
 nmap <space><Tab> :action GoToLastTab<CR>
 nmap <space>bf :action ReformatCode<CR>
 map <space>bd :action CloseEditor<CR>
-map <space>bx :action CloseAllEditorsButActive<CR>
-map <space>bX :action CloseAllEditors<CR>
+map <space>bX :action CloseAllEditorsButActive<CR>
+map <space>bx :action CloseAllEditors<CR>
 map <space>bh :action SplitHorizontally<CR>
 map <space>bv :action SplitVertically<CR>
 map <space>bw :action ToggleReadOnlyAttribute<CR>
@@ -121,4 +111,5 @@ nmap <space>tr :action RiderUnitTestRepeatPreviousRunAction<CR>
 " Commentary workaround
 nmap gcc :action CommentByLineComment<CR>
 vmap gc :action CommentByLineComment<CR>
+
 

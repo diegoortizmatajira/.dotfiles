@@ -15,9 +15,9 @@
       url: "https://github.com/diegoortizmatajira/LYRD-lua" 
       method: clone
 
-    'external/LYRD':
-      description: LYRD for Neovim from repository
-      url: "https://github.com/diegoortizmatajira/LYRD" 
+    'external/my-awesome':
+      description: Awesome Settings
+      url: "https://github.com/diegoortizmatajira/my-awesome"
       method: clone
 
     'external/kitty-themes':
@@ -30,21 +30,14 @@
       url: "https://github.com/jluttine/rofi-power-menu"
       method: clone-or-pull
 
-    'external/my-awesome':
-      description: Awesome Settings
-      url: "https://github.com/diegoortizmatajira/my-awesome"
+    'external/zsh-autosuggestions':
+      description: ZSH Autosuggestions plugin
+      url: "https://github.com/zsh-users/zsh-autosuggestions"
       method: clone-or-pull
    
 - link:
-    # i3 config files
-    ~/.config/i3/config: i3/config
-    
     # picom config files
     ~/.config/picom/picom.conf: picom/picom.conf
-
-    # polybar config files
-    ~/.config/polybar/config: polybar/config
-    ~/.config/polybar/launch.sh: polybar/launch.sh
 
     # rofi config file
     ~/.config/rofi/config.rasi: rofi/config.rasi
@@ -75,9 +68,6 @@
     # awesome
     ~/.config/awesome: external/my-awesome
 
-    # visual studio 
-    ~/.vsvimrc: vs/vimrc
-
     # visual studio code
     ~/.vscode_vimrc: vscode/vimrc
 
@@ -89,11 +79,11 @@
     ~/.zprofile: zsh/zprofile
     ~/.zshenv: zsh/zshenv
     ~/.oh-my-zsh/custom/themes/agnoster-jimlaptop.zsh-theme: zsh/themes/agnoster-jimlaptop.zsh-theme
+    ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions: external/zsh-autosuggestions
 
     # Custom commands
     ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
     ~/.local/bin/custom-askpoweroptions: local-bin/custom-askpoweroptions
-    ~/.local/bin/custom-i3exit: local-bin/custom-i3exit
     ~/.local/bin/custom-lock: local-bin/custom-lock
     ~/.local/bin/custom-clipboard: local-bin/custom-clipboard.sh
     ~/.local/bin/custom-nordvpn-menu: local-bin/custom-nordvpn-menu.sh
@@ -104,7 +94,6 @@
     ~/.local/bin/custom-wallpaper: local-bin/custom-wallpaper.sh
     ~/.local/bin/plex-start: local-bin/plex-start
     ~/.local/bin/plex-stop: local-bin/plex-stop
-    ~/.local/bin/i3-next-available-ws: local-bin/i3-next-available-ws.sh
     ~/.local/bin/profile-image: local-bin/profile-image.sh
     ~/.local/bin/speak: local-bin/speak.sh
     ~/.local/bin/habla: local-bin/habla.sh
