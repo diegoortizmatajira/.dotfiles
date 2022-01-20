@@ -98,6 +98,7 @@
     ~/.local/bin/speak: local-bin/speak.sh
     ~/.local/bin/habla: local-bin/habla.sh
     ~/.local/bin/download-comics: local-bin/download-comics.py
+    ~/.local/bin/download-books: local-bin/download-books.py
 
 - create:
   - ~/Development/Personal
