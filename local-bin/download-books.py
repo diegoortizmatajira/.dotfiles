@@ -4,22 +4,29 @@ from bs4 import BeautifulSoup
 import requests
 from colorama import Fore, Style
 
+ZLIB = 'https://z-lib.org'
 GOODREADS = 'https://www.goodreads.com'
+BOOK_LIMIT = 5
 
 
-def main(book: str):
+def get_filter(book: str, author: str = None):
+    return book + ('' if author == None else ' '+author)
+
+
+def main(book: str, author: str = None):
     base_url = search_zlib_base_url()
-    books_in_serie = search_goodreads_books_in_series(book)
+    filter = get_filter(book, author)
+    books_in_serie = search_goodreads_books_in_series(filter)
     if books_in_serie == None:
-        search_zlib_book(base_url, book)
+        search_zlib_book(base_url, filter)
     else:
         for book_in_serie in books_in_serie:
             search_zlib_book(
-                base_url, book_in_serie['name'], book_in_serie['number'])
+                base_url, book_in_serie['filter'], book_in_serie['number'])
 
 
-def search_goodreads_book(book: str):
-    response = requests.get(f"{GOODREADS}/search?q={book}&qid=")
+def search_goodreads_book(filter: str):
+    response = requests.get(f"{GOODREADS}/search?q={filter}&qid=")
     soup = BeautifulSoup(response.text, 'html.parser')
     if soup == None:
         return None
@@ -29,8 +36,8 @@ def search_goodreads_book(book: str):
     return books_link['href']
 
 
-def search_goodreads_series(book: str):
-    url = search_goodreads_book(book)
+def search_goodreads_series(filter: str):
+    url = search_goodreads_book(filter)
     response = requests.get(f'{GOODREADS}{url}')
     soup = BeautifulSoup(response.text, 'html.parser')
     if soup == None:
@@ -44,8 +51,8 @@ def search_goodreads_series(book: str):
     return series_link['href']
 
 
-def search_goodreads_books_in_series(book: str):
-    series_url = search_goodreads_series(book)
+def search_goodreads_books_in_series(filter: str):
+    series_url = search_goodreads_series(filter)
     if series_url == None:
         return None
     response = requests.get(f'{GOODREADS}{series_url}')
@@ -57,37 +64,38 @@ def search_goodreads_books_in_series(book: str):
     for header in headers:
         number = header.find('h3', attrs={'class': 'gr-h3'})
         title = header.find('span', attrs={'itemprop': 'name'})
+        author = header.find('span', attrs={'itemprop': 'author'})
         result.append({
-            'name': title.text.strip(),
+            'filter': get_filter(title.text.strip(), author.text.strip()),
             'number': number.text.strip(),
         })
     return result
 
 
 def search_zlib_base_url():
-    response = requests.get('https://z-lib.org')
+    response = requests.get(ZLIB)
     soup = BeautifulSoup(response.text, 'html.parser')
     if soup == None:
         return None
-    books_link = soup.find('a', text='Books', attrs={
-                           'class': 'domain-check-link'})
+    books_link = soup.find('a', text='Books', attrs={'class': 'domain-check-link'
+                                                     })
     if books_link == None:
         return None
     url = books_link['href']
     return 'https:' + url if url[:2] == "//" else url
 
 
-def search_zlib_book(base_url: str, book: str, prefix: str = None):
-    url = f"{base_url}/s/{book}/?e=1&extensions[]=epub"
+def search_zlib_book(base_url: str, filter: str, prefix: str = None):
+    url = f"{base_url}/s/{filter}/?e=1&extensions[]=epub"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     if soup == None:
         return None
     entries = soup \
-        .find_all('tr', attrs={'class': 'bookRow'}, limit=5)
+        .find_all('tr', attrs={'class': 'bookRow'}, limit=BOOK_LIMIT)
     if prefix != None:
         print(f"{Fore.WHITE}*****************************")
-        print(f"[{prefix} - {book}]")
+        print(f"[{prefix} - {filter}]")
         print(f"{Fore.WHITE}*****************************{Style.RESET_ALL}")
     for entry in entries:
         title_section = entry.find('h3', attrs={'itemprop': 'name'})
@@ -113,4 +121,8 @@ if __name__ == '__main__':
         print('You need to provide a book name')
         exit
     else:
-        main(sys.argv[1])
+        title = sys.argv[1]
+        author = None
+        if len(sys.argv) > 2:
+            author = sys.argv[2]
+        main(title, author)
