@@ -93,6 +93,8 @@ def search_zlib_book(base_url: str, filter: str, prefix: str = None):
         return None
     entries = soup \
         .find_all('tr', attrs={'class': 'bookRow'}, limit=BOOK_LIMIT)
+    if len(entries) == 0:
+        return
     if prefix != None:
         print(f"{Fore.WHITE}*****************************")
         print(f"[{prefix} - {filter}]")
