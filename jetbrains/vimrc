@@ -19,6 +19,8 @@ imap <C-s> <Esc>:w<CR>
 map ZQ :action exit<CR>
 map ZZ :action CloseContent<CR>
 map gi :action GotoImplementation<CR>
+nmap gpi" vi""0p 
+nmap gpi' vi'"0p 
 nmap <space>qq ZQ
 
 map <leader><space> :nohlsearch<CR>
