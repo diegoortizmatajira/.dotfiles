@@ -34,6 +34,11 @@
       description: ZSH Autosuggestions plugin
       url: "https://github.com/zsh-users/zsh-autosuggestions"
       method: clone-or-pull
+
+    'external/zsh-fast-syntax-highlighting':
+      description: ZSH Fast Syntax Highlighting
+      url: "https://github.com/zdharma-continuum/fast-syntax-highlighting"
+      method: clone-or-pull
    
 - link:
     # picom config files
@@ -80,6 +85,7 @@
     ~/.zshenv: zsh/zshenv
     ~/.oh-my-zsh/custom/themes/agnoster-jimlaptop.zsh-theme: zsh/themes/agnoster-jimlaptop.zsh-theme
     ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions: external/zsh-autosuggestions
+    ~/.oh-my-zsh/custom/plugins/fast-syntax-highlighting: external/zsh-fast-syntax-highlighting
 
     # Custom commands
     ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
