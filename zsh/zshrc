@@ -98,3 +98,4 @@ alias vi=nvim
 alias vim=nvim
 alias ls=lsd
 source /usr/share/goto/goto.sh
+[[ -s /etc/profile.d/autojump.sh ]] && source /etc/profile.d/autojump.sh
