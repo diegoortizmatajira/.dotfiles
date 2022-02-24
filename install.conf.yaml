@@ -40,6 +40,11 @@
       url: "https://github.com/zdharma-continuum/fast-syntax-highlighting"
       method: clone-or-pull
    
+    'external/zsh-vi-mode':
+      description: ZSH Vi mode
+      url: "https://github.com/jeffreytse/zsh-vi-mode"
+      method: clone-or-pull
+
 - link:
     # picom config files
     ~/.config/picom/picom.conf: picom/picom.conf
@@ -86,6 +91,7 @@
     ~/.oh-my-zsh/custom/themes/agnoster-jimlaptop.zsh-theme: zsh/themes/agnoster-jimlaptop.zsh-theme
     ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions: external/zsh-autosuggestions
     ~/.oh-my-zsh/custom/plugins/fast-syntax-highlighting: external/zsh-fast-syntax-highlighting
+    ~/.oh-my-zsh/custom/plugins/zsh-vi-mode: external/zsh-vi-mode
 
     # Custom commands
     ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
