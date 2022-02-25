@@ -2,10 +2,10 @@
 	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
 	"font_face": "Hasklig",
 	"font_size": 10,
-	"ignored_packages":
-	[
-		"Vintage",
-	],
+	"ignored_packages": [],
 	"open_files_in_new_window": false,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "Adaptive.sublime-theme", 	
+	"vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": true
+h
 }
