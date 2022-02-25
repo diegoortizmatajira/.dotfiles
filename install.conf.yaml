@@ -84,6 +84,9 @@
     # Jetbrains IDE
     ~/.ideavimrc: jetbrains/vimrc
 
+    # Sublime config
+    ~/.config/sublime-text-3/Packages/User: sublime-text/user
+
     # Zsh config files
     ~/.zshrc: zsh/zshrc
     ~/.zprofile: zsh/zprofile
