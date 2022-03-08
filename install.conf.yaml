@@ -90,6 +90,9 @@
     # Onedrive
     ~/.config/onedrive/config: onedrive/config
 
+    # Xterm
+    ~/.Xresources: xterm/.Xresources
+
     # Zsh config files
     ~/.zshrc: zsh/zshrc
     ~/.zprofile: zsh/zprofile

@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
-
+#!/bin/sh
 printf "${HOME}/.face"
 

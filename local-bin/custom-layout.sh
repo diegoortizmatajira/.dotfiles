@@ -38,5 +38,4 @@ if [ $SEL == "" ]; then
     echo "Cancelled"
     else
     ${COMMANDS[$SEL]} 
-    # ${COMMANDS[$SEL]} && i3-msg restart
 fi

@@ -6,6 +6,8 @@
 	"installed_packages":
 	[
 		"Agila Theme",
+		"Golang",
+		"Golang Tools Integration",
 		"gruvbox",
 		"Indent XML",
 		"Package Control",
