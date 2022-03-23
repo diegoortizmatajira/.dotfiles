@@ -130,6 +130,8 @@
     ~/.local/bin/nato-spell: local-bin/nato-spell.py
     ~/.local/bin/english-spell: local-bin/english-spell.py
 
+    ~/.local/share/fonts: local-fonts
+
 - create:
   - ~/Development/Personal
   - ~/Development/Sandbox
