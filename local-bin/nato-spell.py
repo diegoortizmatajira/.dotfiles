@@ -33,12 +33,9 @@ nato_alphabet = {
 try:
     sys.argv[1]
 except:
-    print("Usage: natoalphabet.py <word>")
+    print("Usage: nato-spell <word> or \"<sentence>\"")
     exit(1)
 
 for letter in sys.argv[1]:
     lowerletter = letter.lower()
-    if lowerletter not in nato_alphabet:
-        print(lowerletter)
-    else:
-        print(nato_alphabet[lowerletter])
+    print(f'{letter}: {nato_alphabet.get(lowerletter, lowerletter)}')

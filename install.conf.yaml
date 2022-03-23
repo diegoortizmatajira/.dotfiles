@@ -127,7 +127,8 @@
     ~/.local/bin/download-comics: local-bin/download-comics.py
     ~/.local/bin/download-books: local-bin/download-books.py
     ~/.local/bin/cht.sh: local-bin/cht.sh
-    ~/.local/bin/nato-alphabeth: local-bin/nato-alphabeth.py
+    ~/.local/bin/nato-spell: local-bin/nato-spell.py
+    ~/.local/bin/english-spell: local-bin/english-spell.py
 
 - create:
   - ~/Development/Personal
