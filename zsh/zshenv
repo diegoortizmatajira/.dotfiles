@@ -1,4 +1,4 @@
-export GOPATH=/home/diegoortizmatajira/go
+export GOPATH=$HOME/.go
 export GOPRIVATE="https://gitlab.com/diegoortizmatajira,https://gitlab.com/get-software,$GOPRIVATE"
 
 export PATH=$PATH:$GOPATH/bin
