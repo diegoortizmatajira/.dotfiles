@@ -1,2 +1,2 @@
 #!/bin/sh
-rofi -show windowcd -theme switcher.rasi 
+rofi -show window -theme switcher.rasi 
