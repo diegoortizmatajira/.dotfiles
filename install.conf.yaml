@@ -78,7 +78,7 @@
 
     # kitty config files
     ~/.config/kitty/kitty.conf: kitty/kitty.conf
-    ~/.config/kitty/theme.conf: external/kitty-themes/themes/MaterialDark.conf
+    ~/.config/kitty/theme.conf: external/kitty-themes/themes/DimmedMonokai.conf
 
     # awesome
     ~/.config/awesome: external/my-awesome
