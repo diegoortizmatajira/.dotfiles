@@ -25,6 +25,7 @@ nmap <space>qq ZQ
 
 map <leader><space> :nohlsearch<CR>
 nmap <leader>rn :action RenameElement<CR>
+nmap <leader>f :action ReformatCode<CR>
 
 " EASYMOTION
 map s <Plug>(easymotion-s)
