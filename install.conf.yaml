@@ -113,9 +113,11 @@
     ~/.local/bin/custom-askpoweroptions: local-bin/custom-askpoweroptions
     ~/.local/bin/custom-lock: local-bin/custom-lock
     ~/.local/bin/custom-clipboard: local-bin/custom-clipboard.sh
+    ~/.local/bin/custom-ocr: local-bin/custom-ocr.sh
     ~/.local/bin/custom-nordvpn-menu: local-bin/custom-nordvpn-menu.sh
     ~/.local/bin/custom-layout: local-bin/custom-layout.sh
     ~/.local/bin/custom-alttab: local-bin/custom-alttab.sh
+    ~/.local/bin/custom-window-switch-local: local-bin/custom-window-switch-local.sh
     ~/.local/bin/custom-launcher: local-bin/custom-launcher.sh
     ~/.local/bin/custom-xrandr-modes: local-bin/custom-xrandr-modes.sh
     ~/.local/bin/custom-wallpaper: local-bin/custom-wallpaper.sh
