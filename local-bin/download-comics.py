@@ -43,9 +43,10 @@ def download_link_search(url: str, filter: str) -> Dict[str, Any] | None:
         return None
     result = {}
     for book_pack in books:
-        pack_title = book_pack.find(
-            text=True, recursive=False).replace(':', '').strip()
-        match = re.search(filter, pack_title)
+        pack_title = book_pack.find(text=True, recursive=False)
+        if pack_title == None:
+            continue
+        match = re.search(filter, pack_title.replace(':', '').strip())
         if match == None:
             continue
         extracted_links = {}
@@ -80,7 +81,7 @@ def download_week(delta: int = 0, download: str = 'y'):
     offset = (today.weekday() - WEDNESDAY) % 7
     last_wednesday = today - timedelta(days=offset)
     day_for_download = last_wednesday - timedelta(days=7*delta)
-    date_string = day_for_download.strftime('%Y.%m.%d')
+    date_string = day_for_download.strftime('%Y %m %d')
     url = f'https://getcomics.info/?s={date_string}+weekly'
     filter = 'Marvel|DC'
     priority = ['Zippyshare', 'Mediafire']
