@@ -97,4 +97,5 @@ alias dng="WINEPREFIX=~/.PlayOnLinux/wineprefix/adobe_dng/ ~/.PlayOnLinux/wine/l
 alias vi=nvim
 alias vim=nvim
 alias ls=lsd
+alias x=exit
 source /usr/share/goto/goto.sh
