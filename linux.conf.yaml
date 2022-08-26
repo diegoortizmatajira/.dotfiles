@@ -5,15 +5,15 @@
       force: true
 
 - shell:
-  - [git submodule update --init --recursive, Installing submodules]
+    - [git submodule update --init --recursive, Installing submodules]
 
 - git:
-    'external/my-awesome':
+    "external/my-awesome":
       description: Awesome Settings
       url: "https://github.com/diegoortizmatajira/my-awesome"
       method: clone
 
-    'external/rofi-power-menu':
+    "external/rofi-power-menu":
       description: Rofi power menu from repository
       url: "https://github.com/jluttine/rofi-power-menu"
       method: clone-or-pull
@@ -69,19 +69,18 @@
     ~/.local/share/fonts: local-fonts
 
 - create:
-  - ~/Development/Personal
-  - ~/Development/Sandbox
-  - ~/Downloads/Torrents - Completed
-  - ~/Downloads/Torrents - In Process
-  - ~/Downloads/Books
-  - ~/Downloads/Temporal
-    
+    - ~/Development/Personal
+    - ~/Development/Sandbox
+    - ~/Downloads/Torrents - Completed
+    - ~/Downloads/Torrents - In Process
+    - ~/Downloads/Books
+    - ~/Downloads/Temporal
+
 - sudo:
-  - create:
-    - /etc/systemd/logind.conf.d
+    - create:
+        - /etc/systemd/logind.conf.d
 
-  - link:
-      /etc/X11/xorg.conf.d/90-touchpad.conf: linux/xorg.conf.d/90-touchpad.conf
-      /etc/X11/xorg.conf.d/00-keyboard.conf: linux/xorg.conf.d/00-keyboard.conf
-      /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf
-
+    - link:
+        /etc/X11/xorg.conf.d/90-touchpad.conf: linux/xorg.conf.d/90-touchpad.conf
+        /etc/X11/xorg.conf.d/00-keyboard.conf: linux/xorg.conf.d/00-keyboard.conf
+        /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf

@@ -5,37 +5,37 @@
       force: true
 
 - shell:
-  - [git submodule update --init --recursive, Installing submodules]
+    - [git submodule update --init --recursive, Installing submodules]
 
-- clean: ['~','~/.local/bin']
+- clean: ["~", "~/.local/bin"]
 
 - git:
-    'external/LYRD-lua':
+    "external/LYRD-lua":
       description: LYRD in lua for Neovim from repository
-      url: "https://github.com/diegoortizmatajira/LYRD-lua" 
+      url: "https://github.com/diegoortizmatajira/LYRD-lua"
       method: clone
 
-    'external/kitty-themes':
+    "external/kitty-themes":
       description: Themes for Kitty from repository
       url: "https://github.com/dexpota/kitty-themes.git"
       method: clone-or-pull
-      
-    'external/zsh-autosuggestions':
+
+    "external/zsh-autosuggestions":
       description: ZSH Autosuggestions plugin
       url: "https://github.com/zsh-users/zsh-autosuggestions"
       method: clone-or-pull
 
-    'external/zsh-fast-syntax-highlighting':
+    "external/zsh-fast-syntax-highlighting":
       description: ZSH Fast Syntax Highlighting
       url: "https://github.com/zdharma-continuum/fast-syntax-highlighting"
       method: clone-or-pull
-   
-    'external/zsh-vi-mode':
+
+    "external/zsh-vi-mode":
       description: ZSH Vi mode
       url: "https://github.com/jeffreytse/zsh-vi-mode"
       method: clone-or-pull
 
-    'external/zsh-256color':
+    "external/zsh-256color":
       description: ZSH 256 Color
       url: "https://github.com/chrissicool/zsh-256color"
       method: clone-or-pull
