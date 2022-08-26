@@ -43,7 +43,7 @@ gnome-calculator
 gnome-disk-utility
 gnome-font-viewer
 gnome-logs
-go
+go-2
 google-chrome
 goto
 gparted
@@ -112,7 +112,6 @@ pdftk
 perl
 picom-git
 playerctl
-playonlinux
 pnmixer
 polkit-gnome
 postman-bin
@@ -152,7 +151,7 @@ speedtest-cli
 sshfs
 stremio
 stress
-sublime-text
+sublime-text-4
 sudo
 sysfsutils
 systemd-resolvconf
@@ -192,9 +191,6 @@ visual-studio-code-bin
 vlc
 wget
 which
-wine
-wine-gecko
-winetricks
 wireguard-tools
 wireless_tools
 wmctrl

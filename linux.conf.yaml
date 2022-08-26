@@ -1,0 +1,86 @@
+- defaults:
+    link:
+      relink: true
+      create: true
+      force: true
+
+- shell:
+    - [git submodule update --init --recursive, Installing submodules]
+
+- git:
+    "external/my-awesome":
+      description: Awesome Settings
+      url: "https://github.com/diegoortizmatajira/my-awesome"
+      method: clone
+
+    "external/rofi-power-menu":
+      description: Rofi power menu from repository
+      url: "https://github.com/jluttine/rofi-power-menu"
+      method: clone-or-pull
+
+- link:
+    # picom config files
+    ~/.config/picom/picom.conf: linux/picom/picom.conf
+
+    # rofi config file
+    ~/.config/rofi/config.rasi: linux/rofi/config.rasi
+    ~/.config/rofi/colors.rasi: linux/rofi/colors.rasi
+    ~/.config/rofi/launcher.rasi: linux/rofi/launcher.rasi
+    ~/.config/rofi/switcher.rasi: linux/rofi/switcher.rasi
+
+    # dunst config files
+    ~/.config/dunst/dunstrc: linux/dunst/dunstrc
+
+    # xsettings
+    ~/.config/xsettingsd/xsettingsd.conf: linux/xsettingsd/xsettingsd.conf
+
+    # fonts config
+    ~/.config/fontconfig/fonts.conf: linux/fontconfig/fonts.conf
+
+    # autorandr
+    ~/.config/autorandr: linux_work/autorandr
+
+    # awesome
+    ~/.config/awesome: external/my-awesome
+
+    # Onedrive
+    ~/.config/onedrive/config: linux/onedrive/config
+
+    # Xterm
+    ~/.Xresources: linux/xterm/.Xresources
+
+    # Custom commands
+    ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
+    ~/.local/bin/custom-askpoweroptions: linux/local-bin/custom-askpoweroptions
+    ~/.local/bin/custom-lock: linux/local-bin/custom-lock
+    ~/.local/bin/custom-clipboard: linux/local-bin/custom-clipboard.sh
+    ~/.local/bin/custom-ocr: linux/local-bin/custom-ocr.sh
+    ~/.local/bin/custom-nordvpn-menu: linux/local-bin/custom-nordvpn-menu.sh
+    ~/.local/bin/custom-layout: linux/local-bin/custom-layout.sh
+    ~/.local/bin/custom-alttab: linux/local-bin/custom-alttab.sh
+    ~/.local/bin/custom-window-switch-local: linux/local-bin/custom-window-switch-local.sh
+    ~/.local/bin/custom-launcher: linux/local-bin/custom-launcher.sh
+    ~/.local/bin/custom-xrandr-modes: linux/local-bin/custom-xrandr-modes.sh
+    ~/.local/bin/custom-wallpaper: linux/local-bin/custom-wallpaper.sh
+    ~/.local/bin/plex-start: linux/local-bin/plex-start
+    ~/.local/bin/plex-stop: linux/local-bin/plex-stop
+    ~/.local/bin/profile-image: linux/local-bin/profile-image.sh
+
+    ~/.local/share/fonts: local-fonts
+
+- create:
+    - ~/Development/Personal
+    - ~/Development/Sandbox
+    - ~/Downloads/Torrents - Completed
+    - ~/Downloads/Torrents - In Process
+    - ~/Downloads/Books
+    - ~/Downloads/Temporal
+
+- sudo:
+    - create:
+        - /etc/systemd/logind.conf.d
+
+    - link:
+        /etc/X11/xorg.conf.d/90-touchpad.conf: linux/xorg.conf.d/90-touchpad.conf
+        /etc/X11/xorg.conf.d/00-keyboard.conf: linux/xorg.conf.d/00-keyboard.conf
+        /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf
