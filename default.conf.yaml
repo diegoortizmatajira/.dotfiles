@@ -1,0 +1,78 @@
+- defaults:
+    link:
+      relink: true
+      create: true
+      force: true
+
+- shell:
+  - [git submodule update --init --recursive, Installing submodules]
+
+- clean: ['~','~/.local/bin']
+
+- git:
+    'external/LYRD-lua':
+      description: LYRD in lua for Neovim from repository
+      url: "https://github.com/diegoortizmatajira/LYRD-lua" 
+      method: clone
+
+    'external/kitty-themes':
+      description: Themes for Kitty from repository
+      url: "https://github.com/dexpota/kitty-themes.git"
+      method: clone-or-pull
+      
+    'external/zsh-autosuggestions':
+      description: ZSH Autosuggestions plugin
+      url: "https://github.com/zsh-users/zsh-autosuggestions"
+      method: clone-or-pull
+
+    'external/zsh-fast-syntax-highlighting':
+      description: ZSH Fast Syntax Highlighting
+      url: "https://github.com/zdharma-continuum/fast-syntax-highlighting"
+      method: clone-or-pull
+   
+    'external/zsh-vi-mode':
+      description: ZSH Vi mode
+      url: "https://github.com/jeffreytse/zsh-vi-mode"
+      method: clone-or-pull
+
+    'external/zsh-256color':
+      description: ZSH 256 Color
+      url: "https://github.com/chrissicool/zsh-256color"
+      method: clone-or-pull
+
+- link:
+    # Neovim config files and setup
+    ~/.config/nvim/lua/LYRD: external/LYRD-lua
+    ~/.config/nvim/init.lua: external/LYRD-lua/root-init.lua
+
+    # kitty config files
+    ~/.config/kitty/kitty.conf: kitty/kitty.conf
+    ~/.config/kitty/theme.conf: external/kitty-themes/themes/DimmedMonokai.conf
+
+    # visual studio code
+    ~/.vscode_vimrc: vscode/vimrc
+
+    # Jetbrains IDE
+    ~/.ideavimrc: jetbrains/vimrc
+
+    # Sublime config
+    ~/.config/sublime-text-3/Packages/User: sublime-text/user
+
+    # Zsh config files
+    ~/.zshrc: zsh/zshrc
+    ~/.zprofile: zsh/zprofile
+    ~/.zshenv: zsh/zshenv
+    ~/.oh-my-zsh/custom/themes/agnoster-jimlaptop.zsh-theme: zsh/themes/agnoster-jimlaptop.zsh-theme
+    ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions: external/zsh-autosuggestions
+    ~/.oh-my-zsh/custom/plugins/fast-syntax-highlighting: external/zsh-fast-syntax-highlighting
+    ~/.oh-my-zsh/custom/plugins/zsh-vi-mode: external/zsh-vi-mode
+    ~/.oh-my-zsh/custom/plugins/zsh-256color: external/zsh-256color
+
+    # Custom commands
+    ~/.local/bin/speak: local-bin/speak.sh
+    ~/.local/bin/habla: local-bin/habla.sh
+    ~/.local/bin/download-comics: local-bin/download-comics.py
+    ~/.local/bin/download-books: local-bin/download-books.py
+    ~/.local/bin/cht.sh: local-bin/cht.sh
+    ~/.local/bin/nato-spell: local-bin/nato-spell.py
+    ~/.local/bin/english-spell: local-bin/english-spell.py
