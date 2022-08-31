@@ -37,8 +37,8 @@
     # fonts config
     ~/.config/fontconfig/fonts.conf: linux/fontconfig/fonts.conf
 
-    # autorandr
-    ~/.config/autorandr: linux_work/autorandr
+    # xfce4
+    ~/.config/xfce4/xfconf/xfce-perchannel-xml: linux/xfce4/xfce-perchannel-xml
 
     # awesome
     ~/.config/awesome: external/my-awesome
