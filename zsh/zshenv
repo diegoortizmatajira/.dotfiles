@@ -1,13 +1,6 @@
 export GOPATH=$HOME/.go
-export GOPRIVATE="https://gitlab.com/diegoortizmatajira,https://gitlab.com/get-software,$GOPRIVATE"
-
 export PATH=$PATH:$GOPATH/bin
-export PATH=$PATH:/opt/brew/bin
 export PATH=$PATH:~/.dotnet/tools
 export PATH=$PATH:~/.local/bin
 export PATH=$PATH:/usr/lib/ruby/gems/3.0.0
 export PATH=$PATH:~/.gem/ruby/3.0.0
-export AWS_PROFILE=Research-Test
-export AWS_REGION=us-west-2
-export AWS_DEFAULT_REGION=us-west-2
-export AWS_SDK_LOAD_CONFIG=1
