@@ -114,14 +114,14 @@
         <property name="workspace10" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-verticals.png"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-stripes.png"/>
         </property>
       </property>
       <property name="monitorHDMI-2" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/diegoortizmatajira/Pictures/Wallpapers/Street/Australia-Sydney-night-city-skyscrapers-lights-street_2560x1600.jpg"/>
+          <property name="last-image" type="string" value="/home/diegoortizmatajira/Pictures/Wallpapers/Street/sunrise-city-street-wallpaper-4.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -167,6 +167,7 @@
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
           <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-verticals.png"/>
+          <property name="backdrop-cycle-enable" type="bool" value="true"/>
         </property>
         <property name="workspace10" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -182,7 +183,7 @@
     <property name="show" type="bool" value="false"/>
   </property>
   <property name="desktop-icons" type="empty">
-    <property name="style" type="int" value="0"/>
+    <property name="style" type="int" value="2"/>
     <property name="primary" type="bool" value="false"/>
   </property>
 </channel>

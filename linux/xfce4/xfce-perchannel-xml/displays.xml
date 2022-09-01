@@ -12,12 +12,12 @@
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
       <property name="Scale" type="empty">
-        <property name="X" type="double" value="0.100000"/>
-        <property name="Y" type="double" value="0.100000"/>
+        <property name="X" type="double" value="0.000000"/>
+        <property name="Y" type="double" value="0.000000"/>
       </property>
       <property name="Position" type="empty">
         <property name="X" type="int" value="0"/>
-        <property name="Y" type="int" value="1080"/>
+        <property name="Y" type="int" value="0"/>
       </property>
     </property>
     <property name="DP-1" type="string" value="BenQ 24&quot;">
@@ -146,6 +146,33 @@
         <property name="X" type="int" value="1920"/>
         <property name="Y" type="int" value="0"/>
       </property>
+    </property>
+  </property>
+  <property name="88f81946bd1bfd0eec0d793fc653c1ee76da2d6f" type="string" value="Only Left External Display">
+    <property name="eDP-1" type="string" value="Laptop">
+      <property name="Active" type="bool" value="false"/>
+      <property name="EDID" type="string" value="2d605b94e9054d33ce30e474423d1186a1c66b39"/>
+    </property>
+    <property name="DP-1" type="string" value="BenQ 24&quot;">
+      <property name="Active" type="bool" value="true"/>
+      <property name="EDID" type="string" value="ca7f90abbef855b013d4c6897205be8f06cdc3fc"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="60.000000"/>
+      <property name="Rotation" type="int" value="0"/>
+      <property name="Reflection" type="string" value="0"/>
+      <property name="Primary" type="bool" value="true"/>
+      <property name="Scale" type="empty">
+        <property name="X" type="double" value="1.000000"/>
+        <property name="Y" type="double" value="1.000000"/>
+      </property>
+      <property name="Position" type="empty">
+        <property name="X" type="int" value="0"/>
+        <property name="Y" type="int" value="0"/>
+      </property>
+    </property>
+    <property name="HDMI-2" type="string" value="Hewlett Packard 24&quot;">
+      <property name="Active" type="bool" value="false"/>
+      <property name="EDID" type="string" value="db09d00c55e8a44b95c82b37dea7fccd1f98f8ba"/>
     </property>
   </property>
 </channel>
