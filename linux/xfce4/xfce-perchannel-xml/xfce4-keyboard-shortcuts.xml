@@ -59,6 +59,7 @@
       <property name="&lt;Super&gt;e" type="string" value="nautilus"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;l" type="string" value="custom-lock"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="custom-wallpaper"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
