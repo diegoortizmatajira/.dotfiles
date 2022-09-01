@@ -61,6 +61,7 @@
     ~/.local/bin/custom-window-switch-local: linux/local-bin/custom-window-switch-local.sh
     ~/.local/bin/custom-launcher: linux/local-bin/custom-launcher.sh
     ~/.local/bin/custom-xrandr-modes: linux/local-bin/custom-xrandr-modes.sh
+    ~/.local/bin/custom-wallpaper: linux/local-bin/custom-wallpaper.sh
     ~/.local/bin/plex-start: linux/local-bin/plex-start
     ~/.local/bin/plex-stop: linux/local-bin/plex-stop
     ~/.local/bin/profile-image: linux/local-bin/profile-image.sh
