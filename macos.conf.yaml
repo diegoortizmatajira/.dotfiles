@@ -1,0 +1,15 @@
+- defaults:
+    link:
+      relink: true
+      create: true
+      force: true
+
+- shell:
+    - [git submodule update --init --recursive, Installing submodules]
+
+- link:
+    # Global gitignore
+    ~/.gitignore: macos/gitignore
+
+- create:
+    - ~/Development
