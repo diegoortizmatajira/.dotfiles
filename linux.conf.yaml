@@ -18,9 +18,18 @@
       url: "https://github.com/jluttine/rofi-power-menu"
       method: clone-or-pull
 
+    "external/kitty-themes":
+      description: Themes for Kitty from repository
+      url: "https://github.com/dexpota/kitty-themes.git"
+      method: clone-or-pull
+
 - link:
     # Zsh config files
     ~/.zsh_os: linux/zsh_os.sh
+
+    # kitty config files
+    ~/.config/kitty/kitty.conf: kitty/kitty.conf
+    ~/.config/kitty/theme.conf: external/kitty-themes/themes/DimmedMonokai.conf
 
     # picom config files
     ~/.config/picom/picom.conf: linux/picom/picom.conf
