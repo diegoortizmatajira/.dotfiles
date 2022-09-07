@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
 #<----------------Installing MacOS Apps, via Homebrew, Cask-------------------->
 brew=(
+    cmake
     curl
     fzf
+    gcc
     git
     git-flow
-    glibc
-    gcc
     go
+    goto
     grep
     gzip
     htop
@@ -16,9 +17,9 @@ brew=(
     lsd
     lua
     luajit
+    luarocks
     make
     neofetch
-    neovide
     neovim
     node
     openssl@1.1
@@ -37,13 +38,15 @@ brew=(
 cask=(
     barrier
     firefox
+    font-fira-code-nerd-font
+    font-caskaydia-cove-nerd-font
+    font-jetbrains-mono-nerd-font
     gitkraken
-    kitty
+    hazeover
+    rectangle
     sublime-text
     vlc
-    vscodium
-    webex
-    font-fira-code-nerd-font
+    yt-music
 ) #GUI apps that install with cask
 
 npm=(
@@ -56,4 +59,4 @@ brew upgrade
 brew tap homebrew/cask-fonts
 brew install ${brew[@]} #Homebrew App Installer
 brew install --cask ${cask[@]} #Casks Installer
-npm install ${npm[@]} #Install npm apps
+npm install -g ${npm[@]} #Install npm apps
