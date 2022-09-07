@@ -97,4 +97,4 @@ alias vi=nvim
 alias vim=nvim
 alias ls=lsd
 alias x=exit
-source .zsh_os
+source ~/.zsh_os
