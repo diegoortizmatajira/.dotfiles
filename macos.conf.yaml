@@ -8,8 +8,8 @@
     - [git submodule update --init --recursive, Installing submodules]
 
 - link:
+    # Zsh config files
+    ~/.zsh_os: macos/zsh_os.sh
+
     # Global gitignore
     ~/.gitignore: macos/gitignore
-
-- create:
-    - ~/Development

@@ -19,6 +19,9 @@
       method: clone-or-pull
 
 - link:
+    # Zsh config files
+    ~/.zsh_os: linux/zsh_os.sh
+
     # picom config files
     ~/.config/picom/picom.conf: linux/picom/picom.conf
 

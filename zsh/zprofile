@@ -1,3 +1,4 @@
 export FREETYPE_PROPERTIES="truetype:interpreter-version=35"
 export EDITOR=nvim
 export TERMINAL=kitty
+eval "$(/opt/homebrew/bin/brew shellenv)"
