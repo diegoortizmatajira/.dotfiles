@@ -45,8 +45,6 @@
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
       <property name="Print" type="string" value="flameshot launcher"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;Print" type="string" value="flameshot gui -c"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;s" type="string" value="flameshot gui -c"/>
       <property name="&lt;Alt&gt;Print" type="string" value="custom-ocr"/>
       <property name="&lt;Super&gt;t" type="string" value="subl"/>
       <property name="&lt;Super&gt;b" type="string" value="firefox-developer-edition"/>
@@ -60,6 +58,9 @@
       <property name="&lt;Shift&gt;&lt;Super&gt;l" type="string" value="custom-lock"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="custom-wallpaper"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;s" type="string" value="flameshot gui -c"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;dollar" type="string" value="flameshot gui -c"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;numbersign" type="string" value="flameshot launcher"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
