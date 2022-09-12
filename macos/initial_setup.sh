@@ -2,7 +2,9 @@
 #<----------------Installing MacOS Apps, via Homebrew, Cask-------------------->
 brew=(
     cmake
+    colima
     curl
+    docker
     fzf
     gcc
     git
@@ -12,6 +14,7 @@ brew=(
     grep
     gzip
     htop
+    kubectl
     lazygit
     less
     lsd
