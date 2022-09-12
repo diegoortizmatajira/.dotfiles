@@ -15,11 +15,6 @@
       url: "https://github.com/diegoortizmatajira/LYRD-lua"
       method: clone
 
-    "external/kitty-themes":
-      description: Themes for Kitty from repository
-      url: "https://github.com/dexpota/kitty-themes.git"
-      method: clone-or-pull
-
     "external/zsh-autosuggestions":
       description: ZSH Autosuggestions plugin
       url: "https://github.com/zsh-users/zsh-autosuggestions"
@@ -44,10 +39,6 @@
     # Neovim config files and setup
     ~/.config/nvim/lua/LYRD: external/LYRD-lua
     ~/.config/nvim/init.lua: external/LYRD-lua/root-init.lua
-
-    # kitty config files
-    ~/.config/kitty/kitty.conf: kitty/kitty.conf
-    ~/.config/kitty/theme.conf: external/kitty-themes/themes/DimmedMonokai.conf
 
     # visual studio code
     ~/.vscode_vimrc: vscode/vimrc

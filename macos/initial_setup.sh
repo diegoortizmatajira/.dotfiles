@@ -30,23 +30,22 @@ brew=(
     the_silver_searcher
     tmux
     tree-sitter
-    unrar
     wget
     zlib
     zsh-completions
 )
 cask=(
-    alfred
     barrier
     firefox
     gitkraken
     kitty
-    nordvpn
     sublime-text
     vlc
     vscodium
     webex
+    font-fira-code-nerd-font
 ) #GUI apps that install with cask
+
 npm=(
     neovim
 )
@@ -54,6 +53,7 @@ npm=(
 brew update
 brew upgrade
 
+brew tap homebrew/cask-fonts
 brew install ${brew[@]} #Homebrew App Installer
-brew cask install ${cask[@]} #Casks Installer
+brew install --cask ${cask[@]} #Casks Installer
 npm install ${npm[@]} #Install npm apps

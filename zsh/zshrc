@@ -97,4 +97,4 @@ alias vi=nvim
 alias vim=nvim
 alias ls=lsd
 alias x=exit
-source /usr/share/goto/goto.sh
+source ~/.zsh_os
