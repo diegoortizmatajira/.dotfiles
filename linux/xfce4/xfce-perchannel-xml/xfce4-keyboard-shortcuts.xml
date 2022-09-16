@@ -51,7 +51,6 @@
       <property name="&lt;Shift&gt;Print" type="string" value="flameshot screen -c -d 5000"/>
       <property name="&lt;Super&gt;x" type="string" value="kitty"/>
       <property name="&lt;Super&gt;g" type="string" value="custom-nordvpn-menu"/>
-      <property name="&lt;Super&gt;v" type="string" value="custom-clipboard"/>
       <property name="&lt;Primary&gt;&lt;Super&gt;Escape" type="string" value="custom-launcher"/>
       <property name="&lt;Super&gt;space" type="string" value="custom-launcher"/>
       <property name="&lt;Super&gt;e" type="string" value="nautilus"/>
@@ -61,6 +60,7 @@
       <property name="&lt;Shift&gt;&lt;Super&gt;s" type="string" value="flameshot gui -c"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;dollar" type="string" value="flameshot gui -c"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;numbersign" type="string" value="flameshot launcher"/>
+      <property name="&lt;Super&gt;v" type="string" value="xfce4-popup-clipman"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

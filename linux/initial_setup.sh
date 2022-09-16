@@ -23,6 +23,7 @@ base_desktop_environment=(
     xfce4-mpc-plugin
     xfce4-notifyd
     xfce4-taskmanager
+    xfce4-screensaver
 # tiling window manager
     picom-git
     awesome
