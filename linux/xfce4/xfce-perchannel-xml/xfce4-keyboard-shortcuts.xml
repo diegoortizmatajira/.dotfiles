@@ -61,6 +61,8 @@
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;dollar" type="string" value="flameshot gui -c"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;numbersign" type="string" value="flameshot launcher"/>
       <property name="&lt;Super&gt;v" type="string" value="xfce4-popup-clipman"/>
+      <property name="AudioRaiseVolume" type="string" value="amixer -D pulse sset Master 5%+"/>
+      <property name="AudioLowerVolume" type="string" value="amixer -D pulse sset Master 5%-"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

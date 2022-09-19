@@ -68,11 +68,8 @@
     ~/.local/bin/custom-clipboard: linux/local-bin/custom-clipboard.sh
     ~/.local/bin/custom-ocr: linux/local-bin/custom-ocr.sh
     ~/.local/bin/custom-nordvpn-menu: linux/local-bin/custom-nordvpn-menu.sh
-    ~/.local/bin/custom-layout: linux/local-bin/custom-layout.sh
     ~/.local/bin/custom-alttab: linux/local-bin/custom-alttab.sh
-    ~/.local/bin/custom-window-switch-local: linux/local-bin/custom-window-switch-local.sh
     ~/.local/bin/custom-launcher: linux/local-bin/custom-launcher.sh
-    ~/.local/bin/custom-xrandr-modes: linux/local-bin/custom-xrandr-modes.sh
     ~/.local/bin/custom-wallpaper: linux/local-bin/custom-wallpaper.sh
     ~/.local/bin/plex-start: linux/local-bin/plex-start
     ~/.local/bin/plex-stop: linux/local-bin/plex-stop

@@ -40,6 +40,7 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="clipman"/>
         <value type="string" value="wi-fi network connection “winterfell” active: winterfell (74%)"/>
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="wi-fi network connection “winterfell” active: winterfell (77%)"/>
