@@ -13,8 +13,9 @@ brew=(
     goto
     grep
     gzip
+    helm
     htop
-    kubectl
+    kubernetes-cli
     lazygit
     less
     lsd
@@ -31,6 +32,7 @@ brew=(
     ranger
     ripgrep
     speedtest-cli
+    sqlite
     the_silver_searcher
     tmux
     tree-sitter
@@ -39,10 +41,13 @@ brew=(
     zsh-completions
 )
 cask=(
+    adobe-acrobat-reader
+    amethyst
     barrier
+    caffeine
     firefox
-    font-fira-code-nerd-font
     font-caskaydia-cove-nerd-font
+    font-fira-code-nerd-font
     font-jetbrains-mono-nerd-font
     gitkraken
     hazeover
