@@ -49,6 +49,7 @@ cask=(
     font-caskaydia-cove-nerd-font
     font-fira-code-nerd-font
     font-jetbrains-mono-nerd-font
+    git-credential-manager-core
     gitkraken
     hazeover
     rectangle
@@ -65,6 +66,8 @@ brew update
 brew upgrade
 
 brew tap homebrew/cask-fonts
+brew tap microsoft/git
+
 brew install ${brew[@]} #Homebrew App Installer
 brew install --cask ${cask[@]} #Casks Installer
 npm install -g ${npm[@]} #Install npm apps
