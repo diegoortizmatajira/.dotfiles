@@ -13,14 +13,14 @@
       url: "https://github.com/diegoortizmatajira/my-awesome"
       method: clone
 
-    "external/rofi-power-menu":
-      description: Rofi power menu from repository
-      url: "https://github.com/jluttine/rofi-power-menu"
-      method: clone-or-pull
-
     "external/kitty-themes":
       description: Themes for Kitty from repository
       url: "https://github.com/dexpota/kitty-themes.git"
+      method: clone-or-pull
+
+    "external/McMojave-circle":
+      description: McMojave Icon Theme
+      url: "https://github.com/vinceliuice/McMojave-circle"
       method: clone-or-pull
 
 - link:
@@ -32,7 +32,7 @@
     ~/.config/kitty/theme.conf: external/kitty-themes/themes/DimmedMonokai.conf
 
     # picom config files
-    ~/.config/picom/picom.conf: linux/picom/picom.conf
+    #~/.config/picom/picom.conf: linux/picom/picom.conf
 
     # rofi config file
     ~/.config/rofi/config.rasi: linux/rofi/config.rasi
@@ -41,16 +41,16 @@
     ~/.config/rofi/switcher.rasi: linux/rofi/switcher.rasi
 
     # dunst config files
-    ~/.config/dunst/dunstrc: linux/dunst/dunstrc
+    #~/.config/dunst/dunstrc: linux/dunst/dunstrc
 
     # xsettings
-    ~/.config/xsettingsd/xsettingsd.conf: linux/xsettingsd/xsettingsd.conf
+    #~/.config/xsettingsd/xsettingsd.conf: linux/xsettingsd/xsettingsd.conf
 
     # fonts config
-    ~/.config/fontconfig/fonts.conf: linux/fontconfig/fonts.conf
+    #~/.config/fontconfig/fonts.conf: linux/fontconfig/fonts.conf
 
     # xfce4
-    ~/.config/xfce4/xfconf/xfce-perchannel-xml: linux/xfce4/xfce-perchannel-xml
+    #~/.config/xfce4/xfconf/xfce-perchannel-xml: linux/xfce4/xfce-perchannel-xml
 
     # awesome
     ~/.config/awesome: external/my-awesome
@@ -59,10 +59,9 @@
     ~/.config/onedrive/config: linux/onedrive/config
 
     # Xterm
-    ~/.Xresources: linux/xterm/.Xresources
+    #~/.Xresources: linux/xterm/.Xresources
 
     # Custom commands
-    ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
     ~/.local/bin/custom-askpoweroptions: linux/local-bin/custom-askpoweroptions
     ~/.local/bin/custom-lock: linux/local-bin/custom-lock
     ~/.local/bin/custom-clipboard: linux/local-bin/custom-clipboard.sh
@@ -90,6 +89,8 @@
         - /etc/systemd/logind.conf.d
 
     - link:
-        /etc/X11/xorg.conf.d/90-touchpad.conf: linux/xorg.conf.d/90-touchpad.conf
-        /etc/X11/xorg.conf.d/00-keyboard.conf: linux/xorg.conf.d/00-keyboard.conf
+        #  /etc/X11/xorg.conf.d/00-keyboard.conf: linux/xorg.conf.d/00-keyboard.conf
         /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf
+
+- shell:
+    - [external/McMojave-circle/install.sh -c -blue]
