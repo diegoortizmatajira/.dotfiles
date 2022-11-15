@@ -3,9 +3,9 @@
 
 base_desktop_environment=(
 # boot
-    grub
-    grub-customizer
-    update-grub
+#    grub
+#    grub-customizer
+#    update-grub
 # shell
     zsh
     zsh-completions
@@ -58,6 +58,7 @@ base_desktop_environment=(
     file-roller
     filesystem
     findutils
+    goto
 # fonts
     apple-fonts
     nerd-fonts-fira-code 
@@ -126,6 +127,7 @@ package_list=(
     luminancehdr
     mage-bin
     make
+    mage
     masterpdfeditor
     neofetch
     neovide
