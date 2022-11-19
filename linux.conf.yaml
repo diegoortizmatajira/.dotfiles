@@ -23,6 +23,12 @@
       url: "https://github.com/vinceliuice/McMojave-circle"
       method: clone-or-pull
 
+    "external/WhiteSur-gtk-theme":
+      description: WhiteSur GTK Theme
+      url: "https://github.com/vinceliuice/WhiteSur-gtk-theme"
+      method: clone-or-pull
+
+
 - link:
     # Zsh config files
     ~/.zsh_os: linux/zsh_os.sh
@@ -41,7 +47,7 @@
     ~/.config/rofi/switcher.rasi: linux/rofi/switcher.rasi
 
     # dunst config files
-    #~/.config/dunst/dunstrc: linux/dunst/dunstrc
+    ~/.config/dunst/dunstrc: linux/dunst/dunstrc
 
     # xsettings
     #~/.config/xsettingsd/xsettingsd.conf: linux/xsettingsd/xsettingsd.conf
@@ -93,4 +99,6 @@
         /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf
 
 - shell:
+  # Install the user interface themes
     - [external/McMojave-circle/install.sh -c -blue]
+    - [external/WhiteSur-gtk-theme/install.sh --color Light --nautilus-style glassy]

@@ -10,46 +10,8 @@ base_desktop_environment=(
     zsh
     zsh-completions
     lsd
-# xfce4
-    exo
-    garcon
-    xfce4-power-manager
-    xfce4-session
-    xfce4-settings
-    xfconf
-    xfce4-clipman-plugin
-    xfce4-battery-plugin
-    xfce4-datetime-plugin
-    xfce4-mpc-plugin
-    xfce4-notifyd
-    xfce4-taskmanager
-    xfce4-screensaver
-# tiling window manager
-    picom-git
-    awesome
-    ocs-url
-    rofi
-    rofi-dmenu
 # Themes
     mcmojave-circle-icon-theme
-# bluetooth
-    blueman
-    bluez-plugins
-    bluez-utils
-# audio
-    alsa-utils
-    pulseaudio-alsa
-    pulseaudio-bluetooth
-    playerctl
-# network
-    network-manager-applet
-    networkmanager
-    wireguard-tools
-    wireless_tools
-# power management
-    acpi
-    tlp
-    tlp-rdw
 # file management
     ntfs-3g
     nautilus
@@ -113,7 +75,6 @@ package_list=(
     htop
     hugin
     hugo
-    hwdetect
     inetutils
     inkscape
     iputils
@@ -160,7 +121,7 @@ package_list=(
     speedtest-cli
     stremio
     stress
-    sublime-text
+    sublime-text-4
     tesseract
     the_silver_searcher
     tmux
@@ -186,7 +147,7 @@ fi
 
 yay -Syu --needed --noconfirm
 
-yay -S ${base_desktop_environment[@]} --needed --noconfirm
-yay -S ${package_list[@]} --needed --noconfirm
+yay -S ${base_desktop_environment[@]} --needed
+yay -S ${package_list[@]} --needed 
 
 sudo npm install -g ${npm[@]} #Install npm apps
