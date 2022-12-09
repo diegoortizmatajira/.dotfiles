@@ -108,6 +108,7 @@ package_list=(
     protoc-gen-grpc-web
     python-pip
     python-sphinx
+    qt5ct
     ranger
     rapid-photo-downloader
     rawtherapee
@@ -129,6 +130,7 @@ package_list=(
     tree-sitter
     visual-studio-code-bin
     vlc
+    xclip
     wmctrl
     youtube-music-bin
     zsa-wally

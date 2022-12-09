@@ -8,9 +8,9 @@
     - [git submodule update --init --recursive, Installing submodules]
 
 - git:
-    "external/my-awesome":
+    "external/awesome":
       description: Awesome Settings
-      url: "https://github.com/diegoortizmatajira/my-awesome"
+      url: "git@github.com:diegoortizmatajira/awesome.git"
       method: clone
 
     "external/kitty-themes":
@@ -38,7 +38,7 @@
     ~/.config/kitty/theme.conf: external/kitty-themes/themes/DimmedMonokai.conf
 
     # picom config files
-    #~/.config/picom/picom.conf: linux/picom/picom.conf
+    ~/.config/picom/picom.conf: linux/picom/picom.conf
 
     # rofi config file
     ~/.config/rofi/config.rasi: linux/rofi/config.rasi
@@ -59,7 +59,7 @@
     #~/.config/xfce4/xfconf/xfce-perchannel-xml: linux/xfce4/xfce-perchannel-xml
 
     # awesome
-    ~/.config/awesome: external/my-awesome
+    ~/.config/awesome: external/awesome
 
     # Onedrive
     ~/.config/onedrive/config: linux/onedrive/config

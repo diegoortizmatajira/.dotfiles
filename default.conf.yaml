@@ -12,7 +12,7 @@
 - git:
     "external/LYRD-lua":
       description: LYRD in lua for Neovim from repository
-      url: "https://github.com/diegoortizmatajira/LYRD-lua"
+      url: "git@github.com:diegoortizmatajira/LYRD-lua.git"
       method: clone
 
     "external/zsh-autosuggestions":

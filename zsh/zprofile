@@ -1,6 +1,7 @@
 export FREETYPE_PROPERTIES="truetype:interpreter-version=35"
 export EDITOR=nvim
 export TERMINAL=kitty
+export QT_QPA_PLATFORMTHEME=qt5ct
 
 unameOut="$(uname -s)"
 case "${unameOut}" in
