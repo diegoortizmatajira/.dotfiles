@@ -49,6 +49,9 @@
     # Sublime config
     ~/.config/sublime-text-3/Packages/User: sublime-text/user
 
+    # Calibre
+    ~/.config/calibre: calibre
+
     # Zsh config files
     ~/.zshrc: zsh/zshrc
     ~/.zprofile: zsh/zprofile
