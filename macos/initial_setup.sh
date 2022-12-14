@@ -2,20 +2,22 @@
 #<----------------Installing MacOS Apps, via Homebrew, Cask-------------------->
 brew=(
     cmake
-    colima
     curl
-    docker
     fzf
     gcc
     git
     git-flow
+    glib
     go
     goto
     grep
     gzip
     helm
     htop
+    k9s
     kubernetes-cli
+    kubeval
+    kustomize
     lazygit
     less
     lsd
@@ -28,7 +30,8 @@ brew=(
     node
     openssl@1.1
     perl
-    python@3.10
+    pyenv
+    python@3.11
     ranger
     ripgrep
     speedtest-cli
@@ -36,6 +39,7 @@ brew=(
     the_silver_searcher
     tmux
     tree-sitter
+    watch
     wget
     zlib
     zsh-completions
@@ -44,7 +48,9 @@ cask=(
     adobe-acrobat-reader
     amethyst
     barrier
+    beyond-compare
     caffeine
+    datagrip
     firefox
     font-caskaydia-cove-nerd-font
     font-fira-code-nerd-font
@@ -52,9 +58,11 @@ cask=(
     git-credential-manager-core
     gitkraken
     hazeover
+    kitty
     rectangle
     sublime-text
     vlc
+    vscodium
     yt-music
 ) #GUI apps that install with cask
 
