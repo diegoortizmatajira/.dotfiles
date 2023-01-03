@@ -228,50 +228,50 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 1032,
-      "width": 948,
-      "x": 8,
-      "y": 40
+      "height": 736,
+      "width": 1366,
+      "x": 0,
+      "y": 32
     },
     "full_screened": false,
     "geometry": {
-      "height": 1030,
-      "width": 946,
-      "x": 9,
-      "y": 41
+      "height": 736,
+      "width": 1366,
+      "x": 0,
+      "y": 32
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 1030,
-      "width": 946,
-      "x": 9,
-      "y": 41
+      "height": 736,
+      "width": 1366,
+      "x": 0,
+      "y": 32
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAIAAAAKAAAA7sAAAQvAAAACQAAACkAAAO6AAAELgAAAAEAAAAAB4AAAAAJAAAAKQAAA7oAAAQu"
+      "__value__": "AdnQywADAAAAAAAAAAAAIAAABVUAAAL/AAAAAAAAACAAAAVVAAAC/wAAAAAAAAAABVYAAAAAAAAAIAAABVUAAAL/"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1080,
-        "width": 1920,
+        "height": 768,
+        "width": 1366,
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
-      "manufacturer": "BNQ",
-      "model": "BenQ GW2480-",
-      "name": "DP-1",
-      "serial": "ETK7M0174804U",
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
       "size_in_logical_pixels": {
-        "height": 1080,
-        "width": 1920
+        "height": 768,
+        "width": 1366
       },
       "virtual_geometry": {
-        "height": 1200,
-        "width": 3840,
+        "height": 768,
+        "width": 1366,
         "x": 0,
         "y": 0
       }
@@ -534,7 +534,7 @@
   },
   "grid view visible": true,
   "library_usage_stats": {
-    "/home/diegoortizmatajira/Calibre Library": 12
+    "/home/diegoortizmatajira/Calibre Library": 16
   },
   "metadata-download-identify-widget-splitter-state": {
     "__class__": "bytearray",
