@@ -57,7 +57,7 @@
   ],
   "book_list_pin_splitter_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEIA/////wEAAAABAA=="
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
   },
   "cover_browser_splitter_vertical_state": [
     false,
@@ -228,50 +228,50 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 736,
-      "width": 1366,
-      "x": 0,
+      "height": 1168,
+      "width": 1920,
+      "x": 1920,
       "y": 32
     },
     "full_screened": false,
     "geometry": {
-      "height": 736,
-      "width": 1366,
-      "x": 0,
+      "height": 1168,
+      "width": 1920,
+      "x": 1920,
       "y": 32
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 736,
-      "width": 1366,
-      "x": 0,
+      "height": 1168,
+      "width": 1920,
+      "x": 1920,
       "y": 32
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAIAAABVUAAAL/AAAAAAAAACAAAAVVAAAC/wAAAAAAAAAABVYAAAAAAAAAIAAABVUAAAL/"
+      "__value__": "AdnQywADAAAAAAeAAAAAIAAADv8AAASvAAAHgAAAACAAAA7/AAAErwAAAAAAAAAAB4AAAAeAAAAAIAAADv8AAASv"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 768,
-        "width": 1366,
-        "x": 0,
+        "height": 1200,
+        "width": 1920,
+        "x": 1920,
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "AU Optronics",
-      "model": "",
-      "name": "eDP-1",
-      "serial": "",
+      "manufacturer": "Hewlett Packard",
+      "model": "HP E242-",
+      "name": "HDMI-2",
+      "serial": "CNC6030CDZ-",
       "size_in_logical_pixels": {
-        "height": 768,
-        "width": 1366
+        "height": 1200,
+        "width": 1920
       },
       "virtual_geometry": {
-        "height": 768,
-        "width": 1366,
+        "height": 1200,
+        "width": 3840,
         "x": 0,
         "y": 0
       }
@@ -534,7 +534,7 @@
   },
   "grid view visible": true,
   "library_usage_stats": {
-    "/home/diegoortizmatajira/Calibre Library": 16
+    "/home/diegoortizmatajira/Calibre Library": 18
   },
   "metadata-download-identify-widget-splitter-state": {
     "__class__": "bytearray",

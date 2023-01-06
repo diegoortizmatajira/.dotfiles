@@ -1,7 +1,7 @@
 {
   "check-book-splitter-state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAEAAAAC//////////8A/////wEAAAABAA=="
+    "__value__": "AAAA/wAAAAEAAAACAAAAQgAAAEIA/////wEAAAABAA=="
   },
   "custom_colors_for_color_dialog": [
     [
@@ -111,50 +111,50 @@
   },
   "geometry-of-import-foreign-geometry": {
     "frame_geometry": {
-      "height": 220,
-      "width": 502,
-      "x": 422,
-      "y": 239
+      "height": 190,
+      "width": 498,
+      "x": 711,
+      "y": 461
     },
     "full_screened": false,
     "geometry": {
       "height": 190,
       "width": 498,
-      "x": 424,
-      "y": 267
+      "x": 711,
+      "y": 461
     },
     "maximized": false,
     "normal_geometry": {
       "height": 190,
       "width": 498,
-      "x": 424,
-      "y": 267
+      "x": 711,
+      "y": 461
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAGmAAAA7wAAA5sAAAHKAAABqAAAAQsAAAOZAAAByAAAAAAAAAAABVYAAAGoAAABCwAAA5kAAAHI"
+      "__value__": "AdnQywADAAAAAALHAAABzQAABLgAAAKKAAACxwAAAc0AAAS4AAACigAAAAEAAAAAB4AAAALHAAABzQAABLgAAAKK"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 768,
-        "width": 1366,
+        "height": 1080,
+        "width": 1920,
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 0,
-      "manufacturer": "AU Optronics",
-      "model": "",
-      "name": "eDP-1",
-      "serial": "",
+      "index_in_screens_list": 1,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480-",
+      "name": "DP-1",
+      "serial": "ETK7M0174804U",
       "size_in_logical_pixels": {
-        "height": 768,
-        "width": 1366
+        "height": 1080,
+        "width": 1920
       },
       "virtual_geometry": {
-        "height": 768,
-        "width": 1366,
+        "height": 1200,
+        "width": 3840,
         "x": 0,
         "y": 0
       }
@@ -162,50 +162,50 @@
   },
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 327,
-      "width": 854,
+      "height": 1048,
+      "width": 1920,
       "x": 0,
-      "y": 37
+      "y": 32
     },
     "full_screened": false,
     "geometry": {
-      "height": 297,
-      "width": 850,
-      "x": 2,
-      "y": 65
+      "height": 1048,
+      "width": 1920,
+      "x": 0,
+      "y": 32
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 297,
-      "width": 850,
-      "x": 2,
-      "y": 65
+      "height": 1048,
+      "width": 1920,
+      "x": 0,
+      "y": 32
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAJQAAA1UAAAFrAAAAAgAAAEEAAANTAAABaQAAAAAAAAAABVYAAAACAAAAQQAAA1MAAAFp"
+      "__value__": "AdnQywADAAAAAAAAAAAAIAAAB38AAAQ3AAAAAAAAACAAAAd/AAAENwAAAAEAAAAAB4AAAAAAAAAAIAAAB38AAAQ3"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 768,
-        "width": 1366,
+        "height": 1080,
+        "width": 1920,
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 0,
-      "manufacturer": "AU Optronics",
-      "model": "",
-      "name": "eDP-1",
-      "serial": "",
+      "index_in_screens_list": 1,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480-",
+      "name": "DP-1",
+      "serial": "ETK7M0174804U",
       "size_in_logical_pixels": {
-        "height": 768,
-        "width": 1366
+        "height": 1080,
+        "width": 1920
       },
       "virtual_geometry": {
-        "height": 768,
-        "width": 1366,
+        "height": 1200,
+        "width": 3840,
         "x": 0,
         "y": 0
       }
@@ -213,7 +213,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAAA1PwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAAD4AAADUAAAAWgD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFoA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAIAA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIwA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAhYA////AAAAAQAAAccAAADU/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAPgAAANQAAABTAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABaAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAA7AP///wAAAH8AAADUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAADyvwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAADgAAAPKAAAAUwD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFMA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHIA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAH8A////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAdgA////AAAAAQAAAccAAAPK/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAOAAAA8oAAABIAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABTAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAhwD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAAxAP///wAABK8AAAPKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABFv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
   },
   "reports-ui-state": {},
   "saved_seaches_state": {

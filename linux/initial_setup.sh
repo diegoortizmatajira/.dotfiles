@@ -21,6 +21,8 @@ base_desktop_environment=(
     filesystem
     findutils
     goto
+    i3lock-color
+    scrot
 # fonts
     apple-fonts
     nerd-fonts-fira-code 
