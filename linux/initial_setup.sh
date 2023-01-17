@@ -10,6 +10,7 @@ base_desktop_environment=(
     zsh
     zsh-completions
     lsd
+    autojump
 # Themes
     mcmojave-circle-icon-theme
 # file management
