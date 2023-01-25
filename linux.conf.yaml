@@ -97,6 +97,7 @@
     - link:
         #  /etc/X11/xorg.conf.d/00-keyboard.conf: linux/xorg.conf.d/00-keyboard.conf
         /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf
+        /etc/X11/sessions/custom-awesome.desktop: linux/awesomewm/custom-awesome.desktop
 
 - shell:
   # Install the user interface themes

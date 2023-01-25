@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Customized Awesome
+Comment=This is  the customized Awesome Session
+TryExec=awesome
+Exec=awesome
