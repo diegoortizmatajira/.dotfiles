@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #<----------------Installing MacOS Apps, via Homebrew, Cask-------------------->
 brew=(
+    autojump
     cmake
     curl
     fzf
