@@ -1,0 +1,21 @@
+{
+  "disabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "enabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "filetype_mapping": {},
+  "plugin_customization": {},
+  "plugins": {
+    "Find Duplicates": "/home/diegoortizmatajira/.config/calibre/plugins/Find Duplicates.zip",
+    "Goodreads": "/home/diegoortizmatajira/.config/calibre/plugins/Goodreads.zip",
+    "Goodreads Sync": "/home/diegoortizmatajira/.config/calibre/plugins/Goodreads Sync.zip",
+    "Kindle Collections": "/home/diegoortizmatajira/.config/calibre/plugins/Kindle Collections.zip",
+    "Kindle hi-res covers": "/home/diegoortizmatajira/.config/calibre/plugins/Kindle hi-res covers.zip",
+    "Kobo Books": "/home/diegoortizmatajira/.config/calibre/plugins/Kobo Books.zip",
+    "Quality Check": "/home/diegoortizmatajira/.config/calibre/plugins/Quality Check.zip"
+  }
+}

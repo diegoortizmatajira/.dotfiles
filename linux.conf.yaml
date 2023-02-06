@@ -8,20 +8,26 @@
     - [git submodule update --init --recursive, Installing submodules]
 
 - git:
-    "external/my-awesome":
+    "external/awesome":
       description: Awesome Settings
-      url: "https://github.com/diegoortizmatajira/my-awesome"
+      url: "git@github.com:diegoortizmatajira/awesome.git"
       method: clone
-
-    "external/rofi-power-menu":
-      description: Rofi power menu from repository
-      url: "https://github.com/jluttine/rofi-power-menu"
-      method: clone-or-pull
 
     "external/kitty-themes":
       description: Themes for Kitty from repository
       url: "https://github.com/dexpota/kitty-themes.git"
       method: clone-or-pull
+
+    "external/McMojave-circle":
+      description: McMojave Icon Theme
+      url: "https://github.com/vinceliuice/McMojave-circle"
+      method: clone-or-pull
+
+    "external/WhiteSur-gtk-theme":
+      description: WhiteSur GTK Theme
+      url: "https://github.com/vinceliuice/WhiteSur-gtk-theme"
+      method: clone-or-pull
+
 
 - link:
     # Zsh config files
@@ -44,25 +50,24 @@
     ~/.config/dunst/dunstrc: linux/dunst/dunstrc
 
     # xsettings
-    ~/.config/xsettingsd/xsettingsd.conf: linux/xsettingsd/xsettingsd.conf
+    #~/.config/xsettingsd/xsettingsd.conf: linux/xsettingsd/xsettingsd.conf
 
     # fonts config
-    ~/.config/fontconfig/fonts.conf: linux/fontconfig/fonts.conf
+    #~/.config/fontconfig/fonts.conf: linux/fontconfig/fonts.conf
 
     # xfce4
-    ~/.config/xfce4/xfconf/xfce-perchannel-xml: linux/xfce4/xfce-perchannel-xml
+    #~/.config/xfce4/xfconf/xfce-perchannel-xml: linux/xfce4/xfce-perchannel-xml
 
     # awesome
-    ~/.config/awesome: external/my-awesome
+    ~/.config/awesome: external/awesome
 
     # Onedrive
     ~/.config/onedrive/config: linux/onedrive/config
 
     # Xterm
-    ~/.Xresources: linux/xterm/.Xresources
+    #~/.Xresources: linux/xterm/.Xresources
 
     # Custom commands
-    ~/.local/bin/rofi-power-menu: external/rofi-power-menu/rofi-power-menu
     ~/.local/bin/custom-askpoweroptions: linux/local-bin/custom-askpoweroptions
     ~/.local/bin/custom-lock: linux/local-bin/custom-lock
     ~/.local/bin/custom-clipboard: linux/local-bin/custom-clipboard.sh
@@ -90,6 +95,11 @@
         - /etc/systemd/logind.conf.d
 
     - link:
-        /etc/X11/xorg.conf.d/90-touchpad.conf: linux/xorg.conf.d/90-touchpad.conf
-        /etc/X11/xorg.conf.d/00-keyboard.conf: linux/xorg.conf.d/00-keyboard.conf
+        #  /etc/X11/xorg.conf.d/00-keyboard.conf: linux/xorg.conf.d/00-keyboard.conf
         /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf
+        /etc/X11/sessions/custom-awesome.desktop: linux/awesomewm/custom-awesome.desktop
+
+- shell:
+  # Install the user interface themes
+    - [external/McMojave-circle/install.sh -c -blue]
+    - [external/WhiteSur-gtk-theme/install.sh --nautilus-style glassy --panel-opacity 45]

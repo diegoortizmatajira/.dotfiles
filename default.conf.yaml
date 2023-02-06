@@ -12,7 +12,7 @@
 - git:
     "external/LYRD-lua":
       description: LYRD in lua for Neovim from repository
-      url: "https://github.com/diegoortizmatajira/LYRD-lua"
+      url: "git@github.com:diegoortizmatajira/LYRD-lua.git"
       method: clone
 
     "external/zsh-autosuggestions":
@@ -49,6 +49,9 @@
     # Sublime config
     ~/.config/sublime-text-3/Packages/User: sublime-text/user
 
+    # Calibre
+    ~/.config/calibre: calibre
+
     # Zsh config files
     ~/.zshrc: zsh/zshrc
     ~/.zprofile: zsh/zprofile
@@ -59,11 +62,14 @@
     ~/.oh-my-zsh/custom/plugins/zsh-vi-mode: external/zsh-vi-mode
     ~/.oh-my-zsh/custom/plugins/zsh-256color: external/zsh-256color
 
+    # TMUX
+    ~/.tmux.conf: tmux/tmux.conf
+
     # Custom commands
-    ~/.local/bin/speak: local-bin/speak.sh
-    ~/.local/bin/habla: local-bin/habla.sh
+    ~/.local/bin/speak-en: local-bin/speak-en.sh
+    ~/.local/bin/speak-es: local-bin/speak-es.sh
     ~/.local/bin/download-comics: local-bin/download-comics.py
     ~/.local/bin/download-books: local-bin/download-books.py
     ~/.local/bin/cht.sh: local-bin/cht.sh
-    ~/.local/bin/nato-spell: local-bin/nato-spell.py
-    ~/.local/bin/english-spell: local-bin/english-spell.py
+    ~/.local/bin/spell-nato: local-bin/spell-nato.py
+    ~/.local/bin/spell-en: local-bin/spell-en.py

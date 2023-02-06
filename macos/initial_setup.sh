@@ -3,17 +3,21 @@
 brew=(
     cmake
     curl
-    docker
     fzf
     gcc
     git
     git-flow
+    glib
     go
     goto
     grep
     gzip
+    helm
     htop
-    kubectl
+    k9s
+    kubernetes-cli
+    kubeval
+    kustomize
     lazygit
     less
     lsd
@@ -26,27 +30,38 @@ brew=(
     node
     openssl@1.1
     perl
-    python@3.10
+    pyenv
+    python@3.11
     ranger
     ripgrep
     speedtest-cli
+    sqlite
     the_silver_searcher
     tmux
     tree-sitter
+    watch
     wget
     zlib
     zsh-completions
 )
 cask=(
+    adobe-acrobat-reader
+    amethyst
     barrier
-    font-fira-code-nerd-font
+    beyond-compare
+    caffeine
+    datagrip
     font-caskaydia-cove-nerd-font
+    font-fira-code-nerd-font
     font-jetbrains-mono-nerd-font
+    git-credential-manager-core
     gitkraken
     hazeover
+    kitty
     rectangle
     sublime-text
     vlc
+    vscodium
     yt-music
 ) #GUI apps that install with cask
 
@@ -58,6 +73,8 @@ brew update
 brew upgrade
 
 brew tap homebrew/cask-fonts
+brew tap microsoft/git
+
 brew install ${brew[@]} #Homebrew App Installer
 brew install --cask ${cask[@]} #Casks Installer
 npm install -g ${npm[@]} #Install npm apps
