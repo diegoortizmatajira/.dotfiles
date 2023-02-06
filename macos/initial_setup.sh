@@ -2,7 +2,6 @@
 #<----------------Installing MacOS Apps, via Homebrew, Cask-------------------->
 brew=(
     cmake
-    colima
     curl
     docker
     fzf
@@ -40,7 +39,6 @@ brew=(
 )
 cask=(
     barrier
-    firefox
     font-fira-code-nerd-font
     font-caskaydia-cove-nerd-font
     font-jetbrains-mono-nerd-font
