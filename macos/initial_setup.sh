@@ -47,6 +47,7 @@ brew=(
 )
 cask=(
     adobe-acrobat-reader
+    alt-tab
     amethyst
     barrier
     beyond-compare
@@ -59,6 +60,7 @@ cask=(
     gitkraken
     hazeover
     kitty
+    microsoft-office
     rectangle
     sublime-text
     vlc
