@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #<----------------Installing MacOS Apps, via Homebrew, Cask-------------------->
 brew=(
+    autojump
     cmake
     curl
     fzf
@@ -46,12 +47,12 @@ brew=(
 )
 cask=(
     adobe-acrobat-reader
+    alt-tab
     amethyst
     barrier
     beyond-compare
     caffeine
     datagrip
-    firefox
     font-caskaydia-cove-nerd-font
     font-fira-code-nerd-font
     font-jetbrains-mono-nerd-font
@@ -59,6 +60,7 @@ cask=(
     gitkraken
     hazeover
     kitty
+    microsoft-office
     rectangle
     sublime-text
     vlc
