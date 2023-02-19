@@ -3,27 +3,20 @@
 
 base_desktop_environment=(
 # boot
-#    grub
-#    grub-customizer
-#    update-grub
+   grub
+   grub-customizer
+   update-grub
 # shell
     zsh
     zsh-completions
     lsd
-    autojump
 # Themes
     mcmojave-circle-icon-theme
 # file management
     ntfs-3g
-    nautilus
-    nautilus-sendto
-    file
-    file-roller
-    filesystem
     findutils
     goto
-    i3lock-color
-    scrot
+    autojump
 # fonts
     apple-fonts
     nerd-fonts-fira-code 
@@ -38,12 +31,10 @@ base_desktop_environment=(
 )
 
 package_list=(
-    arandr
     aspnet-runtime
     barrier
     bootiso
     calibre
-    clipmenu
     cmake
     ctags
     deluge-gtk
@@ -51,27 +42,19 @@ package_list=(
     docker-compose
     dotnet-runtime
     dotnet-sdk
-    evince
-    feh
-    firefox-developer-edition
+    firefox
     flameshot
     fzf
     gcc-libs
     gimp
     git
-    git-credential-manager-bin
+    git-credential-manager-core-bin
     gitflow-avh
     gitkraken
     glibc
     go
     google-chrome
-    gnome-calculator
-    gnome-disk-utility
-    gnome-font-viewer
-    gnome-logs
     goto
-    gparted
-    gphoto2
     grep
     hdrmerge
     helm
@@ -134,7 +117,6 @@ package_list=(
     visual-studio-code-bin
     vlc
     xclip
-    wmctrl
     youtube-music-bin
     zsa-wally
 )
