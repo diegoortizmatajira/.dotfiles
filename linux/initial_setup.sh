@@ -20,11 +20,10 @@ base_desktop_environment=(
 # fonts
     apple-fonts
     ttf-firacode-nerd
-    nerd-fonts-fira-code 
-    nerd-fonts-jetbrains-mono
     ttf-fira-code
     ttf-font-awesome
     ttf-jetbrains-mono
+    ttf-jetbrains-mono-nerd
     ttf-mac-fonts
     ttf-ms-fonts
     ttf-symbola
@@ -123,6 +122,7 @@ gaming_package_list=(
     sc-controller
     lutris
     steam
+    bottles
     heroic-games-launcher
 )
 

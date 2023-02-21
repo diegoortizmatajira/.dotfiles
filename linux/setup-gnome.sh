@@ -15,8 +15,14 @@ do
   gsettings set "org.gnome.desktop.wm.keybindings" "move-to-workspace-$i" "['<Super><Shift>$NORMALIZED_I', '<Super><Shift>KP_$NORMALIZED_I']"
 done
 
+gsettings set "org.gnome.desktop.wm.keybindings" "toggle-maximized" "['<Super>m', '<Alt>F10']"
+
 package_list=(
- gnome-shell-extension-pop-shell
+  gnome-shell-extension-dash-to-panel 
+  gnome-shell-extension-pop-shell-git
+  gnome-shell-extension-appindicator-git 
+  gnome-shell-extension-caffeine
+  gnome-shell-pomodoro
 )
 
 yay -S ${package_list[@]} --needed 
