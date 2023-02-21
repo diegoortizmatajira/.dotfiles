@@ -14,3 +14,9 @@ do
   # Bind Super + n to move a window to a workspace
   gsettings set "org.gnome.desktop.wm.keybindings" "move-to-workspace-$i" "['<Super><Shift>$NORMALIZED_I', '<Super><Shift>KP_$NORMALIZED_I']"
 done
+
+package_list=(
+ gnome-shell-extension-pop-shell
+)
+
+yay -S ${package_list[@]} --needed 

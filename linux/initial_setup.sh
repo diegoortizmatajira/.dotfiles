@@ -19,6 +19,7 @@ base_desktop_environment=(
     autojump
 # fonts
     apple-fonts
+    ttf-firacode-nerd
     nerd-fonts-fira-code 
     nerd-fonts-jetbrains-mono
     ttf-fira-code
@@ -74,7 +75,6 @@ package_list=(
     luminancehdr
     mage-bin
     make
-    mage
     masterpdfeditor
     neofetch
     neovide
@@ -93,7 +93,6 @@ package_list=(
     protobuf
     protoc-gen-grpc-web
     python-pip
-    python-sphinx
     qt5ct
     ranger
     rapid-photo-downloader
@@ -109,7 +108,6 @@ package_list=(
     stremio
     stress
     sublime-text-4
-    tesseract
     the_silver_searcher
     tmux
     tor-browser
@@ -119,6 +117,13 @@ package_list=(
     xclip
     youtube-music-bin
     zsa-wally
+)
+
+gaming_package_list=(
+    sc-controller
+    lutris
+    steam
+    heroic-games-launcher
 )
 
 npm=(
@@ -136,5 +141,6 @@ yay -Syu --needed --noconfirm
 
 yay -S ${base_desktop_environment[@]} --needed
 yay -S ${package_list[@]} --needed 
+yay -S ${gaming_package_list[@]} --needed 
 
 sudo npm install -g ${npm[@]} #Install npm apps
