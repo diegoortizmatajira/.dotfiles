@@ -23,6 +23,7 @@ package_list=(
   gnome-shell-extension-appindicator-git 
   gnome-shell-extension-caffeine
   gnome-shell-pomodoro
+  apple_cursor
 )
 
 yay -S ${package_list[@]} --needed 
