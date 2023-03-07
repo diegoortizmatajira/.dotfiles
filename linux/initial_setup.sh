@@ -63,6 +63,7 @@ package_list=(
     hugo
     inetutils
     inkscape
+    inxi
     iputils
     jre
     kitty
@@ -119,11 +120,16 @@ package_list=(
 )
 
 gaming_package_list=(
-    sc-controller
-    lutris
-    steam
     bottles
+    gamemode
     heroic-games-launcher
+    lutris
+    nvidia-settings
+    protontricks
+    protonup-qt
+    sc-controller
+    steam
+    winetricks-git
 )
 
 npm=(
