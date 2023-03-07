@@ -11,6 +11,7 @@ base_desktop_environment=(
     zsh-completions
     lsd
 # Themes
+    bmz-cursor-theme-git
     mcmojave-circle-icon-theme
 # file management
     ntfs-3g
