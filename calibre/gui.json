@@ -177,10 +177,10 @@
   "font_stretch": 0,
   "geometry-of-Plugin Updater plugin:plugin updater dialog": {
     "frame_geometry": {
-      "height": 473,
+      "height": 505,
       "width": 960,
       "x": 2400,
-      "y": 380
+      "y": 348
     },
     "full_screened": false,
     "geometry": {
@@ -198,7 +198,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAlgAAABfAAADR8AAANUAAAJYAAAAXwAAA0fAAADVAAAAAAAAAAAB4AAAAlgAAABfAAADR8AAANU"
+      "__value__": "AdnQywADAAAAAAlgAAABXAAADR8AAANUAAAJYAAAAXwAAA0fAAADVAAAAAAAAAAAB4AAAAlgAAABfAAADR8AAANU"
     },
     "screen": {
       "depth": 24,
@@ -212,7 +212,7 @@
       "index_in_screens_list": 0,
       "manufacturer": "Hewlett Packard",
       "model": "HP E242-",
-      "name": "HDMI-2",
+      "name": "DP-0",
       "serial": "CNC6030CDZ-",
       "size_in_logical_pixels": {
         "height": 1200,
@@ -235,21 +235,21 @@
     },
     "full_screened": false,
     "geometry": {
-      "height": 1168,
+      "height": 1136,
       "width": 1920,
       "x": 1920,
-      "y": 32
+      "y": 64
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 1168,
+      "height": 1136,
       "width": 1920,
       "x": 1920,
-      "y": 32
+      "y": 64
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAeAAAAAIAAADv8AAASvAAAHgAAAACAAAA7/AAAErwAAAAAAAAAAB4AAAAeAAAAAIAAADv8AAASv"
+      "__value__": "AdnQywADAAAAAAeAAAAAIAAADv8AAASvAAAHgAAAAEAAAA7/AAAErwAAAAAAAAAAB4AAAAeAAAAAQAAADv8AAASv"
     },
     "screen": {
       "depth": 24,
@@ -263,7 +263,7 @@
       "index_in_screens_list": 0,
       "manufacturer": "Hewlett Packard",
       "model": "HP E242-",
-      "name": "HDMI-2",
+      "name": "DP-0",
       "serial": "CNC6030CDZ-",
       "size_in_logical_pixels": {
         "height": 1200,
@@ -534,7 +534,7 @@
   },
   "grid view visible": true,
   "library_usage_stats": {
-    "/home/diegoortizmatajira/Calibre Library": 18
+    "/home/diegoortizmatajira/Calibre Library": 20
   },
   "metadata-download-identify-widget-splitter-state": {
     "__class__": "bytearray",

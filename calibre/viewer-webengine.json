@@ -1,0 +1,79 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 752,
+      "width": 640,
+      "x": 1960,
+      "y": 72
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 720,
+      "width": 640,
+      "x": 1960,
+      "y": 104
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 720,
+      "width": 640,
+      "x": 1960,
+      "y": 104
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAeoAAAASAAACicAAAM3AAAHqAAAAGgAAAonAAADNwAAAAAAAAAAB4AAAAeoAAAAaAAACicAAAM3"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1200,
+        "width": 1920,
+        "x": 1920,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Hewlett Packard",
+      "model": "HP E242-",
+      "name": "DP-0",
+      "serial": "CNC6030CDZ-",
+      "size_in_logical_pixels": {
+        "height": 1200,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1200,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 1,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Derek Künsken"
+        ],
+        "key": "/home/diegoortizmatajira/Calibre Library/Derek Kunsken/The Quantum Magician (1682)/The Quantum Magician - Derek Kunsken.epub",
+        "pathtoebook": "/home/diegoortizmatajira/Calibre Library/Derek Kunsken/The Quantum Magician (1682)/The Quantum Magician - Derek Kunsken.epub",
+        "timestamp": "2023-03-01T19:54:11.573Z",
+        "title": "The Quantum Magician"
+      }
+    ]
+  }
+}

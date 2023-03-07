@@ -17,7 +17,8 @@ done
 gsettings set org.gnome.desktop.interface clock-format '12h'
 gsettings set org.gnome.desktop.wm.preferences button-layout "close,minimize,maximize:appmenu"
 gsettings set org.gnome.desktop.wm.keybindings toggle-fullscreen "['<Super>f']"
-gsettings set org.gnome.desktop.wm.keybindings toggle-maximized "['<Super>m', '<Alt>F10']"
+gsettings set org.gnome.desktop.wm.keybindings toggle-maximized "['<Super>m', '<Control><Alt>Return', '<Alt>F10']"
+gsettings set org.gnome.desktop.wm.keybindings maximize "[]"
 gsettings set org.gnome.desktop.wm.keybindings minimize "['<Super>h']"
 gsettings set org.gnome.desktop.wm.keybindings close "['<Super>w', '<Alt>F4']"
 gsettings set org.gnome.shell.keybindings show-screenshot-ui "['<Shift><Control><Super>4']"
