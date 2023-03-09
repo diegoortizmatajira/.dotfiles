@@ -3,12 +3,24 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "6.13",
-      "6.9"
+      "6.9",
+      "6.13"
     ]
   },
   "save to disk dialog": "/home/diegoortizmatajira/Downloads",
   "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "series",
+      true
+    ],
+    [
+      "authors",
+      true
+    ],
     [
       "timestamp",
       false

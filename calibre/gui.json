@@ -279,28 +279,28 @@
   },
   "geometry-of-choose-icon-theme-dialog-geometry": {
     "frame_geometry": {
-      "height": 1125,
+      "height": 1157,
       "width": 900,
       "x": 2430,
-      "y": 54
+      "y": 32
     },
     "full_screened": false,
     "geometry": {
       "height": 1125,
       "width": 900,
       "x": 2430,
-      "y": 54
+      "y": 64
     },
     "maximized": false,
     "normal_geometry": {
       "height": 1125,
       "width": 900,
       "x": 2430,
-      "y": 54
+      "y": 64
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAl+AAAANgAADQEAAASaAAAJfgAAADYAAA0BAAAEmgAAAAAAAAAAB4AAAAl+AAAANgAADQEAAASa"
+      "__value__": "AdnQywADAAAAAAl+AAAAIAAADQEAAASkAAAJfgAAAEAAAA0BAAAEpAAAAAAAAAAAB4AAAAl+AAAAQAAADQEAAASk"
     },
     "screen": {
       "depth": 24,
@@ -314,7 +314,7 @@
       "index_in_screens_list": 0,
       "manufacturer": "Hewlett Packard",
       "model": "HP E242-",
-      "name": "HDMI-2",
+      "name": "DP-0",
       "serial": "CNC6030CDZ-",
       "size_in_logical_pixels": {
         "height": 1200,
@@ -483,28 +483,28 @@
   },
   "geometry-of-preferences dialog geometry": {
     "frame_geometry": {
-      "height": 720,
+      "height": 752,
       "width": 930,
-      "x": 2415,
-      "y": 256
+      "x": 2215,
+      "y": 298
     },
     "full_screened": false,
     "geometry": {
       "height": 720,
       "width": 930,
-      "x": 2415,
-      "y": 256
+      "x": 2215,
+      "y": 330
     },
     "maximized": false,
     "normal_geometry": {
       "height": 720,
       "width": 930,
-      "x": 2415,
-      "y": 256
+      "x": 2215,
+      "y": 330
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAlvAAABAAAADRAAAAPPAAAJbwAAAQAAAA0QAAADzwAAAAAAAAAAB4AAAAlvAAABAAAADRAAAAPP"
+      "__value__": "AdnQywADAAAAAAinAAABKgAADEgAAAQZAAAIpwAAAUoAAAxIAAAEGQAAAAAAAAAAB4AAAAinAAABSgAADEgAAAQZ"
     },
     "screen": {
       "depth": 24,
@@ -518,7 +518,7 @@
       "index_in_screens_list": 0,
       "manufacturer": "Hewlett Packard",
       "model": "HP E242-",
-      "name": "HDMI-2",
+      "name": "DP-0",
       "serial": "CNC6030CDZ-",
       "size_in_logical_pixels": {
         "height": 1200,
@@ -534,7 +534,7 @@
   },
   "grid view visible": true,
   "library_usage_stats": {
-    "/home/diegoortizmatajira/Calibre Library": 20
+    "/home/diegoortizmatajira/Calibre Library": 24
   },
   "metadata-download-identify-widget-splitter-state": {
     "__class__": "bytearray",
