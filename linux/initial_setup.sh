@@ -129,6 +129,7 @@ gaming_package_list=(
     protontricks
     protonup-qt
     sc-controller
+    sgdboop-bin
     steam
     winetricks-git
 )
