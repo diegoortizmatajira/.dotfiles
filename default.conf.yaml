@@ -73,3 +73,4 @@
     ~/.local/bin/cht.sh: local-bin/cht.sh
     ~/.local/bin/spell-nato: local-bin/spell-nato.py
     ~/.local/bin/spell-en: local-bin/spell-en.py
+    ~/.local/bin/pwd-copy: local-bin/pwd-copy.sh
