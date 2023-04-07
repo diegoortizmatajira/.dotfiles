@@ -24,18 +24,6 @@
     [
       "timestamp",
       false
-    ],
-    [
-      "series",
-      true
-    ],
-    [
-      "authors",
-      true
-    ],
-    [
-      "timestamp",
-      false
     ]
   ],
   "welcome_wizard_was_run": true
