@@ -74,3 +74,7 @@
     ~/.local/bin/spell-nato: local-bin/spell-nato.py
     ~/.local/bin/spell-en: local-bin/spell-en.py
     ~/.local/bin/pwd-copy: local-bin/pwd-copy.sh
+    ~/.local/bin/reduce-pdf-ebook: ./local-bin/reduce-pdf-ebook.sh
+    ~/.local/bin/reduce-pdf-screen: ./local-bin/reduce-pdf-screen.sh
+    ~/.local/bin/reduce-pdf-printer: ./local-bin/reduce-pdf-printer.sh
+    ~/.local/bin/reduce-pdf-prepress: ./local-bin/reduce-pdf-prepress.sh
