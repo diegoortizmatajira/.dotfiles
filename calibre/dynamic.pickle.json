@@ -1,10 +1,13 @@
 {
+  "about_get_books_msg_again": false,
+  "add a plugin dialog": "/home/diegoortizmatajira/Downloads",
   "choose library location": "/home/diegoortizmatajira/Calibre Library",
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
       "6.9",
-      "6.13"
+      "6.13",
+      "6.19"
     ]
   },
   "save to disk dialog": "/home/diegoortizmatajira/Downloads",

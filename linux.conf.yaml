@@ -49,15 +49,6 @@
     # dunst config files
     ~/.config/dunst/dunstrc: linux/dunst/dunstrc
 
-    # xsettings
-    #~/.config/xsettingsd/xsettingsd.conf: linux/xsettingsd/xsettingsd.conf
-
-    # fonts config
-    #~/.config/fontconfig/fonts.conf: linux/fontconfig/fonts.conf
-
-    # xfce4
-    #~/.config/xfce4/xfconf/xfce-perchannel-xml: linux/xfce4/xfce-perchannel-xml
-
     # awesome
     ~/.config/awesome: external/awesome
 
@@ -79,6 +70,13 @@
     ~/.local/bin/plex-start: linux/local-bin/plex-start
     ~/.local/bin/plex-stop: linux/local-bin/plex-stop
     ~/.local/bin/profile-image: linux/local-bin/profile-image.sh
+    ~/.local/bin/display-control: linux/local-bin/display-control.sh
+
+    # Mac style keys
+    ~/.config/mac-keys: linux/mac-keys
+    ~/.local/bin/mac-keys-start: linux/mac-keys/mac-keys-start.sh
+    ~/.local/bin/mac-keys-kill: linux/mac-keys/mac-keys-kill.sh
+    ~/.config/systemd/user/mac-keys.service: linux/mac-keys/mac-keys.service
 
     ~/.local/share/fonts: local-fonts
 

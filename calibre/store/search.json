@@ -1,0 +1,115 @@
+{
+  "first_run": false,
+  "geometry-of-geometry": {
+    "frame_geometry": {
+      "height": 633,
+      "width": 800,
+      "x": 550,
+      "y": 199
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 550,
+      "y": 232
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 550,
+      "y": 232
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAImAAAAxwAABUUAAAM/AAACJgAAAOgAAAVFAAADPwAAAAEAAAAAB4AAAAImAAAA6AAABUUAAAM/"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 1,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480-",
+      "name": "DP-2",
+      "serial": "ETK7M0174804U",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1200,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "open_external": true,
+  "results_view_column_width": [
+    85,
+    206,
+    61,
+    77,
+    128,
+    41,
+    41
+  ],
+  "sort_col": 2,
+  "sort_order": 0,
+  "store_checked": {
+    "Amazon AU Kindle": false,
+    "Amazon CA Kindle": false,
+    "Amazon DE Kindle": false,
+    "Amazon ES Kindle": false,
+    "Amazon FR Kindle": false,
+    "Amazon IN Kindle": false,
+    "Amazon IT Kindle": false,
+    "Amazon Kindle": false,
+    "Amazon UK Kindle": false,
+    "Archive.org": false,
+    "Baen Ebooks": false,
+    "Barnes and Noble": false,
+    "Beam EBooks DE": false,
+    "Bubok Portugal": false,
+    "Bubok Spain": false,
+    "Ebookpoint": false,
+    "EbooksGratuits.com": false,
+    "Empik": false,
+    "Feedbooks": false,
+    "Google Books": false,
+    "Kobo": false,
+    "Legimi": false,
+    "Library Genesis": true,
+    "LitRes": false,
+    "ManyBooks": false,
+    "Mills and Boon UK": false,
+    "MobileRead": false,
+    "Nexto": false,
+    "Pragmatic Bookshelf": false,
+    "Project Gutenberg": false,
+    "Publio": false,
+    "RW2010": false,
+    "Smashwords": false,
+    "Virtualo": false,
+    "Weightless Books": false,
+    "Woblink": false,
+    "Wolne Lektury": false,
+    "eBook.nl": false,
+    "eBooks.com": false,
+    "ebook.de": false,
+    "Świat Ebooków": false,
+    "Библио.бг": false,
+    "Моята библиотека": false
+  },
+  "store_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABYwAAAaMB/////wEAAAABAA=="
+  }
+}

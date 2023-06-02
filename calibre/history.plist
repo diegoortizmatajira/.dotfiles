@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lineedit_history_store_search_search_author</key>
+	<array>
+		<string>John Grisham</string>
+	</array>
+	<key>lineedit_history_store_search_search_title</key>
+	<array>
+		<string>The Firm</string>
+		<string>The Fifth Season</string>
+	</array>
+</dict>
+</plist>
