@@ -59,6 +59,90 @@
     "__class__": "bytearray",
     "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
   },
+  "card_a_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 91,
+      "collections": 102,
+      "inlibrary": 91,
+      "size": 55,
+      "timestamp": 70,
+      "title": 57
+    },
+    "formats_injected": true,
+    "hidden_columns": [],
+    "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "path_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "card_b_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 91,
+      "collections": 102,
+      "inlibrary": 91,
+      "size": 55,
+      "timestamp": 70,
+      "title": 57
+    },
+    "formats_injected": true,
+    "hidden_columns": [],
+    "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "path_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
   "cover_browser_splitter_vertical_state": [
     false,
     300
@@ -168,6 +252,7 @@
     ]
   ],
   "default_author_link": null,
+  "do_not_show_device_open_popup_message_KINDLE2": true,
   "font": [
     "SF Pro Text",
     10,
@@ -229,27 +314,27 @@
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
       "height": 1168,
-      "width": 960,
-      "x": 2880,
+      "width": 1920,
+      "x": 0,
       "y": 32
     },
     "full_screened": false,
     "geometry": {
       "height": 1135,
-      "width": 960,
-      "x": 2880,
+      "width": 1920,
+      "x": 0,
       "y": 65
     },
-    "maximized": false,
+    "maximized": true,
     "normal_geometry": {
-      "height": 1135,
-      "width": 960,
-      "x": 2880,
+      "height": 981,
+      "width": 1717,
+      "x": 0,
       "y": 65
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAtAAAAAIAAADv8AAASvAAALQAAAAEEAAA7/AAAErwAAAAAAAAAAB4AAAAtAAAAAQQAADv8AAASv"
+      "__value__": "AdnQywADAAAAAAAAAAAAIAAAB38AAASvAAAAAAAAAEEAAAa0AAAEFQAAAAACAAAAB4AAAAAAAAAAQQAAB38AAASv"
     },
     "screen": {
       "depth": 24,
@@ -257,7 +342,7 @@
       "geometry_in_logical_pixels": {
         "height": 1200,
         "width": 1920,
-        "x": 1920,
+        "x": 0,
         "y": 0
       },
       "index_in_screens_list": 0,
@@ -271,7 +356,7 @@
       },
       "virtual_geometry": {
         "height": 1200,
-        "width": 3840,
+        "width": 1920,
         "x": 0,
         "y": 0
       }
@@ -374,6 +459,57 @@
       "virtual_geometry": {
         "height": 1200,
         "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-jobs_dialog_geometry": {
+    "frame_geometry": {
+      "height": 660,
+      "width": 946,
+      "x": 768,
+      "y": 266
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 627,
+      "width": 946,
+      "x": 768,
+      "y": 299
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 627,
+      "width": 946,
+      "x": 768,
+      "y": 299
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAMAAAABCgAABrEAAAOdAAADAAAAASsAAAaxAAADnQAAAAAAAAAAB4AAAAMAAAABKwAABrEAAAOd"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1200,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Hewlett Packard",
+      "model": "HP E242",
+      "name": "DP-0",
+      "serial": "CNC6030CDZ",
+      "size_in_logical_pixels": {
+        "height": 1200,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1200,
+        "width": 1920,
         "x": 0,
         "y": 0
       }
@@ -533,8 +669,54 @@
     }
   },
   "grid view visible": true,
+  "jobs view column layout3": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAx4AAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAABjgAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+  },
   "library_usage_stats": {
-    "/home/diegoortizmatajira/Calibre Library": 34
+    "/home/diegoortizmatajira/Calibre Library": 38
+  },
+  "memory_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 350,
+      "collections": 102,
+      "inlibrary": 91,
+      "size": 70,
+      "timestamp": 100,
+      "title": 350
+    },
+    "formats_injected": true,
+    "hidden_columns": [],
+    "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "path_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ]
+    ]
   },
   "metadata-download-identify-widget-splitter-state": {
     "__class__": "bytearray",
@@ -544,6 +726,17 @@
   "quickview visible": false,
   "recently_used_languages": [
     "English"
+  ],
+  "replace_scene_breaks_history": [
+    "",
+    "<hr />",
+    "∗ ∗ ∗",
+    "• • •",
+    "♦ ♦ ♦",
+    "† †",
+    "‡ ‡ ‡",
+    "∞ ∞ ∞",
+    "¤ ¤ ¤"
   ],
   "search bar visible": true,
   "show_emblems": false,
