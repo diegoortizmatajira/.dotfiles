@@ -1,4 +1,4 @@
-let mapleader=","
+let mapleader = ","
 
 set clipboard+=unnamed
 set ignorecase smartcase
@@ -16,7 +16,8 @@ set ideajoin
 " CORE
 nmap <C-s> :w<CR>
 imap <C-s> <Esc>:w<CR>
-map ZQ :action exit<CR>
+nmap <C-r><C-r> :action RenameElement<CR>
+map ZQ :action exit<CR
 map ZZ :action CloseContent<CR>
 map gi :action GotoImplementation<CR>
 nmap gpi" vi""0p 
