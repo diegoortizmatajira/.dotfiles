@@ -2,8 +2,9 @@
 Description=Mac keys settings
 
 [Service]
-ExecStart=bash -c '/usr/bin/xhost +SI:localuser:root && mac-keys-kill && mac-keys-start'
-ExecStop=bash -c 'pkill -f bin/xkeysnail && exit 0'
+ExecStart=/usr/bin/bash -c 'mac-keys-kill && mac-keys-start'
+ExecStop=/usr/bin/bash -c 'pkill -f bin/xkeysnail && exit 0'
+Type=simple
 Restart=on-failure
 RestartSec=3
 

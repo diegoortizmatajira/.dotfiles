@@ -72,11 +72,6 @@
     ~/.local/bin/profile-image: linux/local-bin/profile-image.sh
     ~/.local/bin/display-control: linux/local-bin/display-control.sh
 
-    # Mac style keys
-    ~/.config/mac-keys: linux/mac-keys
-    ~/.local/bin/mac-keys-start: linux/mac-keys/mac-keys-start.sh
-    ~/.local/bin/mac-keys-kill: linux/mac-keys/mac-keys-kill.sh
-    ~/.config/systemd/user/mac-keys.service: linux/mac-keys/mac-keys.service
 
     ~/.local/share/fonts: local-fonts
 
@@ -93,9 +88,14 @@
         - /etc/systemd/logind.conf.d
 
     - link:
-        #  /etc/X11/xorg.conf.d/00-keyboard.conf: linux/xorg.conf.d/00-keyboard.conf
         /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf
         /etc/X11/sessions/custom-awesome.desktop: linux/awesomewm/custom-awesome.desktop
+
+        # Mac style keys
+        /opt/mac-keys: linux/mac-keys
+        /usr/bin/mac-keys-start: linux/mac-keys/mac-keys-start.sh
+        /usr/bin/mac-keys-kill: linux/mac-keys/mac-keys-kill.sh
+        /lib/systemd/system/mac-keys.service: linux/mac-keys/mac-keys.service
 
 - shell:
   # Install the user interface themes
