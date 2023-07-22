@@ -97,8 +97,6 @@ export EDITOR=nvim
 alias vi=nvim
 alias vim=nvim
 alias ls=lsd
-alias dcp='display-control primary-only'
-alias dca='display-control all-external'
 alias x=exit
 source ~/.zsh_os
 # [ -f /opt/miniconda3/etc/profile.d/conda.sh ] && source /opt/miniconda3/etc/profile.d/conda.sh
