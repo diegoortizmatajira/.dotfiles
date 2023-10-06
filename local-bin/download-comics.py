@@ -13,13 +13,13 @@ from colorama import Fore, Style
 def post_search(url: str) -> str | None:
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    if soup == None:
+    if soup is None:
         return None
     post = soup.find('h1', {'class': 'post-title'})
-    if post == None:
+    if post is None:
         return None
     link = post.find('a')
-    if link == None:
+    if link is None:
         return None
     print(f'*************** {link.text} ***************')
     return link['href']
@@ -28,31 +28,42 @@ def post_search(url: str) -> str | None:
 def download_link_search(url: str, filter: str) -> Dict[str, Any] | None:
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    if soup == None:
+    if soup is None:
         return None
-    webp_title = soup.find('span', string='WEBP')
-    if webp_title == None:
+    download_section_title = soup.find('span', string='WEBP')
+    if download_section_title is None:
+        # Then look for JPG downloads if no WEBP download is available.
+        download_section_title = soup.find('span', string='JPG')
+
+    download_section = None
+    if download_section_title is not None:
+        # look for h3 title that contains current JPG or WEBP span.
+        download_section = download_section_title.parent
+    else:
+        # look for h2 title before any download links
+        download_section = soup.find('h2', string='Free Comics Download')
+
+    if download_section is None:
         return None
-    webp_section = webp_title.parent
-    if webp_section == None:
-        return None
-    book_list = webp_section.findNextSibling('ul')
-    if book_list == None:
+    # Finds the next list of files to download.
+    book_list = download_section.findNext('ul')
+    if book_list is None:
+        print('found nothing')
         return None
     books = book_list.findAll('li')
-    if books == None:
+    if books is None:
         return None
     result = {}
     for book_pack in books:
         pack_title = book_pack.find(string=True, recursive=False)
-        if pack_title == None:
+        if pack_title is None:
             continue
         match = re.search(filter, pack_title.replace(':', '').strip())
-        if match == None:
+        if match is None:
             continue
         extracted_links = {}
         links = book_pack.findAll('a')
-        if links == None:
+        if links is None:
             return None
         for link in links:
             if link.has_attr('href'):
@@ -66,7 +77,7 @@ def download_link_processor(links, priority, download):
         links_found = False
         for source in priority:
             url = urls.get(source, None)
-            if url == None:
+            if url is None:
                 continue
             print(
                 f'>> Download: {Fore.BLUE}{book}{Style.RESET_ALL} [{Fore.CYAN}{source}{Style.RESET_ALL}] => {Fore.GREEN}{url}{Style.RESET_ALL}'
@@ -91,10 +102,10 @@ def download_week(delta: int = 0, download: str = 'y'):
     filter = 'Marvel|DC'
     priority = ['MEDIAFIRE', 'ZIPPYSHARE']
     comic_url = post_search(url)
-    if comic_url == None:
+    if comic_url is None:
         return
     links = download_link_search(comic_url, filter)
-    if links == None:
+    if links is None:
         return
     download_link_processor(links, priority, download)
 
