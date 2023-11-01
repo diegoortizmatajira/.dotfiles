@@ -1,6 +1,7 @@
 let mapleader = ","
 
 set clipboard+=unnamed
+set clipboard+=ideaput
 set ignorecase smartcase
 set hlsearch
 set showmode
@@ -16,104 +17,105 @@ set ideajoin
 " CORE
 nmap <C-s> :w<CR>
 imap <C-s> <Esc>:w<CR>
-nmap <C-r><C-r> :action RenameElement<CR>
-map ZQ :action exit<CR
-map ZZ :action CloseContent<CR>
-map gi :action GotoImplementation<CR>
+nmap <C-r><C-r> <Action>(RenameElement)
+map ZQ <Action>(exit)
+map ZZ <Action>(CloseContent)
+map gi <Action>(GotoImplementation)
 nmap gpi" vi""0p 
 nmap gpi' vi'"0p 
 nmap <space>qq ZQ
 
 map <leader><space> :nohlsearch<CR>
-nmap <leader>rn :action RenameElement<CR>
-nmap <leader>f :action ReformatCode<CR>
+nmap <leader>rn <Action>(RenameElement)
+nmap <leader>f <Action>(ReformatCode)
 
 " EASYMOTION
 map s <Plug>(easymotion-s)
 
 " Buffers
-nmap <space><Tab> :action GoToLastTab<CR>
-nmap <space>bf :action ReformatCode<CR>
-map <space>bd :action CloseEditor<CR>
-map <space>bX :action CloseAllEditorsButActive<CR>
-map <space>bx :action CloseAllEditors<CR>
-map <space>bh :action SplitHorizontally<CR>
-map <space>bv :action SplitVertically<CR>
-map <space>bw :action ToggleReadOnlyAttribute<CR>
+nmap <space><Tab> <Action>(GoToLastTab)
+nmap <space>bf <Action>(ReformatCode)
+map <space>bd <Action>(CloseEditor)
+map <space>bX <Action>(CloseAllEditorsButActive)
+map <space>bx <Action>(CloseAllEditors)
+map <space>bh <Action>(SplitHorizontally)
+map <space>bv <Action>(SplitVertically)
+map <space>bw <Action>(ToggleReadOnlyAttribute)
 
-map <leader>z :action PreviousTab<CR>
-map <leader>x :action NextTab<CR>
-map <leader>c :action CloseEditor<CR>
-map <leader>b :action Switcher<CR>
-map <leader>h :action SplitHorizontally<CR>
-map <leader>v :action SplitVertically<CR>
+map <leader>z <Action>(PreviousTab)
+map <leader>x <Action>(NextTab)
+map <leader>c <Action>(CloseEditor)
+map <leader>b <Action>(Switcher)
+map <leader>h <Action>(SplitHorizontally)
+map <leader>v <Action>(SplitVertically)
 
 " Actions
-nmap <space>aa :action ShowContextActions<CR>
-nmap <space>au :action $Undo<CR>
-nmap <space>ar :action $Redo<CR>
-nmap <space>ac :action $Copy<CR>
-nmap <space>ax :action $Cut<CR>
-nmap <space>av :action $Paste<CR>
-nmap <space>as :action $SelectAll<CR>
+nmap <space>aa <Action>(ShowContextActions)
+nmap <space>au <Action>($Undo)
+nmap <space>ar <Action>($Redo)
+nmap <space>ac <Action>($Copy)
+nmap <space>ax <Action>($Cut)
+nmap <space>av <Action>($Paste)
+nmap <space>as <Action>($SelectAll)
 
 " GIT
-nmap <space>gs :action ActivateCommitToolWindow<CR>
-nmap <space>gc :action ActivateCommitToolWindow<CR>
-nmap <space>gb :action Git.Branches<CR>
-nmap <space>ga :action Git.Add<CR>
-nmap <space>gp :action Vcs.Push<CR>
-nmap <space>gP :action Git.Pull<CR>
-nmap <space>gf :action Git.Fetch<CR>
-nmap <space>gd :action Git.CompareWithBranch <CR>
-nmap <space>gS :action Git.Stage.Add<CR>
-nmap <space>gU :action Git.Stage.Revert<CR>
-nmap <space>gv :action Vcs.ShowTabbedFileHistory<CR>
-nmap <space>gV :action Git.Log<CR>
+nmap <space>gs <Action>(ActivateCommitToolWindow)
+nmap <space>gc <Action>(ActivateCommitToolWindow)
+nmap <space>gb <Action>(Git.Branches)
+nmap <space>ga <Action>(Git.Add)
+nmap <space>gp <Action>(Vcs.Push)
+nmap <space>gP <Action>(Git.Pull)
+nmap <space>gf <Action>(Git.Fetch)
+nmap <space>gd <Action>(Git.CompareWithBranch )
+nmap <space>gS <Action>(Git.Stage.Add)
+nmap <space>gU <Action>(Git.Stage.Revert)
+nmap <space>gv <Action>(Vcs.ShowTabbedFileHistory)
+nmap <space>gV <Action>(Git.Log)
 
 " Search
-nmap <space>ss :action GotoSymbol<CR>
-nmap <space>sa :action GotoAction<CR>
-nmap <space>sf :action GotoFile<CR>
-nmap <space>sh :action RecentFiles<CR>
-nmap <space>sH :action RecentLocations<CR>
-nmap <space>sc :action GotoClass<CR>
-nmap <space>sb :action Switcher<CR>
-nmap <space>s. :action SearchEverywhere<CR>
-nmap <space>so :action FileStructurePopup<CR>
+nmap <space>ss <Action>(GotoSymbol)
+nmap <space>sa <Action>(GotoAction)
+nmap <space>sf <Action>(GotoFile)
+nmap <space>sh <Action>(RecentFiles)
+nmap <space>sH <Action>(RecentLocations)
+nmap <space>sc <Action>(GotoClass)
+nmap <space>sb <Action>(Switcher)
+nmap <space>s. <Action>(SearchEverywhere)
+nmap <space>s/ <Action>(SearchText)
+nmap <space>so <Action>(FileStructurePopup)
 
-map <C-p> <Esc>:action GotoFile<CR>
+map <C-p> <Esc><Action>(GotoFile)
 
 " View
-nmap <space>ve :action ActivateErrorsInSolutionToolWindow<CR>
-nmap <space>vp :action ActivateProjectToolWindow<CR>
-nmap <space>vo :action ActivateStructureToolWindow<CR>
-nmap <space>vt :action ActivateUnitTestsToolWindow<CR>
-nmap <space>vT :action ActivateUnitTestsCoverageToolWindow
-nmap <space>vc :action ActivateTerminalToolWindow<CR>
+nmap <space>ve <Action>(ActivateErrorsInSolutionToolWindow)
+nmap <space>vp <Action>(ActivateProjectToolWindow)
+nmap <space>vo <Action>(ActivateStructureToolWindow)
+nmap <space>vt <Action>(ActivateUnitTestsToolWindow)
+nmap <space>vT <Action>(ActivateUnitTestsCoverageToolWindow)
+nmap <space>vc <Action>(ActivateTerminalToolWindow)
 
 " Development
-nmap <space>d. :action ToggleLineBreakpoint<CR>
-nmap <space>db :action BuildSolutionAction<CR>
-nmap <space>dB :action RebuildSolutionAction<CR>
-nmap <space>du :action FindUsages<CR>
-nmap <space>di :action GotoImplementation<CR>
-nmap <space>dl :action GotoTypeDeclaration<CR>
-nmap <space>dr :action RenameElement<CR>
-nmap <space>dR :action Refactorings.QuickListPopupAction<CR>
-nmap <space>dd :action GotoDeclaration<CR>
-nmap <space>dd :action GotoDeclaration<CR>
-nmap <space>dx :action ChooseRunConfiguration<CR>
-nmap <space>dX :action ChooseDebugConfiguration<CR>
+nmap <space>d. <Action>(ToggleLineBreakpoint)
+nmap <space>db <Action>(BuildSolutionAction)
+nmap <space>dB <Action>(RebuildSolutionAction)
+nmap <space>du <Action>(FindUsages)
+nmap <space>di <Action>(GotoImplementation)
+nmap <space>dl <Action>(GotoTypeDeclaration)
+nmap <space>dr <Action>(RenameElement)
+nmap <space>dR <Action>(Refactorings.QuickListPopupAction)
+nmap <space>dd <Action>(GotoDeclaration)
+nmap <space>dd <Action>(GotoDeclaration)
+nmap <space>dx <Action>(ChooseRunConfiguration)
+nmap <space>dX <Action>(ChooseDebugConfiguration)
 
 " Test
-nmap <space>t. :action RiderUnitTestQuickListPopupAction<CR>
-nmap <space>tt :action RiderUnitTestRunSolutionAction<CR>
-nmap <space>td :action RiderUnitTestDebugContextAction<CR>
-nmap <space>tr :action RiderUnitTestRepeatPreviousRunAction<CR>
+nmap <space>t. <Action>(RiderUnitTestQuickListPopupAction)
+nmap <space>tt <Action>(RiderUnitTestRunSolutionAction)
+nmap <space>td <Action>(RiderUnitTestDebugContextAction)
+nmap <space>tr <Action>(RiderUnitTestRepeatPreviousRunAction)
 
 " Commentary workaround
-nmap gcc :action CommentByLineComment<CR>
-vmap gc :action CommentByLineComment<CR>
+nmap gcc <Action>(CommentByLineComment)
+vmap gc <Action>(CommentByLineComment)
 
 
