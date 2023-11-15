@@ -1,28 +1,28 @@
 {
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 752,
-      "width": 640,
-      "x": 2355,
-      "y": 220
+      "height": 1168,
+      "width": 1920,
+      "x": 0,
+      "y": 32
     },
     "full_screened": false,
     "geometry": {
-      "height": 720,
-      "width": 640,
-      "x": 2355,
-      "y": 252
+      "height": 1135,
+      "width": 1920,
+      "x": 0,
+      "y": 65
     },
-    "maximized": false,
+    "maximized": true,
     "normal_geometry": {
-      "height": 720,
+      "height": 800,
       "width": 640,
-      "x": 2355,
-      "y": 252
+      "x": 33,
+      "y": 98
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAkzAAAA3AAAC7IAAAPLAAAJMwAAAPwAAAuyAAADywAAAAAAAAAAB4AAAAkzAAAA/AAAC7IAAAPL"
+      "__value__": "AdnQywADAAAAAAAAAAAAIAAAB38AAASvAAAAIQAAAGIAAAKgAAADgQAAAAACAAAAB4AAAAAAAAAAQQAAB38AAASv"
     },
     "screen": {
       "depth": 24,
@@ -30,21 +30,21 @@
       "geometry_in_logical_pixels": {
         "height": 1200,
         "width": 1920,
-        "x": 1920,
+        "x": 0,
         "y": 0
       },
       "index_in_screens_list": 0,
       "manufacturer": "Hewlett Packard",
-      "model": "HP E242-",
+      "model": "HP E242",
       "name": "DP-0",
-      "serial": "CNC6030CDZ-",
+      "serial": "CNC6030CDZ",
       "size_in_logical_pixels": {
         "height": 1200,
         "width": 1920
       },
       "virtual_geometry": {
         "height": 1200,
-        "width": 3840,
+        "width": 1920,
         "x": 0,
         "y": 0
       }
@@ -52,7 +52,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAAHgAAABG8AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -65,6 +65,12 @@
       "singleinstance": false
     },
     "standalone_recently_opened": [
+      {
+        "key": "/home/diegoortizmatajira/Calibre Library/Unknown/The Pregnancy Instruction Manual (1723)/The Pregnancy Instruction Manual - Unknown.epub",
+        "pathtoebook": "/home/diegoortizmatajira/Calibre Library/Unknown/The Pregnancy Instruction Manual (1723)/The Pregnancy Instruction Manual - Unknown.epub",
+        "timestamp": "2023-11-03T17:13:59.052Z",
+        "title": "The Pregnancy Instruction Manual"
+      },
       {
         "authors": [
           "Blake Crouch"

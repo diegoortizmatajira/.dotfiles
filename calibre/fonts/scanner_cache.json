@@ -18036,7 +18036,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/fa-brands-400.ttf||187208:1680434639.0": {
+    "/usr/share/fonts/TTF/fa-brands-400.ttf||189684:1693246578.0": {
       "family_name": "Font Awesome 6 Brands Regular",
       "font-family": "Font Awesome 6 Brands Regular",
       "font-stretch": "normal",
@@ -18072,7 +18072,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/fa-regular-400.ttf||63952:1680434639.0": {
+    "/usr/share/fonts/TTF/fa-regular-400.ttf||63348:1693246578.0": {
       "family_name": "Font Awesome 6 Free Regular",
       "font-family": "Font Awesome 6 Free Regular",
       "font-stretch": "normal",
@@ -18108,7 +18108,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/fa-solid-900.ttf||394628:1680434639.0": {
+    "/usr/share/fonts/TTF/fa-solid-900.ttf||394668:1693246578.0": {
       "family_name": "Font Awesome 6 Free Solid",
       "font-family": "Font Awesome 6 Free Solid",
       "font-stretch": "normal",
@@ -18144,7 +18144,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/fa-v4compatibility.ttf||10172:1680434639.0": {
+    "/usr/share/fonts/TTF/fa-v4compatibility.ttf||10172:1693246578.0": {
       "family_name": "Font Awesome v4 Compatibility Regular",
       "font-family": "Font Awesome v4 Compatibility Regular",
       "font-stretch": "normal",
@@ -18288,7 +18288,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont.ttf||12452236:1686336097.0": {
+    "/usr/share/fonts/Unifont/Unifont.ttf||11941060:1695863064.0": {
       "family_name": "Unifont",
       "font-family": "Unifont",
       "font-stretch": "normal",
@@ -18324,7 +18324,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_CSUR.ttf||1401172:1686336097.0": {
+    "/usr/share/fonts/Unifont/Unifont_CSUR.ttf||1370220:1695863064.0": {
       "family_name": "Unifont CSUR",
       "font-family": "Unifont CSUR",
       "font-stretch": "normal",
@@ -18360,7 +18360,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_Upper.ttf||13341192:1686336097.0": {
+    "/usr/share/fonts/Unifont/Unifont_Upper.ttf||13002056:1695863064.0": {
       "family_name": "Unifont Upper",
       "font-family": "Unifont Upper",
       "font-stretch": "normal",
@@ -18396,7 +18396,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_jp.ttf||12366012:1686336097.0": {
+    "/usr/share/fonts/Unifont/Unifont_jp.ttf||11946604:1695863064.0": {
       "family_name": "Unifont-JP",
       "font-family": "Unifont-JP",
       "font-stretch": "normal",
