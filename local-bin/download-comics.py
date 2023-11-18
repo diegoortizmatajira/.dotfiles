@@ -97,7 +97,7 @@ def download_week(delta: int = 0, download: str = 'y'):
     offset = (today.weekday() - WEDNESDAY) % 7
     last_wednesday = today - timedelta(days=offset)
     day_for_download = last_wednesday - timedelta(days=7 * delta)
-    date_string = day_for_download.strftime('%Y %m %d')
+    date_string = day_for_download.strftime('%Y.%m.%d')
     url = f'https://getcomics.info/?s={date_string}+weekly'
     filter = 'Marvel|DC'
     priority = ['MEDIAFIRE', 'ZIPPYSHARE']
