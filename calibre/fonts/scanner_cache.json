@@ -18288,7 +18288,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont.ttf||11941060:1695863064.0": {
+    "/usr/share/fonts/Unifont/Unifont.ttf||11941056:1699909607.0": {
       "family_name": "Unifont",
       "font-family": "Unifont",
       "font-stretch": "normal",
@@ -18324,7 +18324,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_CSUR.ttf||1370220:1695863064.0": {
+    "/usr/share/fonts/Unifont/Unifont_CSUR.ttf||1370224:1699909607.0": {
       "family_name": "Unifont CSUR",
       "font-family": "Unifont CSUR",
       "font-stretch": "normal",
@@ -18360,7 +18360,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_Upper.ttf||13002056:1695863064.0": {
+    "/usr/share/fonts/Unifont/Unifont_Upper.ttf||13399372:1699909607.0": {
       "family_name": "Unifont Upper",
       "font-family": "Unifont Upper",
       "font-stretch": "normal",
@@ -18396,7 +18396,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_jp.ttf||11946604:1695863064.0": {
+    "/usr/share/fonts/Unifont/Unifont_jp.ttf||12358676:1699909607.0": {
       "family_name": "Unifont-JP",
       "font-family": "Unifont-JP",
       "font-stretch": "normal",
@@ -21168,7 +21168,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/noto/NotoColorEmoji.ttf||10353636:1664221172.0": {
+    "/usr/share/fonts/noto/NotoColorEmoji.ttf||10591160:1700244422.0": {
       "family_name": "Noto Color Emoji",
       "font-family": "Noto Color Emoji",
       "font-stretch": "normal",
