@@ -1,1 +1,10 @@
-nremap <C-s> <Esc>:w<CR>
+imap <C-s> <Esc>:w<CR>
+nmap <C-s> <cmd>:w<CR>
+map <leader><space> <cmd>:nohlsearch<CR>
+map s <leader><leader>s
+map <leader>c <cmd>:bd<CR>
+map <leader>z <cmd>:bp<CR>
+map <leader>x <cmd>:bn<CR>
+map <space>bx :bufdo bd
+nmap <leader>f editor.action.formatDocument
+nmap <space>s/ workbench.action.findInFiles
