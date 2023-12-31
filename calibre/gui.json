@@ -313,28 +313,28 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 936,
-      "width": 1717,
+      "height": 1048,
+      "width": 1920,
       "x": 0,
       "y": 32
     },
     "full_screened": false,
     "geometry": {
-      "height": 903,
-      "width": 1717,
+      "height": 1015,
+      "width": 1920,
       "x": 0,
       "y": 65
     },
-    "maximized": false,
+    "maximized": true,
     "normal_geometry": {
-      "height": 903,
-      "width": 1717,
-      "x": 0,
-      "y": 65
+      "height": 884,
+      "width": 1728,
+      "x": 832,
+      "y": 196
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAIAAABrQAAAPHAAAAAAAAAEEAAAa0AAADxwAAAAEAAAAAB4AAAAAAAAAAQQAABrQAAAPH"
+      "__value__": "AdnQywADAAAAAAAAAAAAIAAAB38AAAQ3AAADQAAAAMQAAAn/AAAENwAAAAECAAAAB4AAAAAAAAAAQQAAB38AAAQ3"
     },
     "screen": {
       "depth": 24,
@@ -674,7 +674,7 @@
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAx4AAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAABjgAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "/home/diegoortizmatajira/Calibre Library": 46
+    "/home/diegoortizmatajira/Calibre Library": 48
   },
   "memory_view books view state": {
     "column_alignment": {

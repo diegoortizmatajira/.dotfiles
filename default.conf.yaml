@@ -78,3 +78,5 @@
     ~/.local/bin/reduce-pdf-screen: ./local-bin/reduce-pdf-screen.sh
     ~/.local/bin/reduce-pdf-printer: ./local-bin/reduce-pdf-printer.sh
     ~/.local/bin/reduce-pdf-prepress: ./local-bin/reduce-pdf-prepress.sh
+    ~/.local/bin/reset-beyond-compare: ./local-bin/reset-beyond-compare-trial.sh
+    ~/.local/bin/clear-empty-folders: ./local-bin/clear-empty-folders.sh
