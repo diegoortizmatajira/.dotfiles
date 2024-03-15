@@ -262,50 +262,50 @@
   "font_stretch": 0,
   "geometry-of-Plugin Updater plugin:plugin updater dialog": {
     "frame_geometry": {
-      "height": 506,
+      "height": 505,
       "width": 960,
-      "x": 794,
-      "y": 235
+      "x": 480,
+      "y": 331
     },
     "full_screened": false,
     "geometry": {
       "height": 473,
       "width": 960,
-      "x": 794,
-      "y": 268
+      "x": 480,
+      "y": 363
     },
     "maximized": false,
     "normal_geometry": {
       "height": 473,
       "width": 960,
-      "x": 794,
-      "y": 268
+      "x": 480,
+      "y": 363
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAMaAAAA6wAABtkAAALkAAADGgAAAQwAAAbZAAAC5AAAAAEAAAAAB4AAAAMaAAABDAAABtkAAALk"
+      "__value__": "AdnQywADAAAAAAHgAAABSwAABZ8AAANDAAAB4AAAAWsAAAWfAAADQwAAAAAAAAAAB4AAAAHgAAABawAABZ8AAAND"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920,
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
-      "manufacturer": "BNQ",
-      "model": "BenQ GW2480",
-      "name": "DP-2",
-      "serial": "ETK7M0174804U",
+      "index_in_screens_list": 0,
+      "manufacturer": "Hewlett Packard",
+      "model": "HP E242",
+      "name": "DP-0",
+      "serial": "CNC6030CDZ",
       "size_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920
       },
       "virtual_geometry": {
         "height": 1200,
-        "width": 3840,
+        "width": 1920,
         "x": 0,
         "y": 0
       }
@@ -313,50 +313,50 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 1048,
+      "height": 1168,
       "width": 1920,
       "x": 0,
       "y": 32
     },
     "full_screened": false,
     "geometry": {
-      "height": 1015,
+      "height": 1136,
       "width": 1920,
       "x": 0,
-      "y": 65
+      "y": 64
     },
     "maximized": true,
     "normal_geometry": {
-      "height": 884,
-      "width": 1728,
-      "x": 832,
-      "y": 196
+      "height": 1136,
+      "width": 1920,
+      "x": 0,
+      "y": 64
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAIAAAB38AAAQ3AAADQAAAAMQAAAn/AAAENwAAAAECAAAAB4AAAAAAAAAAQQAAB38AAAQ3"
+      "__value__": "AdnQywADAAAAAAAAAAAAIAAAB38AAASvAAAAAAAAAEAAAAd/AAAErwAAAAACAAAAB4AAAAAAAAAAQAAAB38AAASv"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920,
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
-      "manufacturer": "BNQ",
-      "model": "BenQ GW2480",
-      "name": "DP-2",
-      "serial": "ETK7M0174804U",
+      "index_in_screens_list": 0,
+      "manufacturer": "Hewlett Packard",
+      "model": "HP E242",
+      "name": "DP-0",
+      "serial": "CNC6030CDZ",
       "size_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920
       },
       "virtual_geometry": {
         "height": 1200,
-        "width": 3840,
+        "width": 1920,
         "x": 0,
         "y": 0
       }
@@ -674,7 +674,36 @@
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAx4AAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAABjgAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "/home/diegoortizmatajira/Calibre Library": 48
+    "/home/diegoortizmatajira/Calibre Library": 54
+  },
+  "main_window_central_widget_state": {
+    "layout": "wide",
+    "narrow_desires": {
+      "book_details_height": 0.2303330970942594,
+      "cover_browser_width": 0.35,
+      "quick_view_height": 0.2565556343019135,
+      "tag_browser_width": 0.25
+    },
+    "narrow_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    },
+    "wide_desires": {
+      "book_details_width": 0.10416666666666667,
+      "cover_browser_height": 0.21645021645021645,
+      "quick_view_height": 0.2611832611832612,
+      "tag_browser_width": 0.10416666666666667
+    },
+    "wide_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    }
   },
   "memory_view books view state": {
     "column_alignment": {

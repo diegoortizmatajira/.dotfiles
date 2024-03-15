@@ -8,4 +8,5 @@
 	"theme": "Default Dark.sublime-theme", 	
 	"vintage_start_in_command_mode": true,
 	"vintage_use_clipboard": true,
+	"index_files": true,
 }

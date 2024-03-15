@@ -2,50 +2,50 @@
   "first_run": false,
   "geometry-of-geometry": {
     "frame_geometry": {
-      "height": 633,
+      "height": 632,
       "width": 800,
-      "x": 550,
-      "y": 199
+      "x": 560,
+      "y": 267
     },
     "full_screened": false,
     "geometry": {
       "height": 600,
       "width": 800,
-      "x": 550,
-      "y": 232
+      "x": 560,
+      "y": 299
     },
     "maximized": false,
     "normal_geometry": {
       "height": 600,
       "width": 800,
-      "x": 550,
-      "y": 232
+      "x": 560,
+      "y": 299
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAImAAAAxwAABUUAAAM/AAACJgAAAOgAAAVFAAADPwAAAAEAAAAAB4AAAAImAAAA6AAABUUAAAM/"
+      "__value__": "AdnQywADAAAAAAIwAAABCwAABU8AAAOCAAACMAAAASsAAAVPAAADggAAAAAAAAAAB4AAAAIwAAABKwAABU8AAAOC"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920,
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
-      "manufacturer": "BNQ",
-      "model": "BenQ GW2480-",
-      "name": "DP-2",
-      "serial": "ETK7M0174804U",
+      "index_in_screens_list": 0,
+      "manufacturer": "Hewlett Packard",
+      "model": "HP E242",
+      "name": "DP-0",
+      "serial": "CNC6030CDZ",
       "size_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920
       },
       "virtual_geometry": {
         "height": 1200,
-        "width": 3840,
+        "width": 1920,
         "x": 0,
         "y": 0
       }

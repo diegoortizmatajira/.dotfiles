@@ -23,11 +23,15 @@
       url: "https://github.com/vinceliuice/McMojave-circle"
       method: clone-or-pull
 
+    "external/WhiteSur-icon-theme":
+      description: WhiteSur Icon Theme
+      url: "https://github.com/vinceliuice/WhiteSur-icon-theme"
+      method: clone-or-pull
+
     "external/WhiteSur-gtk-theme":
       description: WhiteSur GTK Theme
       url: "https://github.com/vinceliuice/WhiteSur-gtk-theme"
       method: clone-or-pull
-
 
 - link:
     # Zsh config files
@@ -72,7 +76,6 @@
     ~/.local/bin/profile-image: linux/local-bin/profile-image.sh
     ~/.local/bin/display-control: linux/local-bin/display-control.sh
 
-
     ~/.local/share/fonts: local-fonts
 
 - create:
@@ -94,8 +97,12 @@
         /usr/bin/mac-keys-start: linux/mac-keys/mac-keys-start.sh
         /usr/bin/mac-keys-kill: linux/mac-keys/mac-keys-kill.sh
         /lib/systemd/system/mac-keys.service: linux/mac-keys/mac-keys.service
+        /etc/systemd/system/mac-keys.service: linux/mac-keys/mac-keys.service
 
 - shell:
-  # Install the user interface themes
+    # Install the user interface themes
     - [external/McMojave-circle/install.sh -c -blue]
-    - [external/WhiteSur-gtk-theme/install.sh --nautilus-style glassy --panel-opacity 45]
+    - [external/WhiteSur-icon-theme/install.sh]
+    - [
+        external/WhiteSur-gtk-theme/install.sh --nautilus-style glassy --panel-opacity 45,
+      ]

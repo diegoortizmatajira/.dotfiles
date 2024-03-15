@@ -9,11 +9,13 @@
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "7.0",
       "6.19",
-      "6.9",
       "6.13",
-      "6.22"
+      "6.22",
+      "7.3",
+      "7.5",
+      "6.9",
+      "7.0"
     ]
   },
   "save to disk dialog": "/home/diegoortizmatajira/Downloads",
