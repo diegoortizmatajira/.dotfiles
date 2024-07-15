@@ -1,50 +1,50 @@
 {
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 1168,
-      "width": 1920,
-      "x": 0,
-      "y": 32
+      "height": 752,
+      "width": 640,
+      "x": 32,
+      "y": 64
     },
     "full_screened": false,
     "geometry": {
-      "height": 1135,
-      "width": 1920,
-      "x": 0,
-      "y": 65
-    },
-    "maximized": true,
-    "normal_geometry": {
-      "height": 800,
+      "height": 720,
       "width": 640,
-      "x": 33,
-      "y": 98
+      "x": 32,
+      "y": 96
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 720,
+      "width": 640,
+      "x": 32,
+      "y": 96
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAIAAAB38AAASvAAAAIQAAAGIAAAKgAAADgQAAAAACAAAAB4AAAAAAAAAAQQAAB38AAASv"
+      "__value__": "AdnQywADAAAAAAAgAAAAQAAAAp8AAAMvAAAAIAAAAGAAAAKfAAADLwAAAAEAAAAAB4AAAAAgAAAAYAAAAp8AAAMv"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920,
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 0,
-      "manufacturer": "Hewlett Packard",
-      "model": "HP E242",
-      "name": "DP-0",
-      "serial": "CNC6030CDZ",
+      "index_in_screens_list": 1,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-2",
+      "serial": "ETK7M0174804U",
       "size_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920
       },
       "virtual_geometry": {
         "height": 1200,
-        "width": 1920,
+        "width": 3840,
         "x": 0,
         "y": 0
       }
@@ -52,7 +52,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAAHgAAABG8AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIUA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAkwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB6AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOUA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEQD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM4A////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -65,6 +65,15 @@
       "singleinstance": false
     },
     "standalone_recently_opened": [
+      {
+        "authors": [
+          "Scarlett St. Clair"
+        ],
+        "key": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Scarlett St. Clair/A Touch of Chaos (1730)/A Touch of Chaos - Scarlett St. Clair.epub",
+        "pathtoebook": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Scarlett St. Clair/A Touch of Chaos (1730)/A Touch of Chaos - Scarlett St. Clair.epub",
+        "timestamp": "2024-06-28T22:06:10.612Z",
+        "title": "A Touch of Chaos"
+      },
       {
         "key": "/home/diegoortizmatajira/Calibre Library/Unknown/The Pregnancy Instruction Manual (1723)/The Pregnancy Instruction Manual - Unknown.epub",
         "pathtoebook": "/home/diegoortizmatajira/Calibre Library/Unknown/The Pregnancy Instruction Manual (1723)/The Pregnancy Instruction Manual - Unknown.epub",

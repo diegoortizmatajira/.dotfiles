@@ -262,50 +262,50 @@
   "font_stretch": 0,
   "geometry-of-Plugin Updater plugin:plugin updater dialog": {
     "frame_geometry": {
-      "height": 505,
-      "width": 960,
+      "height": 89,
+      "width": 57,
       "x": 480,
-      "y": 331
+      "y": 287
     },
     "full_screened": false,
     "geometry": {
       "height": 473,
       "width": 960,
       "x": 480,
-      "y": 363
+      "y": 287
     },
     "maximized": false,
     "normal_geometry": {
       "height": 473,
       "width": 960,
       "x": 480,
-      "y": 363
+      "y": 287
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAHgAAABSwAABZ8AAANDAAAB4AAAAWsAAAWfAAADQwAAAAAAAAAAB4AAAAHgAAABawAABZ8AAAND"
+      "__value__": "AdnQywADAAAAAAHgAAABHwAAAhgAAAF3AAAB4AAAAR8AAAWfAAAC9wAAAAEAAAAAB4AAAAHgAAABHwAABZ8AAAL3"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920,
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 0,
-      "manufacturer": "Hewlett Packard",
-      "model": "HP E242",
-      "name": "DP-0",
-      "serial": "CNC6030CDZ",
+      "index_in_screens_list": 1,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-2",
+      "serial": "ETK7M0174804U",
       "size_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920
       },
       "virtual_geometry": {
         "height": 1200,
-        "width": 1920,
+        "width": 3840,
         "x": 0,
         "y": 0
       }
@@ -415,10 +415,10 @@
   },
   "geometry-of-duplicates-question-dialog-geometry": {
     "frame_geometry": {
-      "height": 406,
+      "height": 405,
       "width": 753,
       "x": 584,
-      "y": 337
+      "y": 338
     },
     "full_screened": false,
     "geometry": {
@@ -436,7 +436,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAJIAAABUQAABTgAAALmAAACSAAAAXIAAAU4AAAC5gAAAAEAAAAAB4AAAAJIAAABcgAABTgAAALm"
+      "__value__": "AdnQywADAAAAAAJIAAABUgAABTgAAALmAAACSAAAAXIAAAU4AAAC5gAAAAEAAAAAB4AAAAJIAAABcgAABTgAAALm"
     },
     "screen": {
       "depth": 24,
@@ -619,50 +619,50 @@
   },
   "geometry-of-preferences dialog geometry": {
     "frame_geometry": {
-      "height": 752,
-      "width": 930,
+      "height": 89,
+      "width": 57,
       "x": 495,
-      "y": 207
+      "y": 164
     },
     "full_screened": false,
     "geometry": {
       "height": 720,
       "width": 930,
       "x": 495,
-      "y": 239
+      "y": 164
     },
     "maximized": false,
     "normal_geometry": {
       "height": 720,
       "width": 930,
       "x": 495,
-      "y": 239
+      "y": 164
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAHvAAAAzwAABZAAAAO+AAAB7wAAAO8AAAWQAAADvgAAAAAAAAAAB4AAAAHvAAAA7wAABZAAAAO+"
+      "__value__": "AdnQywADAAAAAAHvAAAApAAAAicAAAD8AAAB7wAAAKQAAAWQAAADcwAAAAEAAAAAB4AAAAHvAAAApAAABZAAAANz"
     },
     "screen": {
       "depth": 24,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920,
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 0,
-      "manufacturer": "Hewlett Packard",
-      "model": "HP E242",
-      "name": "DP-0",
-      "serial": "CNC6030CDZ",
+      "index_in_screens_list": 1,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-2",
+      "serial": "ETK7M0174804U",
       "size_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920
       },
       "virtual_geometry": {
         "height": 1200,
-        "width": 1920,
+        "width": 3840,
         "x": 0,
         "y": 0
       }
@@ -674,7 +674,7 @@
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAx4AAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAABjgAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "/home/diegoortizmatajira/Calibre Library": 60
+    "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library": 4
   },
   "main_window_central_widget_state": {
     "layout": "wide",
@@ -692,7 +692,7 @@
       "tag_browser": true
     },
     "wide_desires": {
-      "book_details_width": 0.10416666666666667,
+      "book_details_width": 0.1609375,
       "cover_browser_height": 0.21645021645021645,
       "quick_view_height": 0.2611832611832612,
       "tag_browser_width": 0.10416666666666667

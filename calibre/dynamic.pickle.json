@@ -1,25 +1,29 @@
 {
   "about_get_books_msg_again": false,
   "add a plugin dialog": "/home/diegoortizmatajira/Downloads",
+  "add books dialog dir": "/home/storage/Inbox/Usenet/Readarr/Albahari.J..C.12.in.a.Nutshell..The.Definitive.Reference.2024.Final",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
   "catalogs_to_be_synced": {
     "__class__": "set",
     "__value__": []
   },
-  "choose library location": "/home/diegoortizmatajira/Calibre Library",
+  "choose library location": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library",
   "notified-version-updates": {
     "__class__": "set",
     "__value__": [
-      "6.22",
-      "6.19",
+      "6.13",
       "7.3",
-      "7.5",
-      "7.0",
-      "7.11",
-      "7.12",
       "6.9",
-      "6.13"
+      "7.12",
+      "6.19",
+      "7.5",
+      "6.22",
+      "7.13",
+      "7.11",
+      "7.0"
     ]
   },
+  "recursive book import root dir dialog": "/home/storage/Inbox/Usenet/Readarr",
   "save to disk dialog": "/home/diegoortizmatajira/Downloads",
   "sort_history": [
     [
@@ -33,6 +37,10 @@
     [
       "authors",
       true
+    ],
+    [
+      "timestamp",
+      false
     ],
     [
       "timestamp",
