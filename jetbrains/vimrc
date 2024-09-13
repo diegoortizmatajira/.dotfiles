@@ -118,5 +118,7 @@ nmap <space>tr <Action>(RiderUnitTestRepeatPreviousRunAction)
 " Commentary workaround
 nmap gcc <Action>(CommentByLineComment)
 vmap gc <Action>(CommentByLineComment)
+nmap ]d <Action>(GotoNextError)
+nmap [d <Action>(GotoPreviousError)
 
 
