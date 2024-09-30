@@ -4,4 +4,3 @@ export PATH=$PATH:~/.dotnet/tools
 export PATH=$PATH:~/.local/bin
 export PATH=$PATH:/usr/lib/ruby/gems/3.0.0
 export PATH=$PATH:~/.gem/ruby/3.0.0
-export OPENAI_API_KEY=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
