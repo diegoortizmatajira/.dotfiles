@@ -1,3 +1,6 @@
+Plug 'preservim/nerdtree'
+Plug 'tpope/vim-commentary'
+
 let mapleader = ","
 
 set clipboard+=unnamed
@@ -25,6 +28,7 @@ map gi <Action>(GotoImplementation)
 nmap gpi" vi""0p 
 nmap gpi' vi'"0p 
 nmap <space>qq ZQ
+nmap <F2> :NERDTree<CR>
 
 map <leader><space> :nohlsearch<CR>
 nmap <leader>rn <Action>(RenameElement)
@@ -82,7 +86,7 @@ nmap <space>sH <Action>(RecentLocations)
 nmap <space>sc <Action>(GotoClass)
 nmap <space>sb <Action>(Switcher)
 nmap <space>s. <Action>(SearchEverywhere)
-nmap <space>s/ <Action>(SearchText)
+nmap <space>s/ <Action>(TextSearchAction)
 nmap <space>so <Action>(FileStructurePopup)
 
 map <C-p> <Esc><Action>(GotoFile)
@@ -115,9 +119,6 @@ nmap <space>tt <Action>(RiderUnitTestRunSolutionAction)
 nmap <space>td <Action>(RiderUnitTestDebugContextAction)
 nmap <space>tr <Action>(RiderUnitTestRepeatPreviousRunAction)
 
-" Commentary workaround
-nmap gcc <Action>(CommentByLineComment)
-vmap gc <Action>(CommentByLineComment)
 nmap ]d <Action>(GotoNextError)
 nmap [d <Action>(GotoPreviousError)
 
