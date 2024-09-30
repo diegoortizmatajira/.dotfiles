@@ -59,7 +59,7 @@ ZSH_THEME="agnoster-jimlaptop"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  zsh-256color git git-flow sudo dotenv archlinux common-aliases command-not-found tmux zsh-autosuggestions fast-syntax-highlighting zsh-vi-mode autojump
+  zsh-256color git git-flow sudo dotenv archlinux common-aliases command-not-found tmux zsh-autosuggestions fast-syntax-highlighting zsh-vi-mode 
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -99,4 +99,4 @@ alias vim=nvim
 alias ls=lsd
 alias x=exit
 source ~/.zsh_os
-# [ -f /opt/miniconda3/etc/profile.d/conda.sh ] && source /opt/miniconda3/etc/profile.d/conda.sh
+eval "$(zoxide init zsh --cmd j)"
