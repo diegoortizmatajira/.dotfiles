@@ -3,55 +3,48 @@
       relink: true
       create: true
       force: true
-
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
-
 - clean: ["~", "~/.local/bin"]
-
+- create:
+    - ~/.tmux/plugins
 - git:
     "external/LYRD-lua":
       description: LYRD in lua for Neovim from repository
       url: "git@github.com:diegoortizmatajira/LYRD-lua.git"
       method: clone
-
     "external/zsh-autosuggestions":
       description: ZSH Autosuggestions plugin
       url: "https://github.com/zsh-users/zsh-autosuggestions"
       method: clone-or-pull
-
     "external/zsh-fast-syntax-highlighting":
       description: ZSH Fast Syntax Highlighting
       url: "https://github.com/zdharma-continuum/fast-syntax-highlighting"
       method: clone-or-pull
-
     "external/zsh-vi-mode":
       description: ZSH Vi mode
       url: "https://github.com/jeffreytse/zsh-vi-mode"
       method: clone-or-pull
-
     "external/zsh-256color":
       description: ZSH 256 Color
       url: "https://github.com/chrissicool/zsh-256color"
       method: clone-or-pull
-
+    "external/tmux-tpm":
+      description: TMUX TPM plugin
+      url: "https://github.com/tmux-plugins/tpm"
+      method: clone-or-pull
 - link:
     # Neovim config files and setup
     ~/.config/nvim/lua/LYRD: external/LYRD-lua
     ~/.config/nvim/init.lua: external/LYRD-lua/root-init.lua
-
     # visual studio code
     ~/.vscode_vimrc: vscode/vimrc
-
     # Jetbrains IDE
     ~/.ideavimrc: jetbrains/vimrc
-
     # Sublime config
     ~/.config/sublime-text-3/Packages/User: sublime-text/user
-
     # Calibre
     ~/.config/calibre: calibre
-
     # Zsh config files
     ~/.zshrc: zsh/zshrc
     ~/.zprofile: zsh/zprofile
@@ -61,10 +54,9 @@
     ~/.oh-my-zsh/custom/plugins/fast-syntax-highlighting: external/zsh-fast-syntax-highlighting
     ~/.oh-my-zsh/custom/plugins/zsh-vi-mode: external/zsh-vi-mode
     ~/.oh-my-zsh/custom/plugins/zsh-256color: external/zsh-256color
-
     # TMUX
     ~/.tmux.conf: tmux/tmux.conf
-
+    ~/.tmux/plugins/tpm: external/tmux-tpm
     # Custom commands
     ~/.local/bin/speak-en: local-bin/speak-en.sh
     ~/.local/bin/speak-es: local-bin/speak-es.sh
