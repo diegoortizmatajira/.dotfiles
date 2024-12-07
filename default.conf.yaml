@@ -9,7 +9,7 @@
 - create:
     - ~/.tmux/plugins
 - git:
-    "external/LYRD-lua":
+    "~/.config/nvim/lua/LYRD":
       description: LYRD in lua for Neovim from repository
       url: "git@github.com:diegoortizmatajira/LYRD-lua.git"
       method: clone
@@ -35,8 +35,7 @@
       method: clone-or-pull
 - link:
     # Neovim config files and setup
-    ~/.config/nvim/lua/LYRD: external/LYRD-lua
-    ~/.config/nvim/init.lua: external/LYRD-lua/root-init.lua
+    ~/.config/nvim/init.lua: ~/.config/nvim/lua/LYRD/root-init.lua
     # visual studio code
     ~/.vscode_vimrc: vscode/vimrc
     # Jetbrains IDE

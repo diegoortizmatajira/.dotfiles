@@ -101,8 +101,8 @@
 
 - shell:
     # Install the user interface themes
-    - [external/McMojave-circle/install.sh -c -blue]
+    - [external/McMojave-circle/install.sh -c -t blue]
     - [external/WhiteSur-icon-theme/install.sh]
     - [
-        external/WhiteSur-gtk-theme/install.sh --nautilus-style glassy --panel-opacity 45,
+        external/WhiteSur-gtk-theme/install.sh --nautilus glassy --shell -panelopacity 45,
       ]
