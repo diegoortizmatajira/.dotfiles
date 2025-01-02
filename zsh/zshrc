@@ -59,8 +59,10 @@ ZSH_THEME="agnoster-jimlaptop"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  zsh-256color git git-flow sudo dotenv archlinux common-aliases command-not-found tmux zsh-autosuggestions fast-syntax-highlighting zsh-vi-mode 
+  zsh-256color git git-flow sudo dotenv archlinux common-aliases command-not-found tmux zsh-autosuggestions fast-syntax-highlighting zsh-vi-mode eza
 )
+zstyle ':omz:plugins:eza' 'dirs-first' yes
+zstyle ':omz:plugins:eza' 'icons' yes
 
 source $ZSH/oh-my-zsh.sh
 
@@ -95,8 +97,6 @@ export EDITOR=nvim
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias vi=nvim
-alias vim=nvim
-alias ls=lsd
 alias x=exit
 source ~/.zsh_os
 eval "$(zoxide init zsh --cmd j)"
