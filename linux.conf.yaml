@@ -3,62 +3,50 @@
       relink: true
       create: true
       force: true
-
 - shell:
     - [git submodule update --init --recursive, Installing submodules]
-
 - git:
     "external/awesome":
       description: Awesome Settings
       url: "git@github.com:diegoortizmatajira/awesome.git"
       method: clone
-
     "external/kitty-themes":
       description: Themes for Kitty from repository
       url: "https://github.com/dexpota/kitty-themes.git"
       method: clone-or-pull
-
     "external/McMojave-circle":
       description: McMojave Icon Theme
       url: "https://github.com/vinceliuice/McMojave-circle"
       method: clone-or-pull
-
     "external/WhiteSur-icon-theme":
       description: WhiteSur Icon Theme
       url: "https://github.com/vinceliuice/WhiteSur-icon-theme"
       method: clone-or-pull
-
     "external/WhiteSur-gtk-theme":
       description: WhiteSur GTK Theme
       url: "https://github.com/vinceliuice/WhiteSur-gtk-theme"
       method: clone-or-pull
-
 - link:
     # Zsh config files
     ~/.zsh_os: linux/zsh_os.sh
-
     # kitty config files
     ~/.config/kitty/kitty.conf: linux/kitty/kitty.conf
     ~/.config/kitty/theme.conf: external/kitty-themes/themes/DimmedMonokai.conf
-
+    # ghostty config files
+    ~/.config/ghostty/config: linux/ghostty/config
     # picom config files
     ~/.config/picom/picom.conf: linux/picom/picom.conf
-
     # rofi config file
     ~/.config/rofi/config.rasi: linux/rofi/config.rasi
     ~/.config/rofi/colors.rasi: linux/rofi/colors.rasi
     ~/.config/rofi/launcher.rasi: linux/rofi/launcher.rasi
     ~/.config/rofi/switcher.rasi: linux/rofi/switcher.rasi
-
     # dunst config files
     ~/.config/dunst/dunstrc: linux/dunst/dunstrc
-
     # awesome
     ~/.config/awesome: external/awesome
-
     # Onedrive
     ~/.config/onedrive/config: linux/onedrive/config
-
     # Xterm
     #~/.Xresources: linux/xterm/.Xresources
 
@@ -75,30 +63,24 @@
     ~/.local/bin/plex-stop: linux/local-bin/plex-stop
     ~/.local/bin/profile-image: linux/local-bin/profile-image.sh
     ~/.local/bin/display-control: linux/local-bin/display-control.sh
-
     ~/.local/share/fonts: local-fonts
-
 - create:
     - ~/Development/Personal
     - ~/Development/Sandbox
     - ~/Downloads/Books
     - ~/Downloads/Temporal
-
 - sudo:
     - create:
         - /etc/systemd/logind.conf.d
-
     - link:
         /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf
         /etc/X11/sessions/custom-awesome.desktop: linux/awesomewm/custom-awesome.desktop
-
         # Mac style keys
         /opt/mac-keys: linux/mac-keys
         /usr/bin/mac-keys-start: linux/mac-keys/mac-keys-start.sh
         /usr/bin/mac-keys-kill: linux/mac-keys/mac-keys-kill.sh
         /lib/systemd/system/mac-keys.service: linux/mac-keys/mac-keys.service
         /etc/systemd/system/mac-keys.service: linux/mac-keys/mac-keys.service
-
 - shell:
     # Install the user interface themes
     - [external/McMojave-circle/install.sh -c -t blue]
