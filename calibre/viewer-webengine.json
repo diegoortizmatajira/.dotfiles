@@ -1,45 +1,45 @@
 {
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 752,
-      "width": 640,
-      "x": 32,
-      "y": 64
+      "height": 780,
+      "width": 662,
+      "x": -11,
+      "y": -49
     },
     "full_screened": false,
     "geometry": {
       "height": 720,
       "width": 640,
-      "x": 32,
-      "y": 96
+      "x": 0,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 720,
       "width": 640,
-      "x": 32,
-      "y": 96
+      "x": 0,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAgAAAAQAAAAp8AAAMvAAAAIAAAAGAAAAKfAAADLwAAAAEAAAAAB4AAAAAgAAAAYAAAAp8AAAMv"
+      "__value__": "AdnQywADAAD////1////zwAAAooAAALaAAAAAAAAAAAAAAJ/AAACzwAAAAEAAAAAB4AAAAAAAAAAAAAAAn8AAALP"
     },
     "screen": {
-      "depth": 24,
+      "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920,
-        "x": 0,
+        "x": 1920,
         "y": 0
       },
       "index_in_screens_list": 1,
-      "manufacturer": "BNQ",
-      "model": "BenQ GW2480",
-      "name": "DP-2",
-      "serial": "ETK7M0174804U",
+      "manufacturer": "HWP",
+      "model": "HP E242",
+      "name": "DP-3",
+      "serial": "",
       "size_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920
       },
       "virtual_geometry": {
@@ -65,6 +65,42 @@
       "singleinstance": false
     },
     "standalone_recently_opened": [
+      {
+        "authors": [
+          "Victor Hugo"
+        ],
+        "key": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Victor Hugo/Les Miserables_ Victor Hugo (1777)/Les Miserables_ Victor Hugo - Victor Hugo.epub",
+        "pathtoebook": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Victor Hugo/Les Miserables_ Victor Hugo (1777)/Les Miserables_ Victor Hugo - Victor Hugo.epub",
+        "timestamp": "2025-02-25T04:29:15.233Z",
+        "title": "Les Misérables"
+      },
+      {
+        "authors": [
+          "Alexandre Dumas"
+        ],
+        "key": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Alexandre Dumas/Le Comte de Monte-Cristo - Tome I_ Alexandre Dumas (1778)/Le Comte de Monte-Cristo - Tome I_ Alexand - Alexandre Dumas.epub",
+        "pathtoebook": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Alexandre Dumas/Le Comte de Monte-Cristo - Tome I_ Alexandre Dumas (1778)/Le Comte de Monte-Cristo - Tome I_ Alexand - Alexandre Dumas.epub",
+        "timestamp": "2025-02-25T04:28:55.657Z",
+        "title": "Le Comte de Monte-Cristo - Tome I"
+      },
+      {
+        "authors": [
+          "Nicolas Machiavel"
+        ],
+        "key": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Nicolas Machiavel/Le Prince (French Edition) (1779)/Le Prince (French Edition) - Nicolas Machiavel.epub",
+        "pathtoebook": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Nicolas Machiavel/Le Prince (French Edition) (1779)/Le Prince (French Edition) - Nicolas Machiavel.epub",
+        "timestamp": "2025-02-25T04:28:40.378Z",
+        "title": "Le Prince"
+      },
+      {
+        "authors": [
+          "Antoine de Saint-Exupéry"
+        ],
+        "key": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Antoine de Saint Exupery/Le Petit Prince (1780)/Le Petit Prince - Antoine de Saint Exupery.epub",
+        "pathtoebook": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Antoine de Saint Exupery/Le Petit Prince (1780)/Le Petit Prince - Antoine de Saint Exupery.epub",
+        "timestamp": "2025-02-25T04:28:26.452Z",
+        "title": "LE PETIT PRINCE"
+      },
       {
         "authors": [
           "Scarlett St. Clair"

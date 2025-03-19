@@ -16,7 +16,6 @@ base_desktop_environment=(
 # file management
     ntfs-3g
     findutils
-    goto
     autojump
 # fonts
     apple-fonts

@@ -10,7 +10,6 @@ brew=(
     git-flow
     glib
     go
-    goto
     grep
     gzip
     helm

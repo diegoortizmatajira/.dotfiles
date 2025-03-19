@@ -1,5 +1,4 @@
-source /usr/share/goto/goto.sh
-export QT_QPA_PLATFORMTHEME=qt5ct
+export QT_QPA_PLATFORMTHEME=qt7ct
 export PATH=/opt/cuda/bin:$PATH
 export PATH=$HOME/.cargo/bin:$PATH
 alias dcp='display-control primary-only'

@@ -1,1 +1,0 @@
-ExecStart=bash -c '/usr/bin/xhost +SI:localuser:root && mac-keys-kill && mac-keys-start'

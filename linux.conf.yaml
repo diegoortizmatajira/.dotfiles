@@ -47,8 +47,6 @@
     ~/.config/awesome: external/awesome
     # Onedrive
     ~/.config/onedrive/config: linux/onedrive/config
-    # Xterm
-    #~/.Xresources: linux/xterm/.Xresources
 
     # Custom commands
     ~/.local/bin/custom-askpoweroptions: linux/local-bin/custom-askpoweroptions
@@ -72,15 +70,11 @@
 - sudo:
     - create:
         - /etc/systemd/logind.conf.d
+        - /etc/keyd
     - link:
         /etc/systemd/logind.conf.d/custom.conf: linux/systemd/logind.conf
         /etc/X11/sessions/custom-awesome.desktop: linux/awesomewm/custom-awesome.desktop
-        # Mac style keys
-        /opt/mac-keys: linux/mac-keys
-        /usr/bin/mac-keys-start: linux/mac-keys/mac-keys-start.sh
-        /usr/bin/mac-keys-kill: linux/mac-keys/mac-keys-kill.sh
-        /lib/systemd/system/mac-keys.service: linux/mac-keys/mac-keys.service
-        /etc/systemd/system/mac-keys.service: linux/mac-keys/mac-keys.service
+        /etc/keyd/default.conf: linux/keyd/default.conf
 - shell:
     # Install the user interface themes
     - [external/McMojave-circle/install.sh -c -t blue]

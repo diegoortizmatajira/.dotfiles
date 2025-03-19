@@ -17,5 +17,57 @@
     "updateISBN": "NEVER"
   },
   "SchemaVersion": 1.68,
-  "Users": {}
+  "Users": {
+    "Default": {
+      "shelves": [
+        {
+          "active": true,
+          "add_actions": [],
+          "book_count": "71",
+          "exclusive": true,
+          "name": "read",
+          "sync_actions": [],
+          "tagMappings": [
+            "goodreads-read"
+          ]
+        },
+        {
+          "active": true,
+          "add_actions": [],
+          "book_count": "1",
+          "exclusive": true,
+          "name": "currently-reading",
+          "sync_actions": [],
+          "tagMappings": [
+            "goodreads-reading"
+          ]
+        },
+        {
+          "active": true,
+          "add_actions": [],
+          "book_count": "38",
+          "exclusive": true,
+          "name": "to-read",
+          "sync_actions": [],
+          "tagMappings": [
+            "goodreads-to-read"
+          ]
+        },
+        {
+          "active": true,
+          "add_actions": [],
+          "book_count": "1",
+          "exclusive": false,
+          "name": "not-finished",
+          "sync_actions": [],
+          "tagMappings": [
+            "goodreads-unfinished"
+          ]
+        }
+      ],
+      "userId": "10197133",
+      "userSecret": "TBvCVVouvD8nipXULSETNGN9ieWAIx0tgEiGYJqx8E",
+      "userToken": "AFcnMCpRWKz57PCHk44k6Q"
+    }
+  }
 }
