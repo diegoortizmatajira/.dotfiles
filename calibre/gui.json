@@ -312,7 +312,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAd1////zwAAC0oAAAHjAAAHgAAAAAAAAAs/AAAB2AAAAAAAAAAAB4AAAAeAAAAAAAAACz8AAAHY"
+      "__value__": "AdnQywADAAAAAAd1////zwAAC0oAAAHjAAAHgAAAAAAAAAs/AAAB2AAAAAEAAAAAB4AAAAeAAAAAAAAACz8AAAHY"
     },
     "screen": {
       "depth": 32,
@@ -323,7 +323,7 @@
         "x": 1920,
         "y": 0
       },
-      "index_in_screens_list": 0,
+      "index_in_screens_list": 1,
       "manufacturer": "HWP",
       "model": "HP E242",
       "name": "DP-3",
@@ -393,16 +393,16 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 1048,
+      "height": 1168,
       "width": 1920,
-      "x": 0,
+      "x": 1920,
       "y": -38
     },
     "full_screened": false,
     "geometry": {
-      "height": 1010,
+      "height": 1130,
       "width": 1920,
-      "x": 0,
+      "x": 1920,
       "y": 0
     },
     "maximized": true,
@@ -414,24 +414,24 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAA////2gAAB38AAAPxAAAHgAAAAAAAAA7/AAAEaQAAAAACAAAAB4AAAAAAAAAAAAAAB38AAAPx"
+      "__value__": "AdnQywADAAAAAAeA////2gAADv8AAARpAAAHgAAAAAAAAA7/AAAEaQAAAAECAAAAB4AAAAeAAAAAAAAADv8AAARp"
     },
     "screen": {
       "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920,
-        "x": 0,
+        "x": 1920,
         "y": 0
       },
-      "index_in_screens_list": 0,
-      "manufacturer": "BNQ",
-      "model": "BenQ GW2480",
-      "name": "DP-4",
+      "index_in_screens_list": 1,
+      "manufacturer": "HWP",
+      "model": "HP E242",
+      "name": "DP-3",
       "serial": "",
       "size_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920
       },
       "virtual_geometry": {
@@ -962,7 +962,7 @@
     "__value__": "AdnQywADAAAAAAd1////zwAACM8AAAB8AAAHgAAAAAAAAAjEAAAAcQAAAAAAAAAAB4AAAAeAAAAAAAAACMQAAABx"
   },
   "library_usage_stats": {
-    "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library": 20
+    "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library": 24
   },
   "main_window_central_widget_state": {
     "layout": "wide",
