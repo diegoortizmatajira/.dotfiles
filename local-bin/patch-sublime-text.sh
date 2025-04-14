@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "00489f39: c640 0501 4885 c9" | sudo xxd -r - /opt/sublime_text/sublime_text
+sudo sed -i 's/\x80\x79\x05\x00\x0F\x94\xC2/\xC6\x41\x05\x01\xB2\x00\x90/' /opt/sublime_text/sublime_text
