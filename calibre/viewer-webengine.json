@@ -22,24 +22,24 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAD////1////zwAAAooAAALaAAAAAAAAAAAAAAJ/AAACzwAAAAEAAAAAB4AAAAAAAAAAAAAAAn8AAALP"
+      "__value__": "AdnQywADAAD////1////zwAAAooAAALaAAAAAAAAAAAAAAJ/AAACzwAAAAAAAAAAB4AAAAAAAAAAAAAAAn8AAALP"
     },
     "screen": {
       "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920,
-        "x": 1920,
+        "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
-      "manufacturer": "HWP",
-      "model": "HP E242",
-      "name": "DP-3",
+      "index_in_screens_list": 0,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
       "serial": "",
       "size_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920
       },
       "virtual_geometry": {
@@ -65,6 +65,15 @@
       "singleinstance": false
     },
     "standalone_recently_opened": [
+      {
+        "authors": [
+          "OccupyTheWeb"
+        ],
+        "key": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Occupytheweb/Linux Basics for Hackers, 2nd Edition (1811)/Linux Basics for Hackers, 2nd Edition - Occupytheweb.epub",
+        "pathtoebook": "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Occupytheweb/Linux Basics for Hackers, 2nd Edition (1811)/Linux Basics for Hackers, 2nd Edition - Occupytheweb.epub",
+        "timestamp": "2025-04-14T20:57:35.011Z",
+        "title": "Linux Basics for Hackers"
+      },
       {
         "authors": [
           "Victor Hugo"

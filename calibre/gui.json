@@ -280,7 +280,7 @@
   "do_not_show_device_open_popup_message_KINDLE2": true,
   "duplicate finder plugin:duplicate dialog": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAd1////zwAACYYAAALnAAAHgAAAAAAAAAl7AAAC3AAAAAAAAAAAB4AAAAeAAAAAAAAACXsAAALc"
+    "__value__": "AdnQywADAAD////1////zwAAAgYAAALnAAAAAAAAAAAAAAH7AAAC3AAAAAAAAAAAB4AAAAAAAAAAAAAAAfsAAALc"
   },
   "font": [
     "SF Pro Text",
@@ -618,24 +618,24 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAd1////zwAACtwAAAJiAAAHgAAAAAAAAArRAAACVwAAAAEAAAAAB4AAAAeAAAAAAAAACtEAAAJX"
+      "__value__": "AdnQywADAAAAAAd1////zwAACtwAAAJiAAAHgAAAAAAAAArRAAACVwAAAAAAAAAAB4AAAAeAAAAAAAAACtEAAAJX"
     },
     "screen": {
       "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920,
-        "x": 1920,
+        "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
-      "manufacturer": "HWP",
-      "model": "HP E242",
-      "name": "DP-3",
+      "index_in_screens_list": 0,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
       "serial": "",
       "size_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920
       },
       "virtual_geometry": {
@@ -650,43 +650,43 @@
     "frame_geometry": {
       "height": 1068,
       "width": 1872,
-      "x": 1909,
+      "x": -11,
       "y": -49
     },
     "full_screened": false,
     "geometry": {
       "height": 1008,
       "width": 1850,
-      "x": 1920,
+      "x": 0,
       "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 1008,
       "width": 1850,
-      "x": 1920,
+      "x": 0,
       "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAd1////zwAADsQAAAP6AAAHgAAAAAAAAA65AAAD7wAAAAEAAAAAB4AAAAeAAAAAAAAADrkAAAPv"
+      "__value__": "AdnQywADAAD////1////zwAAB0QAAAP6AAAAAAAAAAAAAAc5AAAD7wAAAAAAAAAAB4AAAAAAAAAAAAAABzkAAAPv"
     },
     "screen": {
       "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920,
-        "x": 1920,
+        "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
-      "manufacturer": "HWP",
-      "model": "HP E242",
-      "name": "DP-3",
+      "index_in_screens_list": 0,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
       "serial": "",
       "size_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920
       },
       "virtual_geometry": {
@@ -962,7 +962,7 @@
     "__value__": "AdnQywADAAAAAAd1////zwAACM8AAAB8AAAHgAAAAAAAAAjEAAAAcQAAAAAAAAAAB4AAAAeAAAAAAAAACMQAAABx"
   },
   "library_usage_stats": {
-    "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library": 24
+    "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library": 26
   },
   "main_window_central_widget_state": {
     "layout": "wide",

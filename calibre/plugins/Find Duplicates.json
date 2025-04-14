@@ -8,6 +8,6 @@
   "showAllGroups": true,
   "showTagAuthor": true,
   "sortGroupsByTitle": true,
-  "titleMatch": "identical",
+  "titleMatch": "similar",
   "titleSoundexLength": 6
 }
