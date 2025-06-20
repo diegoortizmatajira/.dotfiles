@@ -24,8 +24,6 @@ brew=(
     htop
     k9s
     kubernetes-cli
-    kubeval
-    kustomize
     lazydocker
     lazygit
     less
@@ -33,6 +31,7 @@ brew=(
     luajit
     luarocks
     make
+    mercurial
     neovim
     node
     nvm
@@ -62,14 +61,13 @@ cask=(
     barrier
     beyond-compare
     caffeine
-    datagrip
     dotnet-sdk
     font-caskaydia-cove-nerd-font
     font-fira-code-nerd-font
     font-jetbrains-mono-nerd-font
     ghostty
     git-credential-manager
-    gitkraken
+    keepingyouawake
     rectangle
     sublime-text
     visual-studio-code
