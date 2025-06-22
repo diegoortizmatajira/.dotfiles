@@ -39,6 +39,7 @@ brew=(
     openssl@1.1
     openssl@3
     perl
+    pngpaste
     pyenv
     python@3.13
     ripgrep
