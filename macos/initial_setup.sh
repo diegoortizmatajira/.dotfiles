@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #<----------------Installing MacOS Apps, via Homebrew, Cask-------------------->
+
 brew=(
     cmake
     curl
@@ -59,7 +60,6 @@ brew=(
 )
 cask=(
     adobe-acrobat-reader
-    barrier
     beyond-compare
     caffeine
     dotnet-sdk
