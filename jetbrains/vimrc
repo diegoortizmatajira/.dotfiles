@@ -114,12 +114,20 @@ nmap <space>dx <Action>(ChooseRunConfiguration)
 nmap <space>dX <Action>(ChooseDebugConfiguration)
 
 " Test
-nmap <space>t. <Action>(RiderUnitTestQuickListPopupAction)
-nmap <space>tt <Action>(RiderUnitTestRunSolutionAction)
-nmap <space>td <Action>(RiderUnitTestDebugContextAction)
-nmap <space>tr <Action>(RiderUnitTestRepeatPreviousRunAction)
+if &ide =~? 'intellij idea'
+    "IntelliJ IDEA commands
+
+elseif &ide =~? 'rider'
+    "Rider commands
+    nmap <space>t. <Action>(RiderUnitTestQuickListPopupAction)
+    nmap <space>tt <Action>(RiderUnitTestRunSolutionAction)
+    nmap <space>td <Action>(RiderUnitTestDebugContextAction)
+    nmap <space>tr <Action>(RiderUnitTestRepeatPreviousRunAction)
+endif
 
 nmap ]d <Action>(GotoNextError)
 nmap [d <Action>(GotoPreviousError)
+nmap ]b <Action>(NextTab)
+nmap [b <Action>(PreviousTab)
 
 
