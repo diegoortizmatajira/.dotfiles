@@ -25,10 +25,11 @@ nmap <C-r><C-r> <Action>(RenameElement)
 map ZQ <Action>(exit)
 map ZZ <Action>(CloseContent)
 map gi <Action>(GotoImplementation)
+map gt <Action>(GotoTest)
 nmap gpi" vi""0p 
 nmap gpi' vi'"0p 
 nmap <space>qq ZQ
-nmap <F2> :NERDTree<CR>
+nmap <F2> :NERDTreeToggle<CR>
 
 map <leader><space> :nohlsearch<CR>
 nmap <leader>rn <Action>(RenameElement)
