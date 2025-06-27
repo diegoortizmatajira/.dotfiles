@@ -2,6 +2,7 @@
 #<----------------Installing MacOS Apps, via Homebrew, Cask-------------------->
 
 brew=(
+    bat
     cmake
     curl
     docker
