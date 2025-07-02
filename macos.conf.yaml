@@ -10,6 +10,7 @@
 - link:
     # Zsh config files
     ~/.zsh_os: macos/zsh_os.sh
-
+    # ghostty config files
+    ~/.config/ghostty/config: ghostty/config
     # Global gitignore
     ~/.gitignore: macos/gitignore
