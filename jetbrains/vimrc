@@ -52,8 +52,8 @@ map <leader>z <Action>(PreviousTab)
 map <leader>x <Action>(NextTab)
 map <leader>c <Action>(CloseEditor)
 map <leader>b <Action>(Switcher)
-map <leader>h <Action>(SplitHorizontally)
-map <leader>v <Action>(SplitVertically)
+map <leader><leader>h <Action>(SplitHorizontally)
+map <leader><leader>v <Action>(SplitVertically)
 
 " Actions
 nmap <space>aa <Action>(ShowContextActions)
