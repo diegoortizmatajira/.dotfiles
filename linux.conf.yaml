@@ -37,7 +37,7 @@
     ~/.config/kitty/kitty.conf: linux/kitty/kitty.conf
     ~/.config/kitty/theme.conf: external/kitty-themes/themes/DimmedMonokai.conf
     # ghostty config files
-    ~/.config/ghostty/config: linux/ghostty/config
+    ~/.config/ghostty/config: ghostty/config
     # picom config files
     ~/.config/picom/picom.conf: linux/picom/picom.conf
     # rofi config file

@@ -4,3 +4,6 @@ export PATH=$PATH:~/.dotnet/tools
 export PATH=$PATH:~/.local/bin
 export PATH=$PATH:/usr/lib/ruby/gems/3.0.0
 export PATH=$PATH:~/.gem/ruby/3.0.0
+if [ -f "$HOME/.zsh_customenv" ]; then
+  source "$HOME/.zsh_customenv"
+fi

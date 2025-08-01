@@ -25,10 +25,11 @@ nmap <C-r><C-r> <Action>(RenameElement)
 map ZQ <Action>(exit)
 map ZZ <Action>(CloseContent)
 map gi <Action>(GotoImplementation)
+map gt <Action>(GotoTest)
 nmap gpi" vi""0p 
 nmap gpi' vi'"0p 
 nmap <space>qq ZQ
-nmap <F2> :NERDTree<CR>
+nmap <F2> :NERDTreeToggle<CR>
 
 map <leader><space> :nohlsearch<CR>
 nmap <leader>rn <Action>(RenameElement)
@@ -51,8 +52,8 @@ map <leader>z <Action>(PreviousTab)
 map <leader>x <Action>(NextTab)
 map <leader>c <Action>(CloseEditor)
 map <leader>b <Action>(Switcher)
-map <leader>h <Action>(SplitHorizontally)
-map <leader>v <Action>(SplitVertically)
+map <leader><leader>h <Action>(SplitHorizontally)
+map <leader><leader>v <Action>(SplitVertically)
 
 " Actions
 nmap <space>aa <Action>(ShowContextActions)
@@ -114,12 +115,20 @@ nmap <space>dx <Action>(ChooseRunConfiguration)
 nmap <space>dX <Action>(ChooseDebugConfiguration)
 
 " Test
-nmap <space>t. <Action>(RiderUnitTestQuickListPopupAction)
-nmap <space>tt <Action>(RiderUnitTestRunSolutionAction)
-nmap <space>td <Action>(RiderUnitTestDebugContextAction)
-nmap <space>tr <Action>(RiderUnitTestRepeatPreviousRunAction)
+if &ide =~? 'intellij idea'
+    "IntelliJ IDEA commands
+
+elseif &ide =~? 'rider'
+    "Rider commands
+    nmap <space>t. <Action>(RiderUnitTestQuickListPopupAction)
+    nmap <space>tt <Action>(RiderUnitTestRunSolutionAction)
+    nmap <space>td <Action>(RiderUnitTestDebugContextAction)
+    nmap <space>tr <Action>(RiderUnitTestRepeatPreviousRunAction)
+endif
 
 nmap ]d <Action>(GotoNextError)
 nmap [d <Action>(GotoPreviousError)
+nmap ]b <Action>(NextTab)
+nmap [b <Action>(PreviousTab)
 
 
