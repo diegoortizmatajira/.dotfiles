@@ -7956,7 +7956,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Adwaita/AdwaitaMono-Bold.ttf||1391492:1738357123.0": {
+    "/usr/share/fonts/Adwaita/AdwaitaMono-Bold.ttf||1413212:1751188544.0": {
       "family_name": "Adwaita Mono",
       "font-family": "Adwaita Mono",
       "font-stretch": "normal",
@@ -7992,7 +7992,7 @@
       "wws_family_name": "Adwaita Mono",
       "wws_subfamily_name": "Bold"
     },
-    "/usr/share/fonts/Adwaita/AdwaitaMono-BoldItalic.ttf||1449008:1738357123.0": {
+    "/usr/share/fonts/Adwaita/AdwaitaMono-BoldItalic.ttf||1473552:1751188544.0": {
       "family_name": "Adwaita Mono",
       "font-family": "Adwaita Mono",
       "font-stretch": "normal",
@@ -8028,7 +8028,7 @@
       "wws_family_name": "Adwaita Mono",
       "wws_subfamily_name": "Bold Italic"
     },
-    "/usr/share/fonts/Adwaita/AdwaitaMono-Italic.ttf||1444108:1738357123.0": {
+    "/usr/share/fonts/Adwaita/AdwaitaMono-Italic.ttf||1469384:1751188544.0": {
       "family_name": "Adwaita Mono",
       "font-family": "Adwaita Mono",
       "font-stretch": "normal",
@@ -8064,7 +8064,7 @@
       "wws_family_name": "Adwaita Mono",
       "wws_subfamily_name": "Italic"
     },
-    "/usr/share/fonts/Adwaita/AdwaitaMono-Regular.ttf||1394892:1738357123.0": {
+    "/usr/share/fonts/Adwaita/AdwaitaMono-Regular.ttf||1417460:1751188544.0": {
       "family_name": "Adwaita Mono",
       "font-family": "Adwaita Mono",
       "font-stretch": "normal",
@@ -8100,7 +8100,7 @@
       "wws_family_name": "Adwaita Mono",
       "wws_subfamily_name": "Regular"
     },
-    "/usr/share/fonts/Adwaita/AdwaitaSans-Italic.ttf||910352:1738357123.0": {
+    "/usr/share/fonts/Adwaita/AdwaitaSans-Italic.ttf||910352:1751188544.0": {
       "family_name": "Adwaita Sans",
       "font-family": "Adwaita Sans",
       "font-stretch": "normal",
@@ -8136,7 +8136,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Adwaita/AdwaitaSans-Regular.ttf||879796:1738357123.0": {
+    "/usr/share/fonts/Adwaita/AdwaitaSans-Regular.ttf||879796:1751188544.0": {
       "family_name": "Adwaita Sans",
       "font-family": "Adwaita Sans",
       "font-stretch": "normal",
@@ -16236,7 +16236,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFont-Bold.ttf||2629512:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFont-Bold.ttf||2672432:1745519248.0": {
       "family_name": "FiraCode Nerd Font",
       "font-family": "FiraCode Nerd Font",
       "font-stretch": "normal",
@@ -16272,7 +16272,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFont-Light.ttf||2598488:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFont-Light.ttf||2641408:1745519248.0": {
       "family_name": "FiraCode Nerd Font Light",
       "font-family": "FiraCode Nerd Font Light",
       "font-stretch": "normal",
@@ -16308,7 +16308,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFont-Medium.ttf||2593816:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFont-Medium.ttf||2636736:1745519248.0": {
       "family_name": "FiraCode Nerd Font Med",
       "font-family": "FiraCode Nerd Font Med",
       "font-stretch": "normal",
@@ -16344,7 +16344,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFont-Regular.ttf||2599696:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFont-Regular.ttf||2642616:1745519248.0": {
       "family_name": "FiraCode Nerd Font",
       "font-family": "FiraCode Nerd Font",
       "font-stretch": "normal",
@@ -16380,7 +16380,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFont-Retina.ttf||2595552:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFont-Retina.ttf||2638472:1745519248.0": {
       "family_name": "FiraCode Nerd Font Ret",
       "font-family": "FiraCode Nerd Font Ret",
       "font-stretch": "normal",
@@ -16416,7 +16416,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFont-SemiBold.ttf||2614352:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFont-SemiBold.ttf||2657272:1745519248.0": {
       "family_name": "FiraCode Nerd Font SemBd",
       "font-family": "FiraCode Nerd Font SemBd",
       "font-stretch": "normal",
@@ -16452,7 +16452,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Bold.ttf||2569600:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Bold.ttf||2677400:1745519248.0": {
       "family_name": "FiraCode Nerd Font Mono",
       "font-family": "FiraCode Nerd Font Mono",
       "font-stretch": "normal",
@@ -16488,7 +16488,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Light.ttf||2538564:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Light.ttf||2646620:1745519248.0": {
       "family_name": "FiraCode Nerd Font Mono Light",
       "font-family": "FiraCode Nerd Font Mono Light",
       "font-stretch": "normal",
@@ -16524,7 +16524,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Medium.ttf||2533904:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Medium.ttf||2641764:1745519248.0": {
       "family_name": "FiraCode Nerd Font Mono Med",
       "font-family": "FiraCode Nerd Font Mono Med",
       "font-stretch": "normal",
@@ -16560,7 +16560,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Regular.ttf||2539764:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Regular.ttf||2647492:1745519248.0": {
       "family_name": "FiraCode Nerd Font Mono",
       "font-family": "FiraCode Nerd Font Mono",
       "font-stretch": "normal",
@@ -16596,7 +16596,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Retina.ttf||2535644:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-Retina.ttf||2643500:1745519248.0": {
       "family_name": "FiraCode Nerd Font Mono Ret",
       "font-family": "FiraCode Nerd Font Mono Ret",
       "font-stretch": "normal",
@@ -16632,7 +16632,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-SemiBold.ttf||2554452:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontMono-SemiBold.ttf||2662304:1745519248.0": {
       "family_name": "FiraCode Nerd Font Mono SemBd",
       "font-family": "FiraCode Nerd Font Mono SemBd",
       "font-stretch": "normal",
@@ -16668,7 +16668,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Bold.ttf||2643100:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Bold.ttf||2686036:1745519248.0": {
       "family_name": "FiraCode Nerd Font Propo",
       "font-family": "FiraCode Nerd Font Propo",
       "font-stretch": "normal",
@@ -16704,7 +16704,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Light.ttf||2612096:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Light.ttf||2655032:1745519248.0": {
       "family_name": "FiraCode Nerd Font Propo Light",
       "font-family": "FiraCode Nerd Font Propo Light",
       "font-stretch": "normal",
@@ -16740,7 +16740,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Medium.ttf||2607420:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Medium.ttf||2650356:1745519248.0": {
       "family_name": "FiraCode Nerd Font Propo Med",
       "font-family": "FiraCode Nerd Font Propo Med",
       "font-stretch": "normal",
@@ -16776,7 +16776,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Regular.ttf||2613284:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Regular.ttf||2656220:1745519248.0": {
       "family_name": "FiraCode Nerd Font Propo",
       "font-family": "FiraCode Nerd Font Propo",
       "font-stretch": "normal",
@@ -16812,7 +16812,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Retina.ttf||2609156:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-Retina.ttf||2652092:1745519248.0": {
       "family_name": "FiraCode Nerd Font Propo Ret",
       "font-family": "FiraCode Nerd Font Propo Ret",
       "font-stretch": "normal",
@@ -16848,7 +16848,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-SemiBold.ttf||2627960:1731945200.0": {
+    "/usr/share/fonts/TTF/FiraCodeNerdFontPropo-SemiBold.ttf||2670896:1745519248.0": {
       "family_name": "FiraCode Nerd Font Propo SemBd",
       "font-family": "FiraCode Nerd Font Propo SemBd",
       "font-stretch": "normal",
@@ -18216,7 +18216,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Bold.ttf||2376648:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Bold.ttf||2389020:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF",
       "font-family": "JetBrainsMonoNL NF",
       "font-stretch": "normal",
@@ -18252,7 +18252,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-BoldItalic.ttf||2379756:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-BoldItalic.ttf||2392132:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF",
       "font-family": "JetBrainsMonoNL NF",
       "font-stretch": "normal",
@@ -18288,7 +18288,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraBold.ttf||2379120:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraBold.ttf||2391492:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF ExtraBold",
       "font-family": "JetBrainsMonoNL NF ExtraBold",
       "font-stretch": "normal",
@@ -18324,7 +18324,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraBoldItalic.ttf||2381096:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraBoldItalic.ttf||2393472:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF ExtraBold",
       "font-family": "JetBrainsMonoNL NF ExtraBold",
       "font-stretch": "normal",
@@ -18360,7 +18360,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraLight.ttf||2374836:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraLight.ttf||2387208:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF ExtraLight",
       "font-family": "JetBrainsMonoNL NF ExtraLight",
       "font-stretch": "normal",
@@ -18396,7 +18396,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraLightItalic.ttf||2375576:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ExtraLightItalic.ttf||2387952:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF ExtraLight",
       "font-family": "JetBrainsMonoNL NF ExtraLight",
       "font-stretch": "normal",
@@ -18432,7 +18432,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Italic.ttf||2377216:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Italic.ttf||2389592:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF",
       "font-family": "JetBrainsMonoNL NF",
       "font-stretch": "normal",
@@ -18468,7 +18468,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Light.ttf||2376520:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Light.ttf||2388892:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF Light",
       "font-family": "JetBrainsMonoNL NF Light",
       "font-stretch": "normal",
@@ -18504,7 +18504,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-LightItalic.ttf||2377936:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-LightItalic.ttf||2390312:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF Light",
       "font-family": "JetBrainsMonoNL NF Light",
       "font-stretch": "normal",
@@ -18540,7 +18540,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Medium.ttf||2373992:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Medium.ttf||2386364:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF Medium",
       "font-family": "JetBrainsMonoNL NF Medium",
       "font-stretch": "normal",
@@ -18576,7 +18576,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-MediumItalic.ttf||2377220:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-MediumItalic.ttf||2389596:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF Medium",
       "font-family": "JetBrainsMonoNL NF Medium",
       "font-stretch": "normal",
@@ -18612,7 +18612,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Regular.ttf||2374264:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Regular.ttf||2386636:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF",
       "font-family": "JetBrainsMonoNL NF",
       "font-stretch": "normal",
@@ -18648,7 +18648,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-SemiBold.ttf||2375572:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-SemiBold.ttf||2387944:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF SemiBold",
       "font-family": "JetBrainsMonoNL NF SemiBold",
       "font-stretch": "normal",
@@ -18684,7 +18684,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-SemiBoldItalic.ttf||2379672:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-SemiBoldItalic.ttf||2392048:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF SemiBold",
       "font-family": "JetBrainsMonoNL NF SemiBold",
       "font-stretch": "normal",
@@ -18720,7 +18720,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Thin.ttf||2371740:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-Thin.ttf||2384112:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF Thin",
       "font-family": "JetBrainsMonoNL NF Thin",
       "font-stretch": "normal",
@@ -18756,7 +18756,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ThinItalic.ttf||2374772:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFont-ThinItalic.ttf||2387148:1745519248.0": {
       "family_name": "JetBrainsMonoNL NF Thin",
       "font-family": "JetBrainsMonoNL NF Thin",
       "font-stretch": "normal",
@@ -18792,7 +18792,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Bold.ttf||2325712:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Bold.ttf||2390340:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM",
       "font-family": "JetBrainsMonoNL NFM",
       "font-stretch": "normal",
@@ -18828,7 +18828,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-BoldItalic.ttf||2328852:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-BoldItalic.ttf||2393480:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM",
       "font-family": "JetBrainsMonoNL NFM",
       "font-stretch": "normal",
@@ -18864,7 +18864,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraBold.ttf||2328184:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraBold.ttf||2392812:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM ExtraBold",
       "font-family": "JetBrainsMonoNL NFM ExtraBold",
       "font-stretch": "normal",
@@ -18900,7 +18900,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.ttf||2330192:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.ttf||2394820:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM ExtraBold",
       "font-family": "JetBrainsMonoNL NFM ExtraBold",
       "font-stretch": "normal",
@@ -18936,7 +18936,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraLight.ttf||2323904:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraLight.ttf||2388532:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM ExtraLight",
       "font-family": "JetBrainsMonoNL NFM ExtraLight",
       "font-stretch": "normal",
@@ -18972,7 +18972,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraLightItalic.ttf||2324676:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ExtraLightItalic.ttf||2389304:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM ExtraLight",
       "font-family": "JetBrainsMonoNL NFM ExtraLight",
       "font-stretch": "normal",
@@ -19008,7 +19008,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Italic.ttf||2326312:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Italic.ttf||2390940:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM",
       "font-family": "JetBrainsMonoNL NFM",
       "font-stretch": "normal",
@@ -19044,7 +19044,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Light.ttf||2325584:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Light.ttf||2390212:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM Light",
       "font-family": "JetBrainsMonoNL NFM Light",
       "font-stretch": "normal",
@@ -19080,7 +19080,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-LightItalic.ttf||2327032:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-LightItalic.ttf||2391660:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM Light",
       "font-family": "JetBrainsMonoNL NFM Light",
       "font-stretch": "normal",
@@ -19116,7 +19116,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Medium.ttf||2323060:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Medium.ttf||2387688:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM Medium",
       "font-family": "JetBrainsMonoNL NFM Medium",
       "font-stretch": "normal",
@@ -19152,7 +19152,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-MediumItalic.ttf||2326320:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-MediumItalic.ttf||2390948:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM Medium",
       "font-family": "JetBrainsMonoNL NFM Medium",
       "font-stretch": "normal",
@@ -19188,7 +19188,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Regular.ttf||2323328:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Regular.ttf||2387956:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM",
       "font-family": "JetBrainsMonoNL NFM",
       "font-stretch": "normal",
@@ -19224,7 +19224,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-SemiBold.ttf||2324636:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-SemiBold.ttf||2389264:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM SemiBold",
       "font-family": "JetBrainsMonoNL NFM SemiBold",
       "font-stretch": "normal",
@@ -19260,7 +19260,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-SemiBoldItalic.ttf||2328768:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-SemiBoldItalic.ttf||2393396:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM SemiBold",
       "font-family": "JetBrainsMonoNL NFM SemiBold",
       "font-stretch": "normal",
@@ -19296,7 +19296,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Thin.ttf||2320804:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-Thin.ttf||2385432:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM Thin",
       "font-family": "JetBrainsMonoNL NFM Thin",
       "font-stretch": "normal",
@@ -19332,7 +19332,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ThinItalic.ttf||2323868:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontMono-ThinItalic.ttf||2388496:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFM Thin",
       "font-family": "JetBrainsMonoNL NFM Thin",
       "font-stretch": "normal",
@@ -19368,7 +19368,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Bold.ttf||2376440:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Bold.ttf||2388880:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP",
       "font-family": "JetBrainsMonoNL NFP",
       "font-stretch": "normal",
@@ -19404,7 +19404,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-BoldItalic.ttf||2379548:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-BoldItalic.ttf||2391992:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP",
       "font-family": "JetBrainsMonoNL NFP",
       "font-stretch": "normal",
@@ -19440,7 +19440,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraBold.ttf||2378912:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraBold.ttf||2391352:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP ExtraBold",
       "font-family": "JetBrainsMonoNL NFP ExtraBold",
       "font-stretch": "normal",
@@ -19476,7 +19476,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraBoldItalic.ttf||2380888:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraBoldItalic.ttf||2393332:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP ExtraBold",
       "font-family": "JetBrainsMonoNL NFP ExtraBold",
       "font-stretch": "normal",
@@ -19512,7 +19512,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraLight.ttf||2374628:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraLight.ttf||2387068:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP ExtraLight",
       "font-family": "JetBrainsMonoNL NFP ExtraLight",
       "font-stretch": "normal",
@@ -19548,7 +19548,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraLightItalic.ttf||2375368:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ExtraLightItalic.ttf||2387812:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP ExtraLight",
       "font-family": "JetBrainsMonoNL NFP ExtraLight",
       "font-stretch": "normal",
@@ -19584,7 +19584,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Italic.ttf||2377008:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Italic.ttf||2389452:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP",
       "font-family": "JetBrainsMonoNL NFP",
       "font-stretch": "normal",
@@ -19620,7 +19620,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Light.ttf||2376312:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Light.ttf||2388752:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP Light",
       "font-family": "JetBrainsMonoNL NFP Light",
       "font-stretch": "normal",
@@ -19656,7 +19656,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-LightItalic.ttf||2377728:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-LightItalic.ttf||2390172:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP Light",
       "font-family": "JetBrainsMonoNL NFP Light",
       "font-stretch": "normal",
@@ -19692,7 +19692,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Medium.ttf||2373784:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Medium.ttf||2386224:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP Medium",
       "font-family": "JetBrainsMonoNL NFP Medium",
       "font-stretch": "normal",
@@ -19728,7 +19728,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-MediumItalic.ttf||2377012:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-MediumItalic.ttf||2389456:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP Medium",
       "font-family": "JetBrainsMonoNL NFP Medium",
       "font-stretch": "normal",
@@ -19764,7 +19764,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Regular.ttf||2374056:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Regular.ttf||2386496:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP",
       "font-family": "JetBrainsMonoNL NFP",
       "font-stretch": "normal",
@@ -19800,7 +19800,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-SemiBold.ttf||2375364:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-SemiBold.ttf||2387804:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP SemiBold",
       "font-family": "JetBrainsMonoNL NFP SemiBold",
       "font-stretch": "normal",
@@ -19836,7 +19836,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-SemiBoldItalic.ttf||2379464:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-SemiBoldItalic.ttf||2391908:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP SemiBold",
       "font-family": "JetBrainsMonoNL NFP SemiBold",
       "font-stretch": "normal",
@@ -19872,7 +19872,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Thin.ttf||2371532:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-Thin.ttf||2383972:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP Thin",
       "font-family": "JetBrainsMonoNL NFP Thin",
       "font-stretch": "normal",
@@ -19908,7 +19908,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ThinItalic.ttf||2374564:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNLNerdFontPropo-ThinItalic.ttf||2387008:1745519248.0": {
       "family_name": "JetBrainsMonoNL NFP Thin",
       "font-family": "JetBrainsMonoNL NFP Thin",
       "font-stretch": "normal",
@@ -19944,7 +19944,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Bold.ttf||2460500:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Bold.ttf||2472872:1745519248.0": {
       "family_name": "JetBrainsMono NF",
       "font-family": "JetBrainsMono NF",
       "font-stretch": "normal",
@@ -19980,7 +19980,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-BoldItalic.ttf||2461724:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-BoldItalic.ttf||2474096:1745519248.0": {
       "family_name": "JetBrainsMono NF",
       "font-family": "JetBrainsMono NF",
       "font-stretch": "normal",
@@ -20016,7 +20016,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraBold.ttf||2462264:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraBold.ttf||2474636:1745519248.0": {
       "family_name": "JetBrainsMono NF ExtraBold",
       "font-family": "JetBrainsMono NF ExtraBold",
       "font-stretch": "normal",
@@ -20052,7 +20052,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraBoldItalic.ttf||2463744:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraBoldItalic.ttf||2476116:1745519248.0": {
       "family_name": "JetBrainsMono NF ExtraBold",
       "font-family": "JetBrainsMono NF ExtraBold",
       "font-stretch": "normal",
@@ -20088,7 +20088,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraLight.ttf||2456868:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraLight.ttf||2469240:1745519248.0": {
       "family_name": "JetBrainsMono NF ExtraLight",
       "font-family": "JetBrainsMono NF ExtraLight",
       "font-stretch": "normal",
@@ -20124,7 +20124,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraLightItalic.ttf||2456160:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ExtraLightItalic.ttf||2468532:1745519248.0": {
       "family_name": "JetBrainsMono NF ExtraLight",
       "font-family": "JetBrainsMono NF ExtraLight",
       "font-stretch": "normal",
@@ -20160,7 +20160,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Italic.ttf||2458816:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Italic.ttf||2471188:1745519248.0": {
       "family_name": "JetBrainsMono NF",
       "font-family": "JetBrainsMono NF",
       "font-stretch": "normal",
@@ -20196,7 +20196,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Light.ttf||2459156:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Light.ttf||2471528:1745519248.0": {
       "family_name": "JetBrainsMono NF Light",
       "font-family": "JetBrainsMono NF Light",
       "font-stretch": "normal",
@@ -20232,7 +20232,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-LightItalic.ttf||2459044:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-LightItalic.ttf||2471416:1745519248.0": {
       "family_name": "JetBrainsMono NF Light",
       "font-family": "JetBrainsMono NF Light",
       "font-stretch": "normal",
@@ -20268,7 +20268,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Medium.ttf||2456604:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Medium.ttf||2468976:1745519248.0": {
       "family_name": "JetBrainsMono NF Medium",
       "font-family": "JetBrainsMono NF Medium",
       "font-stretch": "normal",
@@ -20304,7 +20304,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-MediumItalic.ttf||2458764:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-MediumItalic.ttf||2471136:1745519248.0": {
       "family_name": "JetBrainsMono NF Medium",
       "font-family": "JetBrainsMono NF Medium",
       "font-stretch": "normal",
@@ -20340,7 +20340,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf||2456732:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf||2469104:1745519248.0": {
       "family_name": "JetBrainsMono NF",
       "font-family": "JetBrainsMono NF",
       "font-stretch": "normal",
@@ -20376,7 +20376,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-SemiBold.ttf||2459840:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-SemiBold.ttf||2472212:1745519248.0": {
       "family_name": "JetBrainsMono NF SemiBold",
       "font-family": "JetBrainsMono NF SemiBold",
       "font-stretch": "normal",
@@ -20412,7 +20412,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-SemiBoldItalic.ttf||2461832:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-SemiBoldItalic.ttf||2474204:1745519248.0": {
       "family_name": "JetBrainsMono NF SemiBold",
       "font-family": "JetBrainsMono NF SemiBold",
       "font-stretch": "normal",
@@ -20448,7 +20448,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Thin.ttf||2452868:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Thin.ttf||2465240:1745519248.0": {
       "family_name": "JetBrainsMono NF Thin",
       "font-family": "JetBrainsMono NF Thin",
       "font-stretch": "normal",
@@ -20484,7 +20484,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ThinItalic.ttf||2454964:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-ThinItalic.ttf||2467336:1745519248.0": {
       "family_name": "JetBrainsMono NF Thin",
       "font-family": "JetBrainsMono NF Thin",
       "font-stretch": "normal",
@@ -20520,7 +20520,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Bold.ttf||2409260:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Bold.ttf||2473884:1745519248.0": {
       "family_name": "JetBrainsMono NFM",
       "font-family": "JetBrainsMono NFM",
       "font-stretch": "normal",
@@ -20556,7 +20556,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-BoldItalic.ttf||2410516:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-BoldItalic.ttf||2475144:1745519248.0": {
       "family_name": "JetBrainsMono NFM",
       "font-family": "JetBrainsMono NFM",
       "font-stretch": "normal",
@@ -20592,7 +20592,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraBold.ttf||2411024:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraBold.ttf||2475648:1745519248.0": {
       "family_name": "JetBrainsMono NFM ExtraBold",
       "font-family": "JetBrainsMono NFM ExtraBold",
       "font-stretch": "normal",
@@ -20628,7 +20628,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraBoldItalic.ttf||2412532:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraBoldItalic.ttf||2477160:1745519248.0": {
       "family_name": "JetBrainsMono NFM ExtraBold",
       "font-family": "JetBrainsMono NFM ExtraBold",
       "font-stretch": "normal",
@@ -20664,7 +20664,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraLight.ttf||2405628:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraLight.ttf||2470252:1745519248.0": {
       "family_name": "JetBrainsMono NFM ExtraLight",
       "font-family": "JetBrainsMono NFM ExtraLight",
       "font-stretch": "normal",
@@ -20700,7 +20700,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraLightItalic.ttf||2404948:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ExtraLightItalic.ttf||2469576:1745519248.0": {
       "family_name": "JetBrainsMono NFM ExtraLight",
       "font-family": "JetBrainsMono NFM ExtraLight",
       "font-stretch": "normal",
@@ -20736,7 +20736,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Italic.ttf||2407604:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Italic.ttf||2472232:1745519248.0": {
       "family_name": "JetBrainsMono NFM",
       "font-family": "JetBrainsMono NFM",
       "font-stretch": "normal",
@@ -20772,7 +20772,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Light.ttf||2407916:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Light.ttf||2472540:1745519248.0": {
       "family_name": "JetBrainsMono NFM Light",
       "font-family": "JetBrainsMono NFM Light",
       "font-stretch": "normal",
@@ -20808,7 +20808,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-LightItalic.ttf||2407832:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-LightItalic.ttf||2472460:1745519248.0": {
       "family_name": "JetBrainsMono NFM Light",
       "font-family": "JetBrainsMono NFM Light",
       "font-stretch": "normal",
@@ -20844,7 +20844,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Medium.ttf||2405364:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Medium.ttf||2469988:1745519248.0": {
       "family_name": "JetBrainsMono NFM Medium",
       "font-family": "JetBrainsMono NFM Medium",
       "font-stretch": "normal",
@@ -20880,7 +20880,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-MediumItalic.ttf||2407552:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-MediumItalic.ttf||2472180:1745519248.0": {
       "family_name": "JetBrainsMono NFM Medium",
       "font-family": "JetBrainsMono NFM Medium",
       "font-stretch": "normal",
@@ -20916,7 +20916,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Regular.ttf||2405492:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Regular.ttf||2470116:1745519248.0": {
       "family_name": "JetBrainsMono NFM",
       "font-family": "JetBrainsMono NFM",
       "font-stretch": "normal",
@@ -20952,7 +20952,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-SemiBold.ttf||2408604:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-SemiBold.ttf||2473228:1745519248.0": {
       "family_name": "JetBrainsMono NFM SemiBold",
       "font-family": "JetBrainsMono NFM SemiBold",
       "font-stretch": "normal",
@@ -20988,7 +20988,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-SemiBoldItalic.ttf||2410624:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-SemiBoldItalic.ttf||2475252:1745519248.0": {
       "family_name": "JetBrainsMono NFM SemiBold",
       "font-family": "JetBrainsMono NFM SemiBold",
       "font-stretch": "normal",
@@ -21024,7 +21024,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Thin.ttf||2401632:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-Thin.ttf||2466256:1745519248.0": {
       "family_name": "JetBrainsMono NFM Thin",
       "font-family": "JetBrainsMono NFM Thin",
       "font-stretch": "normal",
@@ -21060,7 +21060,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ThinItalic.ttf||2403756:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontMono-ThinItalic.ttf||2468384:1745519248.0": {
       "family_name": "JetBrainsMono NFM Thin",
       "font-family": "JetBrainsMono NFM Thin",
       "font-stretch": "normal",
@@ -21096,7 +21096,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Bold.ttf||2460292:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Bold.ttf||2472732:1745519248.0": {
       "family_name": "JetBrainsMono NFP",
       "font-family": "JetBrainsMono NFP",
       "font-stretch": "normal",
@@ -21132,7 +21132,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-BoldItalic.ttf||2461516:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-BoldItalic.ttf||2473956:1745519248.0": {
       "family_name": "JetBrainsMono NFP",
       "font-family": "JetBrainsMono NFP",
       "font-stretch": "normal",
@@ -21168,7 +21168,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraBold.ttf||2462056:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraBold.ttf||2474496:1745519248.0": {
       "family_name": "JetBrainsMono NFP ExtraBold",
       "font-family": "JetBrainsMono NFP ExtraBold",
       "font-stretch": "normal",
@@ -21204,7 +21204,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraBoldItalic.ttf||2463536:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraBoldItalic.ttf||2475976:1745519248.0": {
       "family_name": "JetBrainsMono NFP ExtraBold",
       "font-family": "JetBrainsMono NFP ExtraBold",
       "font-stretch": "normal",
@@ -21240,7 +21240,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraLight.ttf||2456660:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraLight.ttf||2469100:1745519248.0": {
       "family_name": "JetBrainsMono NFP ExtraLight",
       "font-family": "JetBrainsMono NFP ExtraLight",
       "font-stretch": "normal",
@@ -21276,7 +21276,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraLightItalic.ttf||2455952:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ExtraLightItalic.ttf||2468392:1745519248.0": {
       "family_name": "JetBrainsMono NFP ExtraLight",
       "font-family": "JetBrainsMono NFP ExtraLight",
       "font-stretch": "normal",
@@ -21312,7 +21312,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Italic.ttf||2458608:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Italic.ttf||2471048:1745519248.0": {
       "family_name": "JetBrainsMono NFP",
       "font-family": "JetBrainsMono NFP",
       "font-stretch": "normal",
@@ -21348,7 +21348,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Light.ttf||2458948:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Light.ttf||2471388:1745519248.0": {
       "family_name": "JetBrainsMono NFP Light",
       "font-family": "JetBrainsMono NFP Light",
       "font-stretch": "normal",
@@ -21384,7 +21384,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-LightItalic.ttf||2458836:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-LightItalic.ttf||2471276:1745519248.0": {
       "family_name": "JetBrainsMono NFP Light",
       "font-family": "JetBrainsMono NFP Light",
       "font-stretch": "normal",
@@ -21420,7 +21420,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Medium.ttf||2456396:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Medium.ttf||2468836:1745519248.0": {
       "family_name": "JetBrainsMono NFP Medium",
       "font-family": "JetBrainsMono NFP Medium",
       "font-stretch": "normal",
@@ -21456,7 +21456,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-MediumItalic.ttf||2458556:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-MediumItalic.ttf||2470996:1745519248.0": {
       "family_name": "JetBrainsMono NFP Medium",
       "font-family": "JetBrainsMono NFP Medium",
       "font-stretch": "normal",
@@ -21492,7 +21492,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Regular.ttf||2456524:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Regular.ttf||2468964:1745519248.0": {
       "family_name": "JetBrainsMono NFP",
       "font-family": "JetBrainsMono NFP",
       "font-stretch": "normal",
@@ -21528,7 +21528,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-SemiBold.ttf||2459632:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-SemiBold.ttf||2472072:1745519248.0": {
       "family_name": "JetBrainsMono NFP SemiBold",
       "font-family": "JetBrainsMono NFP SemiBold",
       "font-stretch": "normal",
@@ -21564,7 +21564,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-SemiBoldItalic.ttf||2461624:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-SemiBoldItalic.ttf||2474064:1745519248.0": {
       "family_name": "JetBrainsMono NFP SemiBold",
       "font-family": "JetBrainsMono NFP SemiBold",
       "font-stretch": "normal",
@@ -21600,7 +21600,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Thin.ttf||2452660:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-Thin.ttf||2465100:1745519248.0": {
       "family_name": "JetBrainsMono NFP Thin",
       "font-family": "JetBrainsMono NFP Thin",
       "font-stretch": "normal",
@@ -21636,7 +21636,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ThinItalic.ttf||2454756:1731945200.0": {
+    "/usr/share/fonts/TTF/JetBrainsMonoNerdFontPropo-ThinItalic.ttf||2467196:1745519248.0": {
       "family_name": "JetBrainsMono NFP Thin",
       "font-family": "JetBrainsMono NFP Thin",
       "font-stretch": "normal",
@@ -22212,7 +22212,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/SymbolsNerdFont-Regular.ttf||2314472:1732661392.0": {
+    "/usr/share/fonts/TTF/SymbolsNerdFont-Regular.ttf||2440316:1745602343.0": {
       "family_name": "Symbols Nerd Font",
       "font-family": "Symbols Nerd Font",
       "font-stretch": "normal",
@@ -23004,7 +23004,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont.ttf||11943248:1733841245.0": {
+    "/usr/share/fonts/Unifont/Unifont.ttf||11934928:1749586789.0": {
       "family_name": "Unifont",
       "font-family": "Unifont",
       "font-stretch": "normal",
@@ -23040,7 +23040,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_CSUR.ttf||1626388:1733841245.0": {
+    "/usr/share/fonts/Unifont/Unifont_CSUR.ttf||1637820:1749586789.0": {
       "family_name": "Unifont CSUR",
       "font-family": "Unifont CSUR",
       "font-stretch": "normal",
@@ -23076,7 +23076,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_Upper.ttf||13221380:1733841245.0": {
+    "/usr/share/fonts/Unifont/Unifont_Upper.ttf||13244952:1749586789.0": {
       "family_name": "Unifont Upper",
       "font-family": "Unifont Upper",
       "font-stretch": "normal",
@@ -23112,7 +23112,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_jp.ttf||12267408:1733841245.0": {
+    "/usr/share/fonts/Unifont/Unifont_jp.ttf||12259276:1749586789.0": {
       "family_name": "Unifont-JP",
       "font-family": "Unifont-JP",
       "font-stretch": "normal",
@@ -23144,582 +23144,6 @@
       "preferred_subfamily_name": null,
       "subfamily_name": "Regular",
       "weight": 500,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Black.otf||133768:1720044283.0": {
-      "family_name": "Source Code Pro Black",
-      "font-family": "Source Code Pro Black",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "900",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Black",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        8,
-        9,
-        3,
-        4,
-        3,
-        2,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Black.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "Black",
-      "subfamily_name": "Regular",
-      "weight": 900,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-BlackIt.otf||112052:1720044283.0": {
-      "family_name": "Source Code Pro Black",
-      "font-family": "Source Code Pro Black",
-      "font-stretch": "normal",
-      "font-style": "italic",
-      "font-weight": "900",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Black Italic",
-      "is_bold": false,
-      "is_italic": true,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        8,
-        9,
-        3,
-        4,
-        3,
-        9,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-BlackIt.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "Black Italic",
-      "subfamily_name": "Italic",
-      "weight": 900,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Bold.otf||134020:1720044283.0": {
-      "family_name": "Source Code Pro",
-      "font-family": "Source Code Pro",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "bold",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Bold",
-      "is_bold": true,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        7,
-        9,
-        3,
-        4,
-        3,
-        2,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Bold.otf",
-      "preferred_family_name": null,
-      "preferred_subfamily_name": null,
-      "subfamily_name": "Bold",
-      "weight": 700,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-BoldIt.otf||110288:1720044283.0": {
-      "family_name": "Source Code Pro",
-      "font-family": "Source Code Pro",
-      "font-stretch": "normal",
-      "font-style": "italic",
-      "font-weight": "bold",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Bold Italic",
-      "is_bold": true,
-      "is_italic": true,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        7,
-        9,
-        3,
-        4,
-        3,
-        9,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-BoldIt.otf",
-      "preferred_family_name": null,
-      "preferred_subfamily_name": null,
-      "subfamily_name": "Bold Italic",
-      "weight": 700,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-ExtraLight.otf||125412:1720044283.0": {
-      "family_name": "Source Code Pro ExtraLight",
-      "font-family": "Source Code Pro ExtraLight",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "200",
-      "fs_type": 0,
-      "full_name": "Source Code Pro ExtraLight",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        3,
-        9,
-        3,
-        4,
-        3,
-        2,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-ExtraLight.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "ExtraLight",
-      "subfamily_name": "Regular",
-      "weight": 200,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-ExtraLightIt.otf||106204:1720044283.0": {
-      "family_name": "Source Code Pro ExtraLight",
-      "font-family": "Source Code Pro ExtraLight",
-      "font-stretch": "normal",
-      "font-style": "italic",
-      "font-weight": "200",
-      "fs_type": 0,
-      "full_name": "Source Code Pro ExtraLight Italic",
-      "is_bold": false,
-      "is_italic": true,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        3,
-        9,
-        3,
-        4,
-        3,
-        9,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-ExtraLightIt.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "ExtraLight Italic",
-      "subfamily_name": "Italic",
-      "weight": 200,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-It.otf||107752:1720044283.0": {
-      "family_name": "Source Code Pro",
-      "font-family": "Source Code Pro",
-      "font-stretch": "normal",
-      "font-style": "italic",
-      "font-weight": "normal",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Italic",
-      "is_bold": false,
-      "is_italic": true,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        5,
-        9,
-        3,
-        4,
-        3,
-        9,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-It.otf",
-      "preferred_family_name": null,
-      "preferred_subfamily_name": null,
-      "subfamily_name": "Italic",
-      "weight": 400,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Light.otf||129956:1720044283.0": {
-      "family_name": "Source Code Pro Light",
-      "font-family": "Source Code Pro Light",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "300",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Light",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        4,
-        9,
-        3,
-        4,
-        3,
-        2,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Light.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "Light",
-      "subfamily_name": "Regular",
-      "weight": 300,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-LightIt.otf||107660:1720044283.0": {
-      "family_name": "Source Code Pro Light",
-      "font-family": "Source Code Pro Light",
-      "font-stretch": "normal",
-      "font-style": "italic",
-      "font-weight": "300",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Light Italic",
-      "is_bold": false,
-      "is_italic": true,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        4,
-        9,
-        3,
-        4,
-        3,
-        9,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-LightIt.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "Light Italic",
-      "subfamily_name": "Italic",
-      "weight": 300,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Medium.otf||130984:1720044283.0": {
-      "family_name": "Source Code Pro Medium",
-      "font-family": "Source Code Pro Medium",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "500",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Medium",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        5,
-        9,
-        3,
-        4,
-        3,
-        2,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Medium.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "Medium",
-      "subfamily_name": "Regular",
-      "weight": 500,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-MediumIt.otf||107464:1720044283.0": {
-      "family_name": "Source Code Pro Medium",
-      "font-family": "Source Code Pro Medium",
-      "font-stretch": "normal",
-      "font-style": "italic",
-      "font-weight": "500",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Medium Italic",
-      "is_bold": false,
-      "is_italic": true,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        5,
-        9,
-        3,
-        4,
-        3,
-        9,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-MediumIt.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "Medium Italic",
-      "subfamily_name": "Italic",
-      "weight": 500,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Regular.otf||131128:1720044283.0": {
-      "family_name": "Source Code Pro",
-      "font-family": "Source Code Pro",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "normal",
-      "fs_type": 0,
-      "full_name": "Source Code Pro",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": true,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        5,
-        9,
-        3,
-        4,
-        3,
-        2,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Regular.otf",
-      "preferred_family_name": null,
-      "preferred_subfamily_name": null,
-      "subfamily_name": "Regular",
-      "weight": 400,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Semibold.otf||131608:1720044283.0": {
-      "family_name": "Source Code Pro Semibold",
-      "font-family": "Source Code Pro Semibold",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "600",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Semibold",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        6,
-        9,
-        3,
-        4,
-        3,
-        2,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-Semibold.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "Semibold",
-      "subfamily_name": "Regular",
-      "weight": 600,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-SemiboldIt.otf||108500:1720044283.0": {
-      "family_name": "Source Code Pro Semibold",
-      "font-family": "Source Code Pro Semibold",
-      "font-stretch": "normal",
-      "font-style": "italic",
-      "font-weight": "600",
-      "fs_type": 0,
-      "full_name": "Source Code Pro Semibold Italic",
-      "is_bold": false,
-      "is_italic": true,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 3,
-      "panose": [
-        2,
-        11,
-        6,
-        9,
-        3,
-        4,
-        3,
-        9,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodePro-SemiboldIt.otf",
-      "preferred_family_name": "Source Code Pro",
-      "preferred_subfamily_name": "Semibold Italic",
-      "subfamily_name": "Italic",
-      "weight": 600,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodeVF-Italic.otf||122836:1720044283.0": {
-      "family_name": "SourceCodeVF",
-      "font-family": "SourceCodeVF",
-      "font-stretch": "normal",
-      "font-style": "italic",
-      "font-weight": "200",
-      "fs_type": 0,
-      "full_name": "SourceCodeVF Italic",
-      "is_bold": false,
-      "is_italic": true,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        2,
-        11,
-        3,
-        9,
-        3,
-        4,
-        3,
-        9,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodeVF-Italic.otf",
-      "preferred_family_name": null,
-      "preferred_subfamily_name": null,
-      "subfamily_name": "Italic",
-      "weight": 200,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/adobe-source-code-pro/SourceCodeVF-Upright.otf||150744:1720044283.0": {
-      "family_name": "SourceCodeVF",
-      "font-family": "SourceCodeVF",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "200",
-      "fs_type": 0,
-      "full_name": "SourceCodeVF",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        2,
-        11,
-        3,
-        9,
-        3,
-        4,
-        3,
-        2,
-        2,
-        4
-      ],
-      "path": "/usr/share/fonts/adobe-source-code-pro/SourceCodeVF-Upright.otf",
-      "preferred_family_name": null,
-      "preferred_subfamily_name": null,
-      "subfamily_name": "Regular",
-      "weight": 200,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
@@ -29016,42 +28440,6 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/cantarell/Cantarell-VF.otf||170588:1720749076.0": {
-      "family_name": "Cantarell",
-      "font-family": "Cantarell",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "normal",
-      "fs_type": 0,
-      "full_name": "Cantarell Regular",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": true,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        2,
-        0,
-        5,
-        3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/cantarell/Cantarell-VF.otf",
-      "preferred_family_name": null,
-      "preferred_subfamily_name": null,
-      "subfamily_name": "Regular",
-      "weight": 400,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
     "/usr/share/fonts/gnu-free/FreeMono.otf||430884:1589880580.0": {
       "family_name": "FreeMono",
       "font-family": "FreeMono",
@@ -29484,7 +28872,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/C059-BdIta.otf||103444:1720802942.0": {
+    "/usr/share/fonts/gsfonts/C059-BdIta.otf||103444:1751576178.0": {
       "family_name": "C059",
       "font-family": "C059",
       "font-stretch": "normal",
@@ -29520,7 +28908,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/C059-Bold.otf||100692:1720802942.0": {
+    "/usr/share/fonts/gsfonts/C059-Bold.otf||100692:1751576178.0": {
       "family_name": "C059",
       "font-family": "C059",
       "font-stretch": "normal",
@@ -29556,7 +28944,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/C059-Italic.otf||101324:1720802942.0": {
+    "/usr/share/fonts/gsfonts/C059-Italic.otf||101324:1751576178.0": {
       "family_name": "C059",
       "font-family": "C059",
       "font-stretch": "normal",
@@ -29592,7 +28980,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/C059-Roman.otf||97476:1720802942.0": {
+    "/usr/share/fonts/gsfonts/C059-Roman.otf||97476:1751576178.0": {
       "family_name": "C059",
       "font-family": "C059",
       "font-stretch": "normal",
@@ -29628,7 +29016,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/D050000L.otf||29832:1720802942.0": {
+    "/usr/share/fonts/gsfonts/D050000L.otf||29832:1751576178.0": {
       "family_name": "D050000L",
       "font-family": "D050000L",
       "font-stretch": "normal",
@@ -29664,7 +29052,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-Bold.otf||87520:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-Bold.otf||87520:1751576178.0": {
       "family_name": "Nimbus Mono PS",
       "font-family": "Nimbus Mono PS",
       "font-stretch": "normal",
@@ -29700,7 +29088,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-BoldItalic.otf||89580:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-BoldItalic.otf||89580:1751576178.0": {
       "family_name": "Nimbus Mono PS",
       "font-family": "Nimbus Mono PS",
       "font-stretch": "normal",
@@ -29736,7 +29124,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-Italic.otf||82648:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-Italic.otf||82648:1751576178.0": {
       "family_name": "Nimbus Mono PS",
       "font-family": "Nimbus Mono PS",
       "font-stretch": "normal",
@@ -29772,7 +29160,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-Regular.otf||77936:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-Regular.otf||77936:1751576178.0": {
       "family_name": "Nimbus Mono PS",
       "font-family": "Nimbus Mono PS",
       "font-stretch": "normal",
@@ -29808,7 +29196,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusRoman-Bold.otf||100984:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-Bold.otf||100984:1751576178.0": {
       "family_name": "Nimbus Roman",
       "font-family": "Nimbus Roman",
       "font-stretch": "normal",
@@ -29844,7 +29232,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusRoman-BoldItalic.otf||104772:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-BoldItalic.otf||104772:1751576178.0": {
       "family_name": "Nimbus Roman",
       "font-family": "Nimbus Roman",
       "font-stretch": "normal",
@@ -29880,7 +29268,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusRoman-Italic.otf||105684:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-Italic.otf||105684:1751576178.0": {
       "family_name": "Nimbus Roman",
       "font-family": "Nimbus Roman",
       "font-stretch": "normal",
@@ -29916,7 +29304,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusRoman-Regular.otf||98200:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-Regular.otf||98200:1751576178.0": {
       "family_name": "Nimbus Roman",
       "font-family": "Nimbus Roman",
       "font-stretch": "normal",
@@ -29952,7 +29340,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSans-Bold.otf||83264:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-Bold.otf||83264:1751576178.0": {
       "family_name": "Nimbus Sans",
       "font-family": "Nimbus Sans",
       "font-stretch": "normal",
@@ -29988,7 +29376,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSans-BoldItalic.otf||95396:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-BoldItalic.otf||95396:1751576178.0": {
       "family_name": "Nimbus Sans",
       "font-family": "Nimbus Sans",
       "font-stretch": "normal",
@@ -30024,7 +29412,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSans-Italic.otf||95244:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-Italic.otf||95244:1751576178.0": {
       "family_name": "Nimbus Sans",
       "font-family": "Nimbus Sans",
       "font-stretch": "normal",
@@ -30060,7 +29448,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSans-Regular.otf||82264:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-Regular.otf||82264:1751576178.0": {
       "family_name": "Nimbus Sans",
       "font-family": "Nimbus Sans",
       "font-stretch": "normal",
@@ -30096,7 +29484,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Bold.otf||81340:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Bold.otf||81340:1751576178.0": {
       "family_name": "Nimbus Sans Narrow",
       "font-family": "Nimbus Sans Narrow",
       "font-stretch": "semi-condensed",
@@ -30132,7 +29520,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-BoldOblique.otf||87956:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-BoldOblique.otf||87956:1751576178.0": {
       "family_name": "Nimbus Sans Narrow",
       "font-family": "Nimbus Sans Narrow",
       "font-stretch": "semi-condensed",
@@ -30168,7 +29556,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Oblique.otf||87068:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Oblique.otf||87068:1751576178.0": {
       "family_name": "Nimbus Sans Narrow",
       "font-family": "Nimbus Sans Narrow",
       "font-stretch": "semi-condensed",
@@ -30204,7 +29592,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Regular.otf||80864:1720802942.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Regular.otf||80864:1751576178.0": {
       "family_name": "Nimbus Sans Narrow",
       "font-family": "Nimbus Sans Narrow",
       "font-stretch": "semi-condensed",
@@ -30240,7 +29628,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/P052-Bold.otf||110980:1720802942.0": {
+    "/usr/share/fonts/gsfonts/P052-Bold.otf||110980:1751576178.0": {
       "family_name": "P052",
       "font-family": "P052",
       "font-stretch": "normal",
@@ -30276,7 +29664,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/P052-BoldItalic.otf||110928:1720802942.0": {
+    "/usr/share/fonts/gsfonts/P052-BoldItalic.otf||110928:1751576178.0": {
       "family_name": "P052",
       "font-family": "P052",
       "font-stretch": "normal",
@@ -30312,7 +29700,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/P052-Italic.otf||109824:1720802942.0": {
+    "/usr/share/fonts/gsfonts/P052-Italic.otf||109824:1751576178.0": {
       "family_name": "P052",
       "font-family": "P052",
       "font-stretch": "normal",
@@ -30348,7 +29736,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/P052-Roman.otf||110236:1720802942.0": {
+    "/usr/share/fonts/gsfonts/P052-Roman.otf||110236:1751576178.0": {
       "family_name": "P052",
       "font-family": "P052",
       "font-stretch": "normal",
@@ -30384,7 +29772,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/StandardSymbolsPS.otf||21176:1720802942.0": {
+    "/usr/share/fonts/gsfonts/StandardSymbolsPS.otf||21176:1751576178.0": {
       "family_name": "Standard Symbols PS",
       "font-family": "Standard Symbols PS",
       "font-stretch": "normal",
@@ -30420,7 +29808,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWBookman-Demi.otf||97208:1720802942.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-Demi.otf||97208:1751576178.0": {
       "family_name": "URW Bookman",
       "font-family": "URW Bookman",
       "font-stretch": "normal",
@@ -30456,7 +29844,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWBookman-DemiItalic.otf||101584:1720802942.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-DemiItalic.otf||101584:1751576178.0": {
       "family_name": "URW Bookman",
       "font-family": "URW Bookman",
       "font-stretch": "normal",
@@ -30492,7 +29880,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWBookman-Light.otf||98396:1720802942.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-Light.otf||98396:1751576178.0": {
       "family_name": "URW Bookman",
       "font-family": "URW Bookman",
       "font-stretch": "normal",
@@ -30528,7 +29916,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWBookman-LightItalic.otf||102764:1720802942.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-LightItalic.otf||102764:1751576178.0": {
       "family_name": "URW Bookman",
       "font-family": "URW Bookman",
       "font-stretch": "normal",
@@ -30564,7 +29952,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWGothic-Book.otf||82968:1720802942.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-Book.otf||82968:1751576178.0": {
       "family_name": "URW Gothic",
       "font-family": "URW Gothic",
       "font-stretch": "normal",
@@ -30600,7 +29988,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWGothic-BookOblique.otf||85336:1720802942.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-BookOblique.otf||85336:1751576178.0": {
       "family_name": "URW Gothic",
       "font-family": "URW Gothic",
       "font-stretch": "normal",
@@ -30636,7 +30024,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWGothic-Demi.otf||83580:1720802942.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-Demi.otf||83580:1751576178.0": {
       "family_name": "URW Gothic",
       "font-family": "URW Gothic",
       "font-stretch": "normal",
@@ -30672,7 +30060,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWGothic-DemiOblique.otf||86232:1720802942.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-DemiOblique.otf||86232:1751576178.0": {
       "family_name": "URW Gothic",
       "font-family": "URW Gothic",
       "font-stretch": "normal",
@@ -30708,7 +30096,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/Z003-MediumItalic.otf||114052:1720802942.0": {
+    "/usr/share/fonts/gsfonts/Z003-MediumItalic.otf||114052:1751576178.0": {
       "family_name": "Z003",
       "font-family": "Z003",
       "font-stretch": "normal",
@@ -31176,7 +30564,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/noto/NotoColorEmoji.ttf||10643852:1727977658.0": {
+    "/usr/share/fonts/noto/NotoColorEmoji.ttf||10195752:1750625421.0": {
       "family_name": "Noto Color Emoji",
       "font-family": "Noto Color Emoji",
       "font-stretch": "normal",

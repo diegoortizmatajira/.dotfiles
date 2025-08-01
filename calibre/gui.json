@@ -2,7 +2,7 @@
   "Kindle Collections: Menu Style": "Show menu (default)",
   "Manage Series plugin:series dialog": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAd1////zwAACooAAAHeAAAHgAAAAAAAAAp/AAAB0wAAAAAAAAAAB4AAAAeAAAAAAAAACn8AAAHT"
+    "__value__": "AdnQywADAAD////1////zwAAAwoAAAHeAAAAAAAAAAAAAAL/AAAB0wAAAAEAAAAAB4AAAAAAAAAAAAAAAv8AAAHT"
   },
   "action-layout-toolbar": [
     "Add Books",
@@ -25,7 +25,10 @@
     "Find Duplicates",
     "Quality Check",
     "Goodreads Sync",
-    "Manage Series"
+    "Manage Series",
+    "Overdrive Link",
+    "Modify ePub",
+    "overdrive_libby"
   ],
   "action-layout-toolbar-device": [
     "Add Books",
@@ -52,7 +55,10 @@
     "Quality Check",
     "Goodreads Sync",
     "Kindle Collections",
-    "Manage Series"
+    "Manage Series",
+    "Overdrive Link",
+    "Modify ePub",
+    "overdrive_libby"
   ],
   "basic_metadata_widget_splitter_state": {
     "__class__": "bytearray",
@@ -172,12 +178,22 @@
     false,
     300
   ],
-  "cover_grid_color": [
-    80,
-    80,
-    80
-  ],
-  "cover_grid_texture": null,
+  "cover_corner_radius": 5,
+  "cover_grid_background": {
+    "dark": [
+      45,
+      45,
+      45
+    ],
+    "dark_texture": null,
+    "light": [
+      80,
+      80,
+      80
+    ],
+    "light_texture": null,
+    "migrated": true
+  },
   "custom_colors_for_color_dialog": [
     [
       255,
@@ -293,43 +309,43 @@
     "frame_geometry": {
       "height": 533,
       "width": 982,
-      "x": 1909,
+      "x": -11,
       "y": -49
     },
     "full_screened": false,
     "geometry": {
       "height": 473,
       "width": 960,
-      "x": 1920,
+      "x": 0,
       "y": 0
     },
     "maximized": false,
     "normal_geometry": {
       "height": 473,
       "width": 960,
-      "x": 1920,
+      "x": 0,
       "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAd1////zwAAC0oAAAHjAAAHgAAAAAAAAAs/AAAB2AAAAAEAAAAAB4AAAAeAAAAAAAAACz8AAAHY"
+      "__value__": "AdnQywADAAD////1////zwAAA8oAAAHjAAAAAAAAAAAAAAO/AAAB2AAAAAAAAAAAB4AAAAAAAAAAAAAAA78AAAHY"
     },
     "screen": {
       "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920,
-        "x": 1920,
+        "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
-      "manufacturer": "HWP",
-      "model": "HP E242",
-      "name": "DP-3",
+      "index_in_screens_list": 0,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
       "serial": "",
       "size_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920
       },
       "virtual_geometry": {
@@ -393,10 +409,10 @@
   },
   "geometry-of-calibre_main_window_geometry": {
     "frame_geometry": {
-      "height": 1168,
-      "width": 1920,
-      "x": 1920,
-      "y": -38
+      "height": 1190,
+      "width": 1942,
+      "x": 1909,
+      "y": -49
     },
     "full_screened": false,
     "geometry": {
@@ -414,7 +430,58 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAeA////2gAADv8AAARpAAAHgAAAAAAAAA7/AAAEaQAAAAECAAAAB4AAAAeAAAAAAAAADv8AAARp"
+      "__value__": "AdnQywADAAAAAAd1////zwAADwoAAAR0AAAHgAAAAAAAAA7/AAAEaQAAAAACAAAAB4AAAAeAAAAAAAAADv8AAARp"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1200,
+        "width": 1920,
+        "x": 1920,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "HWP",
+      "model": "HP E242",
+      "name": "DP-3",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1200,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1200,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-choose-icon-theme-dialog-geometry": {
+    "frame_geometry": {
+      "height": 1185,
+      "width": 922,
+      "x": 1909,
+      "y": -49
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1125,
+      "width": 900,
+      "x": 1920,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1125,
+      "width": 900,
+      "x": 1920,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAd1////zwAACw4AAARvAAAHgAAAAAAAAAsDAAAEZAAAAAEAAAAAB4AAAAeAAAAAAAAACwMAAARk"
     },
     "screen": {
       "depth": 32,
@@ -442,33 +509,135 @@
       }
     }
   },
-  "geometry-of-choose-icon-theme-dialog-geometry": {
+  "geometry-of-convert_bulk_dialog_geom": {
     "frame_geometry": {
-      "height": 1157,
-      "width": 900,
-      "x": 2430,
-      "y": 32
+      "height": 1040,
+      "width": 1872,
+      "x": 14,
+      "y": -49
     },
     "full_screened": false,
     "geometry": {
-      "height": 1125,
-      "width": 900,
-      "x": 2430,
-      "y": 64
+      "height": 980,
+      "width": 1850,
+      "x": 25,
+      "y": 0
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 1125,
-      "width": 900,
-      "x": 2430,
-      "y": 64
+      "height": 980,
+      "width": 1850,
+      "x": 25,
+      "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAl+AAAAIAAADQEAAASkAAAJfgAAAEAAAA0BAAAEpAAAAAAAAAAAB4AAAAl+AAAAQAAADQEAAASk"
+      "__value__": "AdnQywADAAAAAAAO////zwAAB10AAAPeAAAAGQAAAAAAAAdSAAAD0wAAAAAAAAAAB4AAAAAZAAAAAAAAB1IAAAPT"
     },
     "screen": {
-      "depth": 24,
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1200,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-convert_single_dialog_geom": {
+    "frame_geometry": {
+      "height": 1040,
+      "width": 1872,
+      "x": 14,
+      "y": -49
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 980,
+      "width": 1850,
+      "x": 25,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 980,
+      "width": 1850,
+      "x": 25,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAO////zwAAB10AAAPeAAAAGQAAAAAAAAdSAAAD0wAAAAAAAAAAB4AAAAAZAAAAAAAAB1IAAAPT"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1200,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-customize-palette-geometry": {
+    "frame_geometry": {
+      "height": 615,
+      "width": 848,
+      "x": 1909,
+      "y": -49
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 555,
+      "width": 826,
+      "x": 1920,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 555,
+      "width": 826,
+      "x": 1920,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAd1////zwAACsQAAAI1AAAHgAAAAAAAAAq5AAACKgAAAAEAAAAAB4AAAAeAAAAAAAAACrkAAAIq"
+    },
+    "screen": {
+      "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
         "height": 1200,
@@ -476,11 +645,11 @@
         "x": 1920,
         "y": 0
       },
-      "index_in_screens_list": 0,
-      "manufacturer": "Hewlett Packard",
-      "model": "HP E242-",
-      "name": "DP-0",
-      "serial": "CNC6030CDZ-",
+      "index_in_screens_list": 1,
+      "manufacturer": "HWP",
+      "model": "HP E242",
+      "name": "DP-3",
+      "serial": "",
       "size_in_logical_pixels": {
         "height": 1200,
         "width": 1920
@@ -522,18 +691,18 @@
       "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920,
-        "x": 1920,
+        "x": 0,
         "y": 0
       },
       "index_in_screens_list": 0,
-      "manufacturer": "HWP",
-      "model": "HP E242",
-      "name": "DP-3",
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
       "serial": "",
       "size_in_logical_pixels": {
-        "height": 1200,
+        "height": 1080,
         "width": 1920
       },
       "virtual_geometry": {
@@ -567,7 +736,109 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAd1////zwAACzwAAAJ9AAAHgAAAAAAAAAsxAAACcgAAAAEAAAAAB4AAAAeAAAAAAAAACzEAAAJy"
+      "__value__": "AdnQywADAAAAAAd1////zwAACzwAAAJ9AAAHgAAAAAAAAAsxAAACcgAAAAAAAAAAB4AAAAeAAAAAAAAACzEAAAJy"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1200,
+        "width": 1920,
+        "x": 1920,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "HWP",
+      "model": "HP E242",
+      "name": "DP-3",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1200,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1200,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-manage-data-files-xx-geometry": {
+    "frame_geometry": {
+      "height": 560,
+      "width": 422,
+      "x": 739,
+      "y": 166
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 500,
+      "width": 400,
+      "x": 750,
+      "y": 215
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 500,
+      "width": 400,
+      "x": 750,
+      "y": 215
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAALjAAAApgAABIgAAALVAAAC7gAAANcAAAR9AAACygAAAAAAAAAAB4AAAALuAAAA1wAABH0AAALK"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1200,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-metadata_single_gui_geom": {
+    "frame_geometry": {
+      "height": 660,
+      "width": 925,
+      "x": -11,
+      "y": -49
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 903,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 903,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAD////1////zwAAA5EAAAJiAAAAAAAAAAAAAAOGAAACVwAAAAEAAAAAB4AAAAAAAAAAAAAAA4YAAAJX"
     },
     "screen": {
       "depth": 32,
@@ -595,98 +866,47 @@
       }
     }
   },
-  "geometry-of-metadata_single_gui_geom": {
+  "geometry-of-metasingle_window_geometry3": {
     "frame_geometry": {
-      "height": 660,
-      "width": 872,
+      "height": 750,
+      "width": 1155,
       "x": 1909,
       "y": -49
     },
     "full_screened": false,
     "geometry": {
-      "height": 600,
-      "width": 850,
+      "height": 690,
+      "width": 1133,
       "x": 1920,
       "y": 0
     },
     "maximized": false,
     "normal_geometry": {
-      "height": 600,
-      "width": 850,
+      "height": 690,
+      "width": 1133,
       "x": 1920,
       "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAd1////zwAACtwAAAJiAAAHgAAAAAAAAArRAAACVwAAAAAAAAAAB4AAAAeAAAAAAAAACtEAAAJX"
+      "__value__": "AdnQywADAAAAAAd1////zwAAC/cAAAK8AAAHgAAAAAAAAAvsAAACsQAAAAEAAAAAB4AAAAeAAAAAAAAAC+wAAAKx"
     },
     "screen": {
       "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
-        "height": 1080,
-        "width": 1920,
-        "x": 0,
-        "y": 0
-      },
-      "index_in_screens_list": 0,
-      "manufacturer": "BNQ",
-      "model": "BenQ GW2480",
-      "name": "DP-4",
-      "serial": "",
-      "size_in_logical_pixels": {
-        "height": 1080,
-        "width": 1920
-      },
-      "virtual_geometry": {
         "height": 1200,
-        "width": 3840,
-        "x": 0,
-        "y": 0
-      }
-    }
-  },
-  "geometry-of-metasingle_window_geometry3": {
-    "frame_geometry": {
-      "height": 1068,
-      "width": 1872,
-      "x": -11,
-      "y": -49
-    },
-    "full_screened": false,
-    "geometry": {
-      "height": 1008,
-      "width": 1850,
-      "x": 0,
-      "y": 0
-    },
-    "maximized": false,
-    "normal_geometry": {
-      "height": 1008,
-      "width": 1850,
-      "x": 0,
-      "y": 0
-    },
-    "qt": {
-      "__class__": "bytearray",
-      "__value__": "AdnQywADAAD////1////zwAAB0QAAAP6AAAAAAAAAAAAAAc5AAAD7wAAAAAAAAAAB4AAAAAAAAAAAAAABzkAAAPv"
-    },
-    "screen": {
-      "depth": 32,
-      "device_pixel_ratio": 1.0,
-      "geometry_in_logical_pixels": {
-        "height": 1080,
         "width": 1920,
-        "x": 0,
+        "x": 1920,
         "y": 0
       },
-      "index_in_screens_list": 0,
-      "manufacturer": "BNQ",
-      "model": "BenQ GW2480",
-      "name": "DP-4",
+      "index_in_screens_list": 1,
+      "manufacturer": "HWP",
+      "model": "HP E242",
+      "name": "DP-3",
       "serial": "",
       "size_in_logical_pixels": {
-        "height": 1080,
+        "height": 1200,
         "width": 1920
       },
       "virtual_geometry": {
@@ -799,6 +1019,57 @@
       }
     }
   },
+  "geometry-of-plugin config dialog:User interface action:OverDrive Libby": {
+    "frame_geometry": {
+      "height": 589,
+      "width": 482,
+      "x": 709,
+      "y": 152
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 529,
+      "width": 460,
+      "x": 720,
+      "y": 201
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 529,
+      "width": 460,
+      "x": 720,
+      "y": 201
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAALFAAAAmAAABKYAAALkAAAC0AAAAMkAAASbAAAC2QAAAAAAAAAAB4AAAALQAAAAyQAABJsAAALZ"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "BNQ",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1200,
+        "width": 3840,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-preferences dialog geometry": {
     "frame_geometry": {
       "height": 780,
@@ -822,7 +1093,7 @@
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAd1////zwAACywAAALaAAAHgAAAAAAAAAshAAACzwAAAAAAAAAAB4AAAAeAAAAAAAAACyEAAALP"
+      "__value__": "AdnQywADAAAAAAd1////zwAACywAAALaAAAHgAAAAAAAAAshAAACzwAAAAEAAAAAB4AAAAeAAAAAAAAACyEAAALP"
     },
     "screen": {
       "depth": 32,
@@ -833,7 +1104,7 @@
         "x": 1920,
         "y": 0
       },
-      "index_in_screens_list": 0,
+      "index_in_screens_list": 1,
       "manufacturer": "HWP",
       "model": "HP E242",
       "name": "DP-3",
@@ -955,14 +1226,15 @@
   "grid view visible": true,
   "jobs view column layout3": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAx4AAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAABjgAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAx4AAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAABjgAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=="
   },
   "kindle_collections plugin:edit settings dialog: geometry": {
     "__class__": "bytearray",
     "__value__": "AdnQywADAAAAAAd1////zwAACM8AAAB8AAAHgAAAAAAAAAjEAAAAcQAAAAAAAAAAB4AAAAeAAAAAAAAACMQAAABx"
   },
+  "last_used_language": "en_CA",
   "library_usage_stats": {
-    "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library": 26
+    "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library": 48
   },
   "main_window_central_widget_state": {
     "layout": "wide",
@@ -980,7 +1252,7 @@
       "tag_browser": true
     },
     "wide_desires": {
-      "book_details_width": 0.1609375,
+      "book_details_width": 0.3909378292939937,
       "cover_browser_height": 0.21576354679802956,
       "quick_view_height": 0.2611832611832612,
       "tag_browser_width": 0.15364583333333334
@@ -993,6 +1265,7 @@
       "tag_browser": true
     }
   },
+  "manage_data_files_last_sort_idx": 2,
   "memory_view books view state": {
     "column_alignment": {
       "size": "center",
@@ -1022,6 +1295,10 @@
     "path_injected": true,
     "sort_history": [
       [
+        "authors",
+        true
+      ],
+      [
         "timestamp",
         false
       ],
@@ -1047,7 +1324,13 @@
     "__class__": "bytearray",
     "__value__": "AAAA/wAAAAEAAAACAAACAAAAAQAA/////wEAAAABAA=="
   },
+  "modify epub plugin:options dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAKSAAAAzgAABNkAAAKtAAACnQAAAP8AAATOAAACogAAAAAAAAAAB4AAAAKdAAAA/wAABM4AAAKi"
+  },
   "previous_sort_order_DeviceBooksView": {
+    "authors": true,
+    "inlibrary": true,
     "size": false
   },
   "quick_start_guide_added": true,
@@ -1059,9 +1342,9 @@
   ],
   "qv_open_at_shutdown": false,
   "recently_used_languages": [
+    "French",
     "English",
     "Spanish",
-    "French",
     "Portuguese"
   ],
   "replace_scene_breaks_history": [

@@ -1,7 +1,7 @@
 {
   "check-book-splitter-state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAEAAAACAAAAQgAAAEIA/////wEAAAABAA=="
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
   },
   "custom_colors_for_color_dialog": [
     [
@@ -162,31 +162,31 @@
   },
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
-      "height": 1048,
-      "width": 1920,
-      "x": 0,
-      "y": 32
+      "height": 1070,
+      "width": 1942,
+      "x": -11,
+      "y": -17
     },
     "full_screened": false,
     "geometry": {
-      "height": 1048,
+      "height": 1010,
       "width": 1920,
       "x": 0,
       "y": 32
     },
-    "maximized": false,
+    "maximized": true,
     "normal_geometry": {
-      "height": 1048,
+      "height": 1010,
       "width": 1920,
       "x": 0,
       "y": 32
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAAAAAAAIAAAB38AAAQ3AAAAAAAAACAAAAd/AAAENwAAAAEAAAAAB4AAAAAAAAAAIAAAB38AAAQ3"
+      "__value__": "AdnQywADAAD////1////7wAAB4oAAAQcAAAAAAAAACAAAAd/AAAEEQAAAAACAAAAB4AAAAAAAAAAIAAAB38AAAQR"
     },
     "screen": {
-      "depth": 24,
+      "depth": 32,
       "device_pixel_ratio": 1.0,
       "geometry_in_logical_pixels": {
         "height": 1080,
@@ -194,11 +194,11 @@
         "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
+      "index_in_screens_list": 0,
       "manufacturer": "BNQ",
-      "model": "BenQ GW2480-",
-      "name": "DP-1",
-      "serial": "ETK7M0174804U",
+      "model": "BenQ GW2480",
+      "name": "DP-4",
+      "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
         "width": 1920
@@ -213,8 +213,11 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAADyvwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAADgAAAPKAAAAUwD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFMA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHIA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAH8A////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAdgA////AAAAAQAAAccAAAPK/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAOAAAA8oAAABIAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABTAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAhwD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAAxAP///wAABK8AAAPKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABFv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAADoPwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAADwAAAOgAAAAVwD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFcA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHcA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAfUA////AAAAAQAAAccAAAOg/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAPAAAA6AAAABOAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABXAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAAyAP///wAABK0AAAOgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
   },
+  "recent-books": [
+    "/home/storage/Diego-Ortiz/OneDrive/Colecciones/Calibre Library/Yume Kitasei/The Stardust Grail (1819)/The Stardust Grail - Yume Kitasei.epub"
+  ],
   "reports-ui-state": {},
   "saved_seaches_state": {
     "direction": "down",
