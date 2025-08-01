@@ -7,6 +7,7 @@ brew=(
     fzf
     gcc
     git
+    git-delta
     git-flow
     glib
     go

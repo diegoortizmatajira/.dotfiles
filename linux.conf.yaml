@@ -26,6 +26,10 @@
       description: WhiteSur GTK Theme
       url: "https://github.com/vinceliuice/WhiteSur-gtk-theme"
       method: clone-or-pull
+    "external/MacTahoe-gtk-theme":
+      description: MacTahoe GTK Theme
+      url: "https://github.com/vinceliuice/MacTahoe-gtk-theme"
+      method: clone-or-pull
 - link:
     # Zsh config files
     ~/.zsh_os: linux/zsh_os.sh
@@ -47,6 +51,8 @@
     ~/.config/awesome: external/awesome
     # Onedrive
     ~/.config/onedrive/config: linux/onedrive/config
+    # Lazygit
+    ~/.config/lazygit/config.yml: lazygit/config.yml
 
     # Custom commands
     ~/.local/bin/custom-askpoweroptions: linux/local-bin/custom-askpoweroptions
@@ -82,3 +88,4 @@
     - [
         external/WhiteSur-gtk-theme/install.sh --nautilus glassy --shell -panelopacity 45,
       ]
+    - [external/MacTahoe-gtk-theme/install.sh -o solid]
