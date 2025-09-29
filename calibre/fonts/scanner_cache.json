@@ -972,7 +972,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/home/diegoortizmatajira/.dotfiles/local-fonts/Calibri.ttf||352736:1676930989.4803486": {
+    "/home/diegoortizmatajira/.dotfiles/local-fonts/Calibri.ttf||1648120:1754064867.2062132": {
       "family_name": "Calibri",
       "font-family": "Calibri",
       "font-stretch": "normal",
@@ -8172,7 +8172,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-Bold.otf||1855384:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-Bold.otf||245988:1757184537.0": {
       "family_name": "Monaspace Argon",
       "font-family": "Monaspace Argon",
       "font-stretch": "normal",
@@ -8208,7 +8208,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-BoldItalic.otf||1875532:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-BoldItalic.otf||254360:1757184537.0": {
       "family_name": "Monaspace Argon",
       "font-family": "Monaspace Argon",
       "font-stretch": "normal",
@@ -8244,7 +8244,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-ExtraBold.otf||1856036:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-ExtraBold.otf||239336:1757184537.0": {
       "family_name": "Monaspace Argon ExtraBold",
       "font-family": "Monaspace Argon ExtraBold",
       "font-stretch": "normal",
@@ -8280,7 +8280,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-ExtraBoldItalic.otf||1873608:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-ExtraBoldItalic.otf||243696:1757184537.0": {
       "family_name": "Monaspace Argon ExtraBold",
       "font-family": "Monaspace Argon ExtraBold",
       "font-stretch": "normal",
@@ -8310,13 +8310,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-ExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-ExtraLight.otf||1813968:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-ExtraLight.otf||230028:1757184537.0": {
       "family_name": "Monaspace Argon ExtraLight",
       "font-family": "Monaspace Argon ExtraLight",
       "font-stretch": "normal",
@@ -8352,7 +8352,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-ExtraLightItalic.otf||1831524:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-ExtraLightItalic.otf||234144:1757184537.0": {
       "family_name": "Monaspace Argon ExtraLight",
       "font-family": "Monaspace Argon ExtraLight",
       "font-stretch": "normal",
@@ -8382,13 +8382,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-ExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-Italic.otf||1852476:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-Italic.otf||251776:1757184537.0": {
       "family_name": "Monaspace Argon",
       "font-family": "Monaspace Argon",
       "font-stretch": "normal",
@@ -8424,7 +8424,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-Light.otf||1822872:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-Light.otf||242632:1757184537.0": {
       "family_name": "Monaspace Argon Light",
       "font-family": "Monaspace Argon Light",
       "font-stretch": "normal",
@@ -8460,7 +8460,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-LightItalic.otf||1842444:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-LightItalic.otf||249684:1757184537.0": {
       "family_name": "Monaspace Argon Light",
       "font-family": "Monaspace Argon Light",
       "font-stretch": "normal",
@@ -8490,13 +8490,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-LightItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-Medium.otf||1842424:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-Medium.otf||240616:1757184537.0": {
       "family_name": "Monaspace Argon Medium",
       "font-family": "Monaspace Argon Medium",
       "font-stretch": "normal",
@@ -8532,7 +8532,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-MediumItalic.otf||1861276:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-MediumItalic.otf||249528:1757184537.0": {
       "family_name": "Monaspace Argon Medium",
       "font-family": "Monaspace Argon Medium",
       "font-stretch": "normal",
@@ -8562,13 +8562,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-MediumItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-Regular.otf||1835052:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-Regular.otf||243152:1757184537.0": {
       "family_name": "Monaspace Argon",
       "font-family": "Monaspace Argon",
       "font-stretch": "normal",
@@ -8604,7 +8604,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiBold.otf||1850168:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiBold.otf||245688:1757184537.0": {
       "family_name": "Monaspace Argon SemiBold",
       "font-family": "Monaspace Argon SemiBold",
       "font-stretch": "normal",
@@ -8640,7 +8640,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiBoldItalic.otf||1868752:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiBoldItalic.otf||253892:1757184537.0": {
       "family_name": "Monaspace Argon SemiBold",
       "font-family": "Monaspace Argon SemiBold",
       "font-stretch": "normal",
@@ -8670,13 +8670,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-SemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideBold.otf||1862896:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideBold.otf||247924:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide",
       "font-family": "Monaspace Argon SemiWide",
       "font-stretch": "semi-expanded",
@@ -8712,7 +8712,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideBoldItalic.otf||1879888:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideBoldItalic.otf||256428:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide",
       "font-family": "Monaspace Argon SemiWide",
       "font-stretch": "semi-expanded",
@@ -8748,7 +8748,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraBold.otf||1862840:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraBold.otf||241992:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide ExtraBold",
       "font-family": "Monaspace Argon SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -8784,7 +8784,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraBoldItalic.otf||1880256:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraBoldItalic.otf||249356:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide ExtraBold",
       "font-family": "Monaspace Argon SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -8814,13 +8814,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "SemiWide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraLight.otf||1821020:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraLight.otf||233316:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide ExtraLight",
       "font-family": "Monaspace Argon SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -8856,7 +8856,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraLightItalic.otf||1837452:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraLightItalic.otf||237848:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide ExtraLight",
       "font-family": "Monaspace Argon SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -8886,13 +8886,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "SemiWide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideItalic.otf||1859444:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideItalic.otf||251596:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide",
       "font-family": "Monaspace Argon SemiWide",
       "font-stretch": "semi-expanded",
@@ -8922,13 +8922,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "SemiWide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideLight.otf||1829380:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideLight.otf||243788:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide Light",
       "font-family": "Monaspace Argon SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -8964,7 +8964,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideLightItalic.otf||1850464:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideLightItalic.otf||251508:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide Light",
       "font-family": "Monaspace Argon SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -8994,13 +8994,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideLightItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "SemiWide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideMedium.otf||1848096:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideMedium.otf||242748:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide Medium",
       "font-family": "Monaspace Argon SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -9036,7 +9036,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideMediumItalic.otf||1867028:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideMediumItalic.otf||251272:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide Medium",
       "font-family": "Monaspace Argon SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -9066,13 +9066,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideMediumItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "SemiWide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideRegular.otf||1839992:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideRegular.otf||244592:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide",
       "font-family": "Monaspace Argon SemiWide",
       "font-stretch": "semi-expanded",
@@ -9108,7 +9108,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideSemiBold.otf||1855860:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideSemiBold.otf||245784:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide SemiBold",
       "font-family": "Monaspace Argon SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -9144,7 +9144,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideSemiBoldItalic.otf||1876164:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideSemiBoldItalic.otf||253872:1757184537.0": {
       "family_name": "Monaspace Argon SemiWide SemiBold",
       "font-family": "Monaspace Argon SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -9174,13 +9174,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-SemiWideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "SemiWide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideBold.otf||1863908:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideBold.otf||248264:1757184537.0": {
       "family_name": "Monaspace Argon Wide",
       "font-family": "Monaspace Argon Wide",
       "font-stretch": "expanded",
@@ -9216,7 +9216,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideBoldItalic.otf||1882076:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideBoldItalic.otf||254952:1757184537.0": {
       "family_name": "Monaspace Argon Wide",
       "font-family": "Monaspace Argon Wide",
       "font-stretch": "expanded",
@@ -9252,7 +9252,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraBold.otf||1862036:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraBold.otf||239308:1757184537.0": {
       "family_name": "Monaspace Argon Wide ExtraBold",
       "font-family": "Monaspace Argon Wide ExtraBold",
       "font-stretch": "expanded",
@@ -9288,7 +9288,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraBoldItalic.otf||1880000:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraBoldItalic.otf||246156:1757184537.0": {
       "family_name": "Monaspace Argon Wide ExtraBold",
       "font-family": "Monaspace Argon Wide ExtraBold",
       "font-stretch": "expanded",
@@ -9318,13 +9318,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "Wide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraLight.otf||1822036:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraLight.otf||231320:1757184537.0": {
       "family_name": "Monaspace Argon Wide ExtraLight",
       "font-family": "Monaspace Argon Wide ExtraLight",
       "font-stretch": "expanded",
@@ -9360,7 +9360,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraLightItalic.otf||1837696:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraLightItalic.otf||235536:1757184537.0": {
       "family_name": "Monaspace Argon Wide ExtraLight",
       "font-family": "Monaspace Argon Wide ExtraLight",
       "font-stretch": "expanded",
@@ -9390,13 +9390,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-WideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "Wide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideItalic.otf||1861880:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideItalic.otf||251604:1757184537.0": {
       "family_name": "Monaspace Argon Wide",
       "font-family": "Monaspace Argon Wide",
       "font-stretch": "expanded",
@@ -9426,13 +9426,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-WideItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "Wide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideLight.otf||1830692:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideLight.otf||244560:1757184537.0": {
       "family_name": "Monaspace Argon Wide Light",
       "font-family": "Monaspace Argon Wide Light",
       "font-stretch": "expanded",
@@ -9468,7 +9468,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideLightItalic.otf||1848396:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideLightItalic.otf||251400:1757184537.0": {
       "family_name": "Monaspace Argon Wide Light",
       "font-family": "Monaspace Argon Wide Light",
       "font-stretch": "expanded",
@@ -9498,13 +9498,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-WideLightItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "Wide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideMedium.otf||1848584:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideMedium.otf||243260:1757184537.0": {
       "family_name": "Monaspace Argon Wide Medium",
       "font-family": "Monaspace Argon Wide Medium",
       "font-stretch": "expanded",
@@ -9540,7 +9540,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideMediumItalic.otf||1866744:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideMediumItalic.otf||250420:1757184537.0": {
       "family_name": "Monaspace Argon Wide Medium",
       "font-family": "Monaspace Argon Wide Medium",
       "font-stretch": "expanded",
@@ -9570,13 +9570,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-WideMediumItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "Wide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideRegular.otf||1843040:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideRegular.otf||245004:1757184537.0": {
       "family_name": "Monaspace Argon Wide",
       "font-family": "Monaspace Argon Wide",
       "font-stretch": "expanded",
@@ -9612,7 +9612,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideSemiBold.otf||1857012:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideSemiBold.otf||244400:1757184537.0": {
       "family_name": "Monaspace Argon Wide SemiBold",
       "font-family": "Monaspace Argon Wide SemiBold",
       "font-stretch": "expanded",
@@ -9648,7 +9648,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceArgon-WideSemiBoldItalic.otf||1874964:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceArgon-WideSemiBoldItalic.otf||251720:1757184537.0": {
       "family_name": "Monaspace Argon Wide SemiBold",
       "font-family": "Monaspace Argon Wide SemiBold",
       "font-stretch": "expanded",
@@ -9678,13 +9678,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceArgon-WideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Argon",
       "preferred_subfamily_name": "Wide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-Bold.otf||1843284:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-Bold.otf||231052:1757184537.0": {
       "family_name": "Monaspace Krypton",
       "font-family": "Monaspace Krypton",
       "font-stretch": "normal",
@@ -9720,7 +9720,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-BoldItalic.otf||1859828:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-BoldItalic.otf||234780:1757184537.0": {
       "family_name": "Monaspace Krypton",
       "font-family": "Monaspace Krypton",
       "font-stretch": "normal",
@@ -9756,7 +9756,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraBold.otf||1844236:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraBold.otf||224784:1757184537.0": {
       "family_name": "Monaspace Krypton ExtraBold",
       "font-family": "Monaspace Krypton ExtraBold",
       "font-stretch": "normal",
@@ -9792,7 +9792,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraBoldItalic.otf||1859740:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraBoldItalic.otf||226272:1757184537.0": {
       "family_name": "Monaspace Krypton ExtraBold",
       "font-family": "Monaspace Krypton ExtraBold",
       "font-stretch": "normal",
@@ -9822,13 +9822,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraLight.otf||1803912:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraLight.otf||217948:1757184537.0": {
       "family_name": "Monaspace Krypton ExtraLight",
       "font-family": "Monaspace Krypton ExtraLight",
       "font-stretch": "normal",
@@ -9864,7 +9864,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraLightItalic.otf||1825844:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraLightItalic.otf||221228:1757184537.0": {
       "family_name": "Monaspace Krypton ExtraLight",
       "font-family": "Monaspace Krypton ExtraLight",
       "font-stretch": "normal",
@@ -9894,13 +9894,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-ExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-Italic.otf||1841632:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-Italic.otf||233608:1757184537.0": {
       "family_name": "Monaspace Krypton",
       "font-family": "Monaspace Krypton",
       "font-stretch": "normal",
@@ -9936,7 +9936,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-Light.otf||1812248:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-Light.otf||228524:1757184537.0": {
       "family_name": "Monaspace Krypton Light",
       "font-family": "Monaspace Krypton Light",
       "font-stretch": "normal",
@@ -9972,7 +9972,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-LightItalic.otf||1837480:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-LightItalic.otf||233856:1757184537.0": {
       "family_name": "Monaspace Krypton Light",
       "font-family": "Monaspace Krypton Light",
       "font-stretch": "normal",
@@ -10002,13 +10002,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-LightItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-Medium.otf||1831560:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-Medium.otf||227648:1757184537.0": {
       "family_name": "Monaspace Krypton Medium",
       "font-family": "Monaspace Krypton Medium",
       "font-stretch": "normal",
@@ -10044,7 +10044,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-MediumItalic.otf||1846160:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-MediumItalic.otf||231320:1757184537.0": {
       "family_name": "Monaspace Krypton Medium",
       "font-family": "Monaspace Krypton Medium",
       "font-stretch": "normal",
@@ -10074,13 +10074,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-MediumItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-Regular.otf||1822796:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-Regular.otf||228548:1757184537.0": {
       "family_name": "Monaspace Krypton",
       "font-family": "Monaspace Krypton",
       "font-stretch": "normal",
@@ -10116,7 +10116,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiBold.otf||1838656:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiBold.otf||230248:1757184537.0": {
       "family_name": "Monaspace Krypton SemiBold",
       "font-family": "Monaspace Krypton SemiBold",
       "font-stretch": "normal",
@@ -10152,7 +10152,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiBoldItalic.otf||1854524:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiBoldItalic.otf||234008:1757184537.0": {
       "family_name": "Monaspace Krypton SemiBold",
       "font-family": "Monaspace Krypton SemiBold",
       "font-stretch": "normal",
@@ -10182,13 +10182,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-SemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideBold.otf||1849784:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideBold.otf||234652:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide",
       "font-family": "Monaspace Krypton SemiWide",
       "font-stretch": "semi-expanded",
@@ -10224,7 +10224,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideBoldItalic.otf||1864376:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideBoldItalic.otf||238160:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide",
       "font-family": "Monaspace Krypton SemiWide",
       "font-stretch": "semi-expanded",
@@ -10260,7 +10260,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraBold.otf||1850724:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraBold.otf||229868:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide ExtraBold",
       "font-family": "Monaspace Krypton SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -10296,7 +10296,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraBoldItalic.otf||1866372:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraBoldItalic.otf||232668:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide ExtraBold",
       "font-family": "Monaspace Krypton SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -10326,13 +10326,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "SemiWide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraLight.otf||1809944:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraLight.otf||221372:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide ExtraLight",
       "font-family": "Monaspace Krypton SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -10368,7 +10368,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraLightItalic.otf||1832032:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraLightItalic.otf||226824:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide ExtraLight",
       "font-family": "Monaspace Krypton SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -10398,13 +10398,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "SemiWide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideItalic.otf||1848016:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideItalic.otf||235412:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide",
       "font-family": "Monaspace Krypton SemiWide",
       "font-stretch": "semi-expanded",
@@ -10434,13 +10434,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "SemiWide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideLight.otf||1819256:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideLight.otf||230908:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide Light",
       "font-family": "Monaspace Krypton SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -10476,7 +10476,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideLightItalic.otf||1845424:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideLightItalic.otf||237000:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide Light",
       "font-family": "Monaspace Krypton SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -10506,13 +10506,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideLightItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "SemiWide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideMedium.otf||1836980:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideMedium.otf||230868:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide Medium",
       "font-family": "Monaspace Krypton SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -10548,7 +10548,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideMediumItalic.otf||1853584:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideMediumItalic.otf||235388:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide Medium",
       "font-family": "Monaspace Krypton SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -10578,13 +10578,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideMediumItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "SemiWide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideRegular.otf||1828520:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideRegular.otf||231488:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide",
       "font-family": "Monaspace Krypton SemiWide",
       "font-stretch": "semi-expanded",
@@ -10620,7 +10620,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideSemiBold.otf||1844140:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideSemiBold.otf||234444:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide SemiBold",
       "font-family": "Monaspace Krypton SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -10656,7 +10656,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideSemiBoldItalic.otf||1862684:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideSemiBoldItalic.otf||238140:1757184537.0": {
       "family_name": "Monaspace Krypton SemiWide SemiBold",
       "font-family": "Monaspace Krypton SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -10686,13 +10686,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-SemiWideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "SemiWide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideBold.otf||1852316:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideBold.otf||234524:1757184537.0": {
       "family_name": "Monaspace Krypton Wide",
       "font-family": "Monaspace Krypton Wide",
       "font-stretch": "expanded",
@@ -10728,7 +10728,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideBoldItalic.otf||1868576:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideBoldItalic.otf||238324:1757184537.0": {
       "family_name": "Monaspace Krypton Wide",
       "font-family": "Monaspace Krypton Wide",
       "font-stretch": "expanded",
@@ -10764,7 +10764,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraBold.otf||1852424:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraBold.otf||227936:1757184537.0": {
       "family_name": "Monaspace Krypton Wide ExtraBold",
       "font-family": "Monaspace Krypton Wide ExtraBold",
       "font-stretch": "expanded",
@@ -10800,7 +10800,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraBoldItalic.otf||1865452:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraBoldItalic.otf||229536:1757184537.0": {
       "family_name": "Monaspace Krypton Wide ExtraBold",
       "font-family": "Monaspace Krypton Wide ExtraBold",
       "font-stretch": "expanded",
@@ -10830,13 +10830,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "Wide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraLight.otf||1812216:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraLight.otf||220616:1757184537.0": {
       "family_name": "Monaspace Krypton Wide ExtraLight",
       "font-family": "Monaspace Krypton Wide ExtraLight",
       "font-stretch": "expanded",
@@ -10872,7 +10872,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraLightItalic.otf||1832840:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraLightItalic.otf||224576:1757184537.0": {
       "family_name": "Monaspace Krypton Wide ExtraLight",
       "font-family": "Monaspace Krypton Wide ExtraLight",
       "font-stretch": "expanded",
@@ -10902,13 +10902,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-WideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "Wide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideItalic.otf||1848788:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideItalic.otf||235400:1757184537.0": {
       "family_name": "Monaspace Krypton Wide",
       "font-family": "Monaspace Krypton Wide",
       "font-stretch": "expanded",
@@ -10938,13 +10938,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-WideItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "Wide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideLight.otf||1820004:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideLight.otf||230200:1757184537.0": {
       "family_name": "Monaspace Krypton Wide Light",
       "font-family": "Monaspace Krypton Wide Light",
       "font-stretch": "expanded",
@@ -10980,7 +10980,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideLightItalic.otf||1844728:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideLightItalic.otf||236672:1757184537.0": {
       "family_name": "Monaspace Krypton Wide Light",
       "font-family": "Monaspace Krypton Wide Light",
       "font-stretch": "expanded",
@@ -11010,13 +11010,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-WideLightItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "Wide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideMedium.otf||1838080:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideMedium.otf||230576:1757184537.0": {
       "family_name": "Monaspace Krypton Wide Medium",
       "font-family": "Monaspace Krypton Wide Medium",
       "font-stretch": "expanded",
@@ -11052,7 +11052,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideMediumItalic.otf||1852872:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideMediumItalic.otf||234200:1757184537.0": {
       "family_name": "Monaspace Krypton Wide Medium",
       "font-family": "Monaspace Krypton Wide Medium",
       "font-stretch": "expanded",
@@ -11082,13 +11082,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-WideMediumItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "Wide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideRegular.otf||1831064:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideRegular.otf||231244:1757184537.0": {
       "family_name": "Monaspace Krypton Wide",
       "font-family": "Monaspace Krypton Wide",
       "font-stretch": "expanded",
@@ -11124,7 +11124,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideSemiBold.otf||1846464:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideSemiBold.otf||233556:1757184537.0": {
       "family_name": "Monaspace Krypton Wide SemiBold",
       "font-family": "Monaspace Krypton Wide SemiBold",
       "font-stretch": "expanded",
@@ -11160,7 +11160,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceKrypton-WideSemiBoldItalic.otf||1861248:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceKrypton-WideSemiBoldItalic.otf||235572:1757184537.0": {
       "family_name": "Monaspace Krypton Wide SemiBold",
       "font-family": "Monaspace Krypton Wide SemiBold",
       "font-stretch": "expanded",
@@ -11190,13 +11190,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceKrypton-WideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Krypton",
       "preferred_subfamily_name": "Wide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-Bold.otf||1855252:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-Bold.otf||245876:1757184537.0": {
       "family_name": "Monaspace Neon",
       "font-family": "Monaspace Neon",
       "font-stretch": "normal",
@@ -11232,7 +11232,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-BoldItalic.otf||1872400:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-BoldItalic.otf||252820:1757184537.0": {
       "family_name": "Monaspace Neon",
       "font-family": "Monaspace Neon",
       "font-stretch": "normal",
@@ -11268,7 +11268,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-ExtraBold.otf||1855192:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-ExtraBold.otf||238712:1757184537.0": {
       "family_name": "Monaspace Neon ExtraBold",
       "font-family": "Monaspace Neon ExtraBold",
       "font-stretch": "normal",
@@ -11304,7 +11304,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-ExtraBoldItalic.otf||1871860:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-ExtraBoldItalic.otf||242960:1757184537.0": {
       "family_name": "Monaspace Neon ExtraBold",
       "font-family": "Monaspace Neon ExtraBold",
       "font-stretch": "normal",
@@ -11334,13 +11334,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-ExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-ExtraLight.otf||1814452:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-ExtraLight.otf||231572:1757184537.0": {
       "family_name": "Monaspace Neon ExtraLight",
       "font-family": "Monaspace Neon ExtraLight",
       "font-stretch": "normal",
@@ -11376,7 +11376,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-ExtraLightItalic.otf||1830852:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-ExtraLightItalic.otf||234600:1757184537.0": {
       "family_name": "Monaspace Neon ExtraLight",
       "font-family": "Monaspace Neon ExtraLight",
       "font-stretch": "normal",
@@ -11406,13 +11406,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-ExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-Italic.otf||1852104:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-Italic.otf||251212:1757184537.0": {
       "family_name": "Monaspace Neon",
       "font-family": "Monaspace Neon",
       "font-stretch": "normal",
@@ -11448,7 +11448,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-Light.otf||1825208:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-Light.otf||244328:1757184537.0": {
       "family_name": "Monaspace Neon Light",
       "font-family": "Monaspace Neon Light",
       "font-stretch": "normal",
@@ -11484,7 +11484,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-LightItalic.otf||1843572:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-LightItalic.otf||249656:1757184537.0": {
       "family_name": "Monaspace Neon Light",
       "font-family": "Monaspace Neon Light",
       "font-stretch": "normal",
@@ -11514,13 +11514,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-LightItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-Medium.otf||1842200:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-Medium.otf||241444:1757184537.0": {
       "family_name": "Monaspace Neon Medium",
       "font-family": "Monaspace Neon Medium",
       "font-stretch": "normal",
@@ -11556,7 +11556,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-MediumItalic.otf||1857020:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-MediumItalic.otf||247532:1757184537.0": {
       "family_name": "Monaspace Neon Medium",
       "font-family": "Monaspace Neon Medium",
       "font-stretch": "normal",
@@ -11586,13 +11586,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-MediumItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-Regular.otf||1835712:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-Regular.otf||245112:1757184537.0": {
       "family_name": "Monaspace Neon",
       "font-family": "Monaspace Neon",
       "font-stretch": "normal",
@@ -11628,7 +11628,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiBold.otf||1848996:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiBold.otf||245160:1757184537.0": {
       "family_name": "Monaspace Neon SemiBold",
       "font-family": "Monaspace Neon SemiBold",
       "font-stretch": "normal",
@@ -11664,7 +11664,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiBoldItalic.otf||1865252:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiBoldItalic.otf||251216:1757184537.0": {
       "family_name": "Monaspace Neon SemiBold",
       "font-family": "Monaspace Neon SemiBold",
       "font-stretch": "normal",
@@ -11694,13 +11694,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-SemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideBold.otf||1861736:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideBold.otf||246988:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide",
       "font-family": "Monaspace Neon SemiWide",
       "font-stretch": "semi-expanded",
@@ -11736,7 +11736,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideBoldItalic.otf||1877244:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideBoldItalic.otf||253012:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide",
       "font-family": "Monaspace Neon SemiWide",
       "font-stretch": "semi-expanded",
@@ -11772,7 +11772,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraBold.otf||1862120:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraBold.otf||241628:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide ExtraBold",
       "font-family": "Monaspace Neon SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -11808,7 +11808,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraBoldItalic.otf||1879016:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraBoldItalic.otf||247680:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide ExtraBold",
       "font-family": "Monaspace Neon SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -11838,13 +11838,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "SemiWide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraLight.otf||1822056:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraLight.otf||231876:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide ExtraLight",
       "font-family": "Monaspace Neon SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -11880,7 +11880,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraLightItalic.otf||1838680:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraLightItalic.otf||237660:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide ExtraLight",
       "font-family": "Monaspace Neon SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -11910,13 +11910,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "SemiWide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideItalic.otf||1858940:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideItalic.otf||250564:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide",
       "font-family": "Monaspace Neon SemiWide",
       "font-stretch": "semi-expanded",
@@ -11946,13 +11946,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "SemiWide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideLight.otf||1829712:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideLight.otf||244236:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide Light",
       "font-family": "Monaspace Neon SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -11988,7 +11988,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideLightItalic.otf||1849916:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideLightItalic.otf||249852:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide Light",
       "font-family": "Monaspace Neon SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -12018,13 +12018,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideLightItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "SemiWide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideMedium.otf||1848172:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideMedium.otf||242852:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide Medium",
       "font-family": "Monaspace Neon SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -12060,7 +12060,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideMediumItalic.otf||1864224:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideMediumItalic.otf||248748:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide Medium",
       "font-family": "Monaspace Neon SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -12090,13 +12090,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideMediumItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "SemiWide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideRegular.otf||1841032:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideRegular.otf||242992:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide",
       "font-family": "Monaspace Neon SemiWide",
       "font-stretch": "semi-expanded",
@@ -12132,7 +12132,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideSemiBold.otf||1855576:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideSemiBold.otf||244300:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide SemiBold",
       "font-family": "Monaspace Neon SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -12168,7 +12168,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideSemiBoldItalic.otf||1873376:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideSemiBoldItalic.otf||250480:1757184537.0": {
       "family_name": "Monaspace Neon SemiWide SemiBold",
       "font-family": "Monaspace Neon SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -12198,13 +12198,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-SemiWideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "SemiWide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideBold.otf||1863756:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideBold.otf||245196:1757184537.0": {
       "family_name": "Monaspace Neon Wide",
       "font-family": "Monaspace Neon Wide",
       "font-stretch": "expanded",
@@ -12240,7 +12240,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideBoldItalic.otf||1879856:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideBoldItalic.otf||252720:1757184537.0": {
       "family_name": "Monaspace Neon Wide",
       "font-family": "Monaspace Neon Wide",
       "font-stretch": "expanded",
@@ -12276,7 +12276,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraBold.otf||1862836:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraBold.otf||239660:1757184537.0": {
       "family_name": "Monaspace Neon Wide ExtraBold",
       "font-family": "Monaspace Neon Wide ExtraBold",
       "font-stretch": "expanded",
@@ -12312,7 +12312,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraBoldItalic.otf||1877376:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraBoldItalic.otf||243892:1757184537.0": {
       "family_name": "Monaspace Neon Wide ExtraBold",
       "font-family": "Monaspace Neon Wide ExtraBold",
       "font-stretch": "expanded",
@@ -12342,13 +12342,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "Wide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraLight.otf||1822596:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraLight.otf||232076:1757184537.0": {
       "family_name": "Monaspace Neon Wide ExtraLight",
       "font-family": "Monaspace Neon Wide ExtraLight",
       "font-stretch": "expanded",
@@ -12384,7 +12384,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraLightItalic.otf||1837340:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraLightItalic.otf||235332:1757184537.0": {
       "family_name": "Monaspace Neon Wide ExtraLight",
       "font-family": "Monaspace Neon Wide ExtraLight",
       "font-stretch": "expanded",
@@ -12414,13 +12414,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-WideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "Wide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideItalic.otf||1860420:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideItalic.otf||250428:1757184537.0": {
       "family_name": "Monaspace Neon Wide",
       "font-family": "Monaspace Neon Wide",
       "font-stretch": "expanded",
@@ -12450,13 +12450,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-WideItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "Wide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideLight.otf||1831392:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideLight.otf||242936:1757184537.0": {
       "family_name": "Monaspace Neon Wide Light",
       "font-family": "Monaspace Neon Wide Light",
       "font-stretch": "expanded",
@@ -12492,7 +12492,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideLightItalic.otf||1849264:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideLightItalic.otf||249444:1757184537.0": {
       "family_name": "Monaspace Neon Wide Light",
       "font-family": "Monaspace Neon Wide Light",
       "font-stretch": "expanded",
@@ -12522,13 +12522,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-WideLightItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "Wide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideMedium.otf||1848888:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideMedium.otf||242000:1757184537.0": {
       "family_name": "Monaspace Neon Wide Medium",
       "font-family": "Monaspace Neon Wide Medium",
       "font-stretch": "expanded",
@@ -12564,7 +12564,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideMediumItalic.otf||1865232:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideMediumItalic.otf||247648:1757184537.0": {
       "family_name": "Monaspace Neon Wide Medium",
       "font-family": "Monaspace Neon Wide Medium",
       "font-stretch": "expanded",
@@ -12594,13 +12594,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-WideMediumItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "Wide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideRegular.otf||1843288:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideRegular.otf||243624:1757184537.0": {
       "family_name": "Monaspace Neon Wide",
       "font-family": "Monaspace Neon Wide",
       "font-stretch": "expanded",
@@ -12636,7 +12636,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideSemiBold.otf||1857364:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideSemiBold.otf||243628:1757184537.0": {
       "family_name": "Monaspace Neon Wide SemiBold",
       "font-family": "Monaspace Neon Wide SemiBold",
       "font-stretch": "expanded",
@@ -12672,7 +12672,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceNeon-WideSemiBoldItalic.otf||1872008:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceNeon-WideSemiBoldItalic.otf||248908:1757184537.0": {
       "family_name": "Monaspace Neon Wide SemiBold",
       "font-family": "Monaspace Neon Wide SemiBold",
       "font-stretch": "expanded",
@@ -12702,13 +12702,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceNeon-WideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Neon",
       "preferred_subfamily_name": "Wide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-Bold.otf||1839628:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-Bold.otf||263732:1757184537.0": {
       "family_name": "Monaspace Radon",
       "font-family": "Monaspace Radon",
       "font-stretch": "normal",
@@ -12744,7 +12744,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-BoldItalic.otf||1861036:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-BoldItalic.otf||271988:1757184537.0": {
       "family_name": "Monaspace Radon",
       "font-family": "Monaspace Radon",
       "font-stretch": "normal",
@@ -12780,7 +12780,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-ExtraBold.otf||1830976:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-ExtraBold.otf||248256:1757184537.0": {
       "family_name": "Monaspace Radon ExtraBold",
       "font-family": "Monaspace Radon ExtraBold",
       "font-stretch": "normal",
@@ -12816,7 +12816,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-ExtraBoldItalic.otf||1849716:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-ExtraBoldItalic.otf||256672:1757184537.0": {
       "family_name": "Monaspace Radon ExtraBold",
       "font-family": "Monaspace Radon ExtraBold",
       "font-stretch": "normal",
@@ -12846,13 +12846,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-ExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-ExtraLight.otf||1833396:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-ExtraLight.otf||250616:1757184537.0": {
       "family_name": "Monaspace Radon ExtraLight",
       "font-family": "Monaspace Radon ExtraLight",
       "font-stretch": "normal",
@@ -12888,7 +12888,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-ExtraLightItalic.otf||1850548:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-ExtraLightItalic.otf||255432:1757184537.0": {
       "family_name": "Monaspace Radon ExtraLight",
       "font-family": "Monaspace Radon ExtraLight",
       "font-stretch": "normal",
@@ -12918,13 +12918,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-ExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-Italic.otf||1861300:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-Italic.otf||273228:1757184537.0": {
       "family_name": "Monaspace Radon",
       "font-family": "Monaspace Radon",
       "font-stretch": "normal",
@@ -12960,7 +12960,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-Light.otf||1844044:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-Light.otf||267456:1757184537.0": {
       "family_name": "Monaspace Radon Light",
       "font-family": "Monaspace Radon Light",
       "font-stretch": "normal",
@@ -12996,7 +12996,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-LightItalic.otf||1862780:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-LightItalic.otf||273824:1757184537.0": {
       "family_name": "Monaspace Radon Light",
       "font-family": "Monaspace Radon Light",
       "font-stretch": "normal",
@@ -13026,13 +13026,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-LightItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-Medium.otf||1836484:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-Medium.otf||259136:1757184537.0": {
       "family_name": "Monaspace Radon Medium",
       "font-family": "Monaspace Radon Medium",
       "font-stretch": "normal",
@@ -13068,7 +13068,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-MediumItalic.otf||1857240:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-MediumItalic.otf||268868:1757184537.0": {
       "family_name": "Monaspace Radon Medium",
       "font-family": "Monaspace Radon Medium",
       "font-stretch": "normal",
@@ -13098,13 +13098,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-MediumItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-Regular.otf||1842136:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-Regular.otf||264208:1757184537.0": {
       "family_name": "Monaspace Radon",
       "font-family": "Monaspace Radon",
       "font-stretch": "normal",
@@ -13140,7 +13140,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiBold.otf||1837536:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiBold.otf||262272:1757184537.0": {
       "family_name": "Monaspace Radon SemiBold",
       "font-family": "Monaspace Radon SemiBold",
       "font-stretch": "normal",
@@ -13176,7 +13176,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiBoldItalic.otf||1859964:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiBoldItalic.otf||272080:1757184537.0": {
       "family_name": "Monaspace Radon SemiBold",
       "font-family": "Monaspace Radon SemiBold",
       "font-stretch": "normal",
@@ -13206,13 +13206,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-SemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideBold.otf||1850152:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideBold.otf||263552:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide",
       "font-family": "Monaspace Radon SemiWide",
       "font-stretch": "semi-expanded",
@@ -13248,7 +13248,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideBoldItalic.otf||1868976:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideBoldItalic.otf||272784:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide",
       "font-family": "Monaspace Radon SemiWide",
       "font-stretch": "semi-expanded",
@@ -13284,7 +13284,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraBold.otf||1842728:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraBold.otf||252128:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide ExtraBold",
       "font-family": "Monaspace Radon SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -13320,7 +13320,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraBoldItalic.otf||1861736:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraBoldItalic.otf||260732:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide ExtraBold",
       "font-family": "Monaspace Radon SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -13350,13 +13350,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "SemiWide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraLight.otf||1841820:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraLight.otf||253048:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide ExtraLight",
       "font-family": "Monaspace Radon SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -13392,7 +13392,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraLightItalic.otf||1863372:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraLightItalic.otf||258324:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide ExtraLight",
       "font-family": "Monaspace Radon SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -13422,13 +13422,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "SemiWide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideItalic.otf||1872380:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideItalic.otf||272228:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide",
       "font-family": "Monaspace Radon SemiWide",
       "font-stretch": "semi-expanded",
@@ -13458,13 +13458,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "SemiWide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideLight.otf||1858588:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideLight.otf||268016:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide Light",
       "font-family": "Monaspace Radon SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -13500,7 +13500,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideLightItalic.otf||1877752:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideLightItalic.otf||277196:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide Light",
       "font-family": "Monaspace Radon SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -13530,13 +13530,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideLightItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "SemiWide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideMedium.otf||1847804:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideMedium.otf||261692:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide Medium",
       "font-family": "Monaspace Radon SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -13572,7 +13572,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideMediumItalic.otf||1869580:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideMediumItalic.otf||271420:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide Medium",
       "font-family": "Monaspace Radon SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -13602,13 +13602,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideMediumItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "SemiWide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideRegular.otf||1855572:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideRegular.otf||264860:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide",
       "font-family": "Monaspace Radon SemiWide",
       "font-stretch": "semi-expanded",
@@ -13644,7 +13644,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideSemiBold.otf||1849980:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideSemiBold.otf||262168:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide SemiBold",
       "font-family": "Monaspace Radon SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -13680,7 +13680,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideSemiBoldItalic.otf||1871520:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideSemiBoldItalic.otf||272724:1757184537.0": {
       "family_name": "Monaspace Radon SemiWide SemiBold",
       "font-family": "Monaspace Radon SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -13710,13 +13710,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-SemiWideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "SemiWide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideBold.otf||1854724:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideBold.otf||263296:1757184537.0": {
       "family_name": "Monaspace Radon Wide",
       "font-family": "Monaspace Radon Wide",
       "font-stretch": "expanded",
@@ -13752,7 +13752,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideBoldItalic.otf||1875184:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideBoldItalic.otf||274100:1757184537.0": {
       "family_name": "Monaspace Radon Wide",
       "font-family": "Monaspace Radon Wide",
       "font-stretch": "expanded",
@@ -13788,7 +13788,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraBold.otf||1838872:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraBold.otf||249612:1757184537.0": {
       "family_name": "Monaspace Radon Wide ExtraBold",
       "font-family": "Monaspace Radon Wide ExtraBold",
       "font-stretch": "expanded",
@@ -13824,7 +13824,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraBoldItalic.otf||1856936:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraBoldItalic.otf||255664:1757184537.0": {
       "family_name": "Monaspace Radon Wide ExtraBold",
       "font-family": "Monaspace Radon Wide ExtraBold",
       "font-stretch": "expanded",
@@ -13854,13 +13854,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "Wide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraLight.otf||1840956:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraLight.otf||249368:1757184537.0": {
       "family_name": "Monaspace Radon Wide ExtraLight",
       "font-family": "Monaspace Radon Wide ExtraLight",
       "font-stretch": "expanded",
@@ -13896,7 +13896,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraLightItalic.otf||1857820:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraLightItalic.otf||256768:1757184537.0": {
       "family_name": "Monaspace Radon Wide ExtraLight",
       "font-family": "Monaspace Radon Wide ExtraLight",
       "font-stretch": "expanded",
@@ -13926,13 +13926,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-WideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "Wide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideItalic.otf||1870228:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideItalic.otf||271584:1757184537.0": {
       "family_name": "Monaspace Radon Wide",
       "font-family": "Monaspace Radon Wide",
       "font-stretch": "expanded",
@@ -13962,13 +13962,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-WideItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "Wide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideLight.otf||1858924:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideLight.otf||266912:1757184537.0": {
       "family_name": "Monaspace Radon Wide Light",
       "font-family": "Monaspace Radon Wide Light",
       "font-stretch": "expanded",
@@ -14004,7 +14004,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideLightItalic.otf||1876688:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideLightItalic.otf||275344:1757184537.0": {
       "family_name": "Monaspace Radon Wide Light",
       "font-family": "Monaspace Radon Wide Light",
       "font-stretch": "expanded",
@@ -14034,13 +14034,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-WideLightItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "Wide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideMedium.otf||1849616:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideMedium.otf||260548:1757184537.0": {
       "family_name": "Monaspace Radon Wide Medium",
       "font-family": "Monaspace Radon Wide Medium",
       "font-stretch": "expanded",
@@ -14076,7 +14076,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideMediumItalic.otf||1866472:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideMediumItalic.otf||269520:1757184537.0": {
       "family_name": "Monaspace Radon Wide Medium",
       "font-family": "Monaspace Radon Wide Medium",
       "font-stretch": "expanded",
@@ -14106,13 +14106,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-WideMediumItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "Wide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideRegular.otf||1854280:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideRegular.otf||263616:1757184537.0": {
       "family_name": "Monaspace Radon Wide",
       "font-family": "Monaspace Radon Wide",
       "font-stretch": "expanded",
@@ -14148,7 +14148,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideSemiBold.otf||1850424:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideSemiBold.otf||261128:1757184537.0": {
       "family_name": "Monaspace Radon Wide SemiBold",
       "font-family": "Monaspace Radon Wide SemiBold",
       "font-stretch": "expanded",
@@ -14184,7 +14184,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceRadon-WideSemiBoldItalic.otf||1869148:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceRadon-WideSemiBoldItalic.otf||270188:1757184537.0": {
       "family_name": "Monaspace Radon Wide SemiBold",
       "font-family": "Monaspace Radon Wide SemiBold",
       "font-stretch": "expanded",
@@ -14214,13 +14214,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceRadon-WideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Radon",
       "preferred_subfamily_name": "Wide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-Bold.otf||1836104:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-Bold.otf||248704:1757184537.0": {
       "family_name": "Monaspace Xenon",
       "font-family": "Monaspace Xenon",
       "font-stretch": "normal",
@@ -14256,7 +14256,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-BoldItalic.otf||1857164:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-BoldItalic.otf||257176:1757184537.0": {
       "family_name": "Monaspace Xenon",
       "font-family": "Monaspace Xenon",
       "font-stretch": "normal",
@@ -14292,7 +14292,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-ExtraBold.otf||1840004:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-ExtraBold.otf||243832:1757184537.0": {
       "family_name": "Monaspace Xenon ExtraBold",
       "font-family": "Monaspace Xenon ExtraBold",
       "font-stretch": "normal",
@@ -14328,7 +14328,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-ExtraBoldItalic.otf||1858280:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-ExtraBoldItalic.otf||247928:1757184537.0": {
       "family_name": "Monaspace Xenon ExtraBold",
       "font-family": "Monaspace Xenon ExtraBold",
       "font-stretch": "normal",
@@ -14358,13 +14358,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-ExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-ExtraLight.otf||1822552:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-ExtraLight.otf||237908:1757184537.0": {
       "family_name": "Monaspace Xenon ExtraLight",
       "font-family": "Monaspace Xenon ExtraLight",
       "font-stretch": "normal",
@@ -14400,7 +14400,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-ExtraLightItalic.otf||1839948:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-ExtraLightItalic.otf||242892:1757184537.0": {
       "family_name": "Monaspace Xenon ExtraLight",
       "font-family": "Monaspace Xenon ExtraLight",
       "font-stretch": "normal",
@@ -14430,13 +14430,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-ExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-Italic.otf||1846604:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-Italic.otf||258384:1757184537.0": {
       "family_name": "Monaspace Xenon",
       "font-family": "Monaspace Xenon",
       "font-stretch": "normal",
@@ -14472,7 +14472,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-Light.otf||1827528:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-Light.otf||251988:1757184537.0": {
       "family_name": "Monaspace Xenon Light",
       "font-family": "Monaspace Xenon Light",
       "font-stretch": "normal",
@@ -14508,7 +14508,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-LightItalic.otf||1848336:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-LightItalic.otf||259236:1757184537.0": {
       "family_name": "Monaspace Xenon Light",
       "font-family": "Monaspace Xenon Light",
       "font-stretch": "normal",
@@ -14538,13 +14538,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-LightItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-Medium.otf||1825052:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-Medium.otf||245864:1757184537.0": {
       "family_name": "Monaspace Xenon Medium",
       "font-family": "Monaspace Xenon Medium",
       "font-stretch": "normal",
@@ -14580,7 +14580,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-MediumItalic.otf||1845292:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-MediumItalic.otf||254476:1757184537.0": {
       "family_name": "Monaspace Xenon Medium",
       "font-family": "Monaspace Xenon Medium",
       "font-stretch": "normal",
@@ -14610,13 +14610,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-MediumItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-Regular.otf||1828128:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-Regular.otf||249280:1757184537.0": {
       "family_name": "Monaspace Xenon",
       "font-family": "Monaspace Xenon",
       "font-stretch": "normal",
@@ -14652,7 +14652,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiBold.otf||1831004:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiBold.otf||248480:1757184537.0": {
       "family_name": "Monaspace Xenon SemiBold",
       "font-family": "Monaspace Xenon SemiBold",
       "font-stretch": "normal",
@@ -14688,7 +14688,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiBoldItalic.otf||1851216:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiBoldItalic.otf||256332:1757184537.0": {
       "family_name": "Monaspace Xenon SemiBold",
       "font-family": "Monaspace Xenon SemiBold",
       "font-stretch": "normal",
@@ -14718,13 +14718,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-SemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 5,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideBold.otf||1843116:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideBold.otf||251520:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide",
       "font-family": "Monaspace Xenon SemiWide",
       "font-stretch": "semi-expanded",
@@ -14760,7 +14760,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideBoldItalic.otf||1863460:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideBoldItalic.otf||260248:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide",
       "font-family": "Monaspace Xenon SemiWide",
       "font-stretch": "semi-expanded",
@@ -14796,7 +14796,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraBold.otf||1845188:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraBold.otf||247028:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide ExtraBold",
       "font-family": "Monaspace Xenon SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -14832,7 +14832,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraBoldItalic.otf||1865284:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraBoldItalic.otf||253824:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide ExtraBold",
       "font-family": "Monaspace Xenon SemiWide ExtraBold",
       "font-stretch": "semi-expanded",
@@ -14862,13 +14862,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "SemiWide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraLight.otf||1829976:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraLight.otf||240312:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide ExtraLight",
       "font-family": "Monaspace Xenon SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -14904,7 +14904,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraLightItalic.otf||1847216:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraLightItalic.otf||246536:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide ExtraLight",
       "font-family": "Monaspace Xenon SemiWide ExtraLight",
       "font-stretch": "semi-expanded",
@@ -14934,13 +14934,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "SemiWide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideItalic.otf||1854152:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideItalic.otf||259404:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide",
       "font-family": "Monaspace Xenon SemiWide",
       "font-stretch": "semi-expanded",
@@ -14970,13 +14970,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "SemiWide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideLight.otf||1835836:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideLight.otf||254272:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide Light",
       "font-family": "Monaspace Xenon SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -15012,7 +15012,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideLightItalic.otf||1855872:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideLightItalic.otf||261496:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide Light",
       "font-family": "Monaspace Xenon SemiWide Light",
       "font-stretch": "semi-expanded",
@@ -15042,13 +15042,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideLightItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "SemiWide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideMedium.otf||1833820:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideMedium.otf||248452:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide Medium",
       "font-family": "Monaspace Xenon SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -15084,7 +15084,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideMediumItalic.otf||1852864:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideMediumItalic.otf||256676:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide Medium",
       "font-family": "Monaspace Xenon SemiWide Medium",
       "font-stretch": "semi-expanded",
@@ -15114,13 +15114,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideMediumItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "SemiWide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideRegular.otf||1833460:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideRegular.otf||250616:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide",
       "font-family": "Monaspace Xenon SemiWide",
       "font-stretch": "semi-expanded",
@@ -15156,7 +15156,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideSemiBold.otf||1837700:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideSemiBold.otf||250576:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide SemiBold",
       "font-family": "Monaspace Xenon SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -15192,7 +15192,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideSemiBoldItalic.otf||1859116:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideSemiBoldItalic.otf||258152:1757184537.0": {
       "family_name": "Monaspace Xenon SemiWide SemiBold",
       "font-family": "Monaspace Xenon SemiWide SemiBold",
       "font-stretch": "semi-expanded",
@@ -15222,13 +15222,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-SemiWideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "SemiWide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 6,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideBold.otf||1843608:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideBold.otf||249252:1757184537.0": {
       "family_name": "Monaspace Xenon Wide",
       "font-family": "Monaspace Xenon Wide",
       "font-stretch": "expanded",
@@ -15264,7 +15264,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideBoldItalic.otf||1865284:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideBoldItalic.otf||258160:1757184537.0": {
       "family_name": "Monaspace Xenon Wide",
       "font-family": "Monaspace Xenon Wide",
       "font-stretch": "expanded",
@@ -15300,7 +15300,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraBold.otf||1846312:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraBold.otf||242336:1757184537.0": {
       "family_name": "Monaspace Xenon Wide ExtraBold",
       "font-family": "Monaspace Xenon Wide ExtraBold",
       "font-stretch": "expanded",
@@ -15336,7 +15336,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraBoldItalic.otf||1865500:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraBoldItalic.otf||247356:1757184537.0": {
       "family_name": "Monaspace Xenon Wide ExtraBold",
       "font-family": "Monaspace Xenon Wide ExtraBold",
       "font-stretch": "expanded",
@@ -15366,13 +15366,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraBoldItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "Wide ExtraBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 800,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraLight.otf||1830612:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraLight.otf||239740:1757184537.0": {
       "family_name": "Monaspace Xenon Wide ExtraLight",
       "font-family": "Monaspace Xenon Wide ExtraLight",
       "font-stretch": "expanded",
@@ -15408,7 +15408,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraLightItalic.otf||1846876:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraLightItalic.otf||244416:1757184537.0": {
       "family_name": "Monaspace Xenon Wide ExtraLight",
       "font-family": "Monaspace Xenon Wide ExtraLight",
       "font-stretch": "expanded",
@@ -15438,13 +15438,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-WideExtraLightItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "Wide ExtraLight Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 200,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideItalic.otf||1854216:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideItalic.otf||257364:1757184537.0": {
       "family_name": "Monaspace Xenon Wide",
       "font-family": "Monaspace Xenon Wide",
       "font-stretch": "expanded",
@@ -15474,13 +15474,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-WideItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "Wide Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 400,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideLight.otf||1837616:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideLight.otf||251296:1757184537.0": {
       "family_name": "Monaspace Xenon Wide Light",
       "font-family": "Monaspace Xenon Wide Light",
       "font-stretch": "expanded",
@@ -15516,7 +15516,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideLightItalic.otf||1855692:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideLightItalic.otf||258880:1757184537.0": {
       "family_name": "Monaspace Xenon Wide Light",
       "font-family": "Monaspace Xenon Wide Light",
       "font-stretch": "expanded",
@@ -15546,13 +15546,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-WideLightItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "Wide Light Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 300,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideMedium.otf||1832196:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideMedium.otf||246744:1757184537.0": {
       "family_name": "Monaspace Xenon Wide Medium",
       "font-family": "Monaspace Xenon Wide Medium",
       "font-stretch": "expanded",
@@ -15588,7 +15588,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideMediumItalic.otf||1852668:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideMediumItalic.otf||254208:1757184537.0": {
       "family_name": "Monaspace Xenon Wide Medium",
       "font-family": "Monaspace Xenon Wide Medium",
       "font-stretch": "expanded",
@@ -15618,13 +15618,13 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-WideMediumItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "Wide Medium Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 500,
       "width": 7,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideRegular.otf||1835392:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideRegular.otf||249924:1757184537.0": {
       "family_name": "Monaspace Xenon Wide",
       "font-family": "Monaspace Xenon Wide",
       "font-stretch": "expanded",
@@ -15660,7 +15660,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideSemiBold.otf||1839048:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideSemiBold.otf||246612:1757184537.0": {
       "family_name": "Monaspace Xenon Wide SemiBold",
       "font-family": "Monaspace Xenon Wide SemiBold",
       "font-stretch": "expanded",
@@ -15696,7 +15696,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/OTF/MonaspaceXenon-WideSemiBoldItalic.otf||1858400:1738967609.0": {
+    "/usr/share/fonts/OTF/MonaspaceXenon-WideSemiBoldItalic.otf||254232:1757184537.0": {
       "family_name": "Monaspace Xenon Wide SemiBold",
       "font-family": "Monaspace Xenon Wide SemiBold",
       "font-stretch": "expanded",
@@ -15726,7 +15726,7 @@
       "path": "/usr/share/fonts/OTF/MonaspaceXenon-WideSemiBoldItalic.otf",
       "preferred_family_name": "Monaspace Xenon",
       "preferred_subfamily_name": "Wide SemiBold Italic",
-      "subfamily_name": "Italic",
+      "subfamily_name": "Regular Italic",
       "weight": 600,
       "width": 7,
       "wws_family_name": null,
@@ -16017,6 +16017,798 @@
       "subfamily_name": "Bold",
       "weight": 700,
       "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuMathTeXGyre.ttf||577192:1710752851.0": {
+      "family_name": "DejaVu Math TeX Gyre",
+      "font-family": "DejaVu Math TeX Gyre",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "font-weight": "normal",
+      "fs_type": 12,
+      "full_name": "DejaVuMathTeXGyre-Regular",
+      "is_bold": false,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": true,
+      "is_wws": false,
+      "os2_version": 4,
+      "panose": [
+        2,
+        0,
+        5,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuMathTeXGyre.ttf",
+      "preferred_family_name": "DejaVu Math TeX Gyre",
+      "preferred_subfamily_name": "Regular",
+      "subfamily_name": "Regular",
+      "weight": 400,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf||708920:1710752851.0": {
+      "family_name": "DejaVu Sans",
+      "font-family": "DejaVu Sans",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Bold",
+      "is_bold": true,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        8,
+        3,
+        3,
+        6,
+        4,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf",
+      "preferred_family_name": "DejaVu Sans",
+      "preferred_subfamily_name": "Bold",
+      "subfamily_name": "Bold",
+      "weight": 700,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSans-BoldOblique.ttf||645600:1710752851.0": {
+      "family_name": "DejaVu Sans",
+      "font-family": "DejaVu Sans",
+      "font-stretch": "normal",
+      "font-style": "italic",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Bold Oblique",
+      "is_bold": true,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        8,
+        3,
+        3,
+        3,
+        4,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSans-BoldOblique.ttf",
+      "preferred_family_name": "DejaVu Sans",
+      "preferred_subfamily_name": "Bold Oblique",
+      "subfamily_name": "Bold Oblique",
+      "weight": 700,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSans-ExtraLight.ttf||355824:1710752851.0": {
+      "family_name": "DejaVu Sans Light",
+      "font-family": "DejaVu Sans Light",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "font-weight": "200",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans ExtraLight",
+      "is_bold": false,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        2,
+        3,
+        3,
+        8,
+        4,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSans-ExtraLight.ttf",
+      "preferred_family_name": "DejaVu Sans",
+      "preferred_subfamily_name": "ExtraLight",
+      "subfamily_name": "ExtraLight",
+      "weight": 200,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSans-Oblique.ttf||637648:1710752851.0": {
+      "family_name": "DejaVu Sans",
+      "font-family": "DejaVu Sans",
+      "font-stretch": "normal",
+      "font-style": "italic",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Oblique",
+      "is_bold": false,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        6,
+        3,
+        3,
+        3,
+        4,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSans-Oblique.ttf",
+      "preferred_family_name": "DejaVu Sans",
+      "preferred_subfamily_name": "Oblique",
+      "subfamily_name": "Oblique",
+      "weight": 400,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSans.ttf||759720:1710752851.0": {
+      "family_name": "DejaVu Sans",
+      "font-family": "DejaVu Sans",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans",
+      "is_bold": false,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": true,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        6,
+        3,
+        3,
+        8,
+        4,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSans.ttf",
+      "preferred_family_name": "DejaVu Sans",
+      "preferred_subfamily_name": "Book",
+      "subfamily_name": "Book",
+      "weight": 400,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSansCondensed-Bold.ttf||667844:1710752851.0": {
+      "family_name": "DejaVu Sans Condensed",
+      "font-family": "DejaVu Sans Condensed",
+      "font-stretch": "semi-condensed",
+      "font-style": "normal",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Condensed Bold",
+      "is_bold": true,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        8,
+        6,
+        3,
+        6,
+        4,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSansCondensed-Bold.ttf",
+      "preferred_family_name": "DejaVu Sans",
+      "preferred_subfamily_name": "Condensed Bold",
+      "subfamily_name": "Bold",
+      "weight": 700,
+      "width": 4,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSansCondensed-BoldOblique.ttf||614068:1710752851.0": {
+      "family_name": "DejaVu Sans Condensed",
+      "font-family": "DejaVu Sans Condensed",
+      "font-stretch": "semi-condensed",
+      "font-style": "italic",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Condensed Bold Oblique",
+      "is_bold": true,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        8,
+        6,
+        3,
+        3,
+        4,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSansCondensed-BoldOblique.ttf",
+      "preferred_family_name": "DejaVu Sans",
+      "preferred_subfamily_name": "Condensed Bold Oblique",
+      "subfamily_name": "Bold Oblique",
+      "weight": 700,
+      "width": 4,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSansCondensed-Oblique.ttf||601448:1710752851.0": {
+      "family_name": "DejaVu Sans Condensed",
+      "font-family": "DejaVu Sans Condensed",
+      "font-stretch": "semi-condensed",
+      "font-style": "italic",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Condensed Oblique",
+      "is_bold": false,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        6,
+        6,
+        3,
+        3,
+        4,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSansCondensed-Oblique.ttf",
+      "preferred_family_name": "DejaVu Sans",
+      "preferred_subfamily_name": "Condensed Oblique",
+      "subfamily_name": "Oblique",
+      "weight": 400,
+      "width": 4,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSansCondensed.ttf||682828:1710752851.0": {
+      "family_name": "DejaVu Sans Condensed",
+      "font-family": "DejaVu Sans Condensed",
+      "font-stretch": "semi-condensed",
+      "font-style": "normal",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Condensed",
+      "is_bold": false,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": true,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        6,
+        6,
+        3,
+        8,
+        4,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSansCondensed.ttf",
+      "preferred_family_name": "DejaVu Sans",
+      "preferred_subfamily_name": "Condensed",
+      "subfamily_name": "Book",
+      "weight": 400,
+      "width": 4,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSansMono-Bold.ttf||334268:1710752851.0": {
+      "family_name": "DejaVu Sans Mono",
+      "font-family": "DejaVu Sans Mono",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Mono Bold",
+      "is_bold": true,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        7,
+        9,
+        3,
+        6,
+        4,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSansMono-Bold.ttf",
+      "preferred_family_name": null,
+      "preferred_subfamily_name": null,
+      "subfamily_name": "Bold",
+      "weight": 700,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSansMono-BoldOblique.ttf||254960:1710752851.0": {
+      "family_name": "DejaVu Sans Mono",
+      "font-family": "DejaVu Sans Mono",
+      "font-stretch": "normal",
+      "font-style": "italic",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Mono Bold Oblique",
+      "is_bold": true,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        7,
+        9,
+        3,
+        3,
+        4,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSansMono-BoldOblique.ttf",
+      "preferred_family_name": null,
+      "preferred_subfamily_name": null,
+      "subfamily_name": "Bold Oblique",
+      "weight": 700,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSansMono-Oblique.ttf||253448:1710752851.0": {
+      "family_name": "DejaVu Sans Mono",
+      "font-family": "DejaVu Sans Mono",
+      "font-stretch": "normal",
+      "font-style": "italic",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Mono Oblique",
+      "is_bold": false,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        6,
+        9,
+        3,
+        3,
+        4,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSansMono-Oblique.ttf",
+      "preferred_family_name": null,
+      "preferred_subfamily_name": null,
+      "subfamily_name": "Oblique",
+      "weight": 400,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSansMono.ttf||343140:1710752851.0": {
+      "family_name": "DejaVu Sans Mono",
+      "font-family": "DejaVu Sans Mono",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Sans Mono",
+      "is_bold": false,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": true,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        11,
+        6,
+        9,
+        3,
+        8,
+        4,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSansMono.ttf",
+      "preferred_family_name": null,
+      "preferred_subfamily_name": null,
+      "subfamily_name": "Book",
+      "weight": 400,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSerif-Bold.ttf||356668:1710752851.0": {
+      "family_name": "DejaVu Serif",
+      "font-family": "DejaVu Serif",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Serif Bold",
+      "is_bold": true,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        6,
+        8,
+        3,
+        5,
+        6,
+        5,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSerif-Bold.ttf",
+      "preferred_family_name": "DejaVu Serif",
+      "preferred_subfamily_name": "Bold",
+      "subfamily_name": "Bold",
+      "weight": 700,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSerif-BoldItalic.ttf||348020:1710752851.0": {
+      "family_name": "DejaVu Serif",
+      "font-family": "DejaVu Serif",
+      "font-stretch": "normal",
+      "font-style": "italic",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Serif Bold Italic",
+      "is_bold": true,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        6,
+        8,
+        3,
+        5,
+        3,
+        5,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSerif-BoldItalic.ttf",
+      "preferred_family_name": "DejaVu Serif",
+      "preferred_subfamily_name": "Bold Italic",
+      "subfamily_name": "Bold Italic",
+      "weight": 700,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSerif-Italic.ttf||346544:1710752851.0": {
+      "family_name": "DejaVu Serif",
+      "font-family": "DejaVu Serif",
+      "font-stretch": "normal",
+      "font-style": "italic",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Serif Italic",
+      "is_bold": false,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        6,
+        6,
+        3,
+        5,
+        3,
+        5,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSerif-Italic.ttf",
+      "preferred_family_name": "DejaVu Serif",
+      "preferred_subfamily_name": "Italic",
+      "subfamily_name": "Italic",
+      "weight": 400,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSerif.ttf||380660:1710752851.0": {
+      "family_name": "DejaVu Serif",
+      "font-family": "DejaVu Serif",
+      "font-stretch": "normal",
+      "font-style": "normal",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Serif",
+      "is_bold": false,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": true,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        6,
+        6,
+        3,
+        5,
+        6,
+        5,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSerif.ttf",
+      "preferred_family_name": "DejaVu Serif",
+      "preferred_subfamily_name": "Book",
+      "subfamily_name": "Book",
+      "weight": 400,
+      "width": 5,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSerifCondensed-Bold.ttf||331820:1710752851.0": {
+      "family_name": "DejaVu Serif Condensed",
+      "font-family": "DejaVu Serif Condensed",
+      "font-stretch": "semi-condensed",
+      "font-style": "normal",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Serif Condensed Bold",
+      "is_bold": true,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        6,
+        8,
+        6,
+        5,
+        6,
+        5,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSerifCondensed-Bold.ttf",
+      "preferred_family_name": "DejaVu Serif",
+      "preferred_subfamily_name": "Condensed Bold",
+      "subfamily_name": "Bold",
+      "weight": 700,
+      "width": 4,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSerifCondensed-BoldItalic.ttf||347076:1710752851.0": {
+      "family_name": "DejaVu Serif Condensed",
+      "font-family": "DejaVu Serif Condensed",
+      "font-stretch": "semi-condensed",
+      "font-style": "italic",
+      "font-weight": "bold",
+      "fs_type": 0,
+      "full_name": "DejaVu Serif Condensed Bold Italic",
+      "is_bold": true,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        6,
+        8,
+        6,
+        5,
+        3,
+        5,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSerifCondensed-BoldItalic.ttf",
+      "preferred_family_name": "DejaVu Serif",
+      "preferred_subfamily_name": "Condensed Bold Italic",
+      "subfamily_name": "Bold Italic",
+      "weight": 700,
+      "width": 4,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSerifCondensed-Italic.ttf||345868:1710752851.0": {
+      "family_name": "DejaVu Serif Condensed",
+      "font-family": "DejaVu Serif Condensed",
+      "font-stretch": "semi-condensed",
+      "font-style": "italic",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Serif Condensed Italic",
+      "is_bold": false,
+      "is_italic": true,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": false,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        6,
+        6,
+        6,
+        5,
+        3,
+        5,
+        11,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSerifCondensed-Italic.ttf",
+      "preferred_family_name": "DejaVu Serif",
+      "preferred_subfamily_name": "Condensed Italic",
+      "subfamily_name": "Italic",
+      "weight": 400,
+      "width": 4,
+      "wws_family_name": null,
+      "wws_subfamily_name": null
+    },
+    "/usr/share/fonts/TTF/DejaVuSerifCondensed.ttf||347208:1710752851.0": {
+      "family_name": "DejaVu Serif Condensed",
+      "font-family": "DejaVu Serif Condensed",
+      "font-stretch": "semi-condensed",
+      "font-style": "normal",
+      "font-weight": "normal",
+      "fs_type": 0,
+      "full_name": "DejaVu Serif Condensed",
+      "is_bold": false,
+      "is_italic": false,
+      "is_oblique": false,
+      "is_otf": false,
+      "is_regular": true,
+      "is_wws": false,
+      "os2_version": 1,
+      "panose": [
+        2,
+        6,
+        6,
+        6,
+        5,
+        6,
+        5,
+        2,
+        2,
+        4
+      ],
+      "path": "/usr/share/fonts/TTF/DejaVuSerifCondensed.ttf",
+      "preferred_family_name": "DejaVu Serif",
+      "preferred_subfamily_name": "Condensed",
+      "subfamily_name": "Book",
+      "weight": 400,
+      "width": 4,
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
@@ -22752,150 +23544,6 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/fa-brands-400.ttf||210792:1734392530.0": {
-      "family_name": "Font Awesome 6 Brands Regular",
-      "font-family": "Font Awesome 6 Brands Regular",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "normal",
-      "fs_type": 0,
-      "full_name": "Font Awesome 6 Brands Regular",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": false,
-      "is_regular": true,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        2,
-        0,
-        5,
-        3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/TTF/fa-brands-400.ttf",
-      "preferred_family_name": "Font Awesome 6 Brands",
-      "preferred_subfamily_name": "Regular",
-      "subfamily_name": "Regular",
-      "weight": 400,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/TTF/fa-regular-400.ttf||68064:1734392530.0": {
-      "family_name": "Font Awesome 6 Free Regular",
-      "font-family": "Font Awesome 6 Free Regular",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "normal",
-      "fs_type": 0,
-      "full_name": "Font Awesome 6 Free Regular",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": false,
-      "is_regular": true,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        2,
-        0,
-        5,
-        3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/TTF/fa-regular-400.ttf",
-      "preferred_family_name": "Font Awesome 6 Free",
-      "preferred_subfamily_name": "Regular",
-      "subfamily_name": "Regular",
-      "weight": 400,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/TTF/fa-solid-900.ttf||426112:1734392530.0": {
-      "family_name": "Font Awesome 6 Free Solid",
-      "font-family": "Font Awesome 6 Free Solid",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "900",
-      "fs_type": 0,
-      "full_name": "Font Awesome 6 Free Solid",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": false,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        2,
-        0,
-        9,
-        3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/TTF/fa-solid-900.ttf",
-      "preferred_family_name": "Font Awesome 6 Free",
-      "preferred_subfamily_name": "Solid",
-      "subfamily_name": "Solid",
-      "weight": 900,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/TTF/fa-v4compatibility.ttf||10836:1734392530.0": {
-      "family_name": "Font Awesome v4 Compatibility Regular",
-      "font-family": "Font Awesome v4 Compatibility Regular",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "normal",
-      "fs_type": 0,
-      "full_name": "Font Awesome v4 Compatibility Regular",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": false,
-      "is_regular": true,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        2,
-        0,
-        5,
-        3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/TTF/fa-v4compatibility.ttf",
-      "preferred_family_name": "Font Awesome v4 Compatibility",
-      "preferred_subfamily_name": "Regular",
-      "subfamily_name": "Regular",
-      "weight": 400,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
     "/usr/share/fonts/TTF/trebuc.ttf||126796:1677000135.0": {
       "family_name": "Trebuchet MS",
       "font-family": "Trebuchet MS",
@@ -23148,7 +23796,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYork.ttf||380580:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYork.ttf||380580:1753203894.0": {
       "family_name": "New York",
       "font-family": "New York",
       "font-stretch": "normal",
@@ -23184,7 +23832,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Black.otf||142956:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Black.otf||142956:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23220,7 +23868,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-BlackItalic.otf||144288:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-BlackItalic.otf||144288:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23256,7 +23904,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Bold.otf||143896:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Bold.otf||143896:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23292,7 +23940,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-BoldItalic.otf||146120:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-BoldItalic.otf||146120:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23328,7 +23976,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Heavy.otf||145312:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Heavy.otf||145312:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23364,7 +24012,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-HeavyItalic.otf||144200:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-HeavyItalic.otf||144200:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23400,7 +24048,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Medium.otf||142948:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Medium.otf||142948:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23436,7 +24084,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-MediumItalic.otf||143904:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-MediumItalic.otf||143904:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23472,7 +24120,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Regular.otf||132848:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Regular.otf||132848:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23508,7 +24156,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-RegularItalic.otf||132660:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-RegularItalic.otf||132660:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23544,7 +24192,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Semibold.otf||143532:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Semibold.otf||143532:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23580,7 +24228,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-SemiboldItalic.otf||144620:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-SemiboldItalic.otf||144620:1753203894.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23616,7 +24264,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkItalic.ttf||405524:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkItalic.ttf||405524:1753203894.0": {
       "family_name": "New York",
       "font-family": "New York",
       "font-stretch": "normal",
@@ -23652,7 +24300,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Black.otf||142628:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Black.otf||142628:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -23688,7 +24336,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-BlackItalic.otf||145304:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-BlackItalic.otf||145304:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -23724,7 +24372,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Bold.otf||142388:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Bold.otf||142388:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -23760,7 +24408,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-BoldItalic.otf||144672:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-BoldItalic.otf||144672:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -23796,7 +24444,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Heavy.otf||144212:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Heavy.otf||144212:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -23832,7 +24480,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-HeavyItalic.otf||145508:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-HeavyItalic.otf||145508:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -23868,7 +24516,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Medium.otf||142348:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Medium.otf||142348:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -23904,7 +24552,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-MediumItalic.otf||144820:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-MediumItalic.otf||144820:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -23940,7 +24588,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Regular.otf||140688:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Regular.otf||140688:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -23976,7 +24624,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-RegularItalic.otf||143368:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-RegularItalic.otf||143368:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24012,7 +24660,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Semibold.otf||143080:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Semibold.otf||143080:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24048,7 +24696,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-SemiboldItalic.otf||144468:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-SemiboldItalic.otf||144468:1753203894.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24084,7 +24732,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Black.otf||142920:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Black.otf||142920:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24120,7 +24768,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-BlackItalic.otf||145864:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-BlackItalic.otf||145864:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24156,7 +24804,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Bold.otf||143612:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Bold.otf||143612:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24192,7 +24840,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-BoldItalic.otf||145756:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-BoldItalic.otf||145756:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24228,7 +24876,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Heavy.otf||142876:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Heavy.otf||142876:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24264,7 +24912,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-HeavyItalic.otf||145460:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-HeavyItalic.otf||145460:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24300,7 +24948,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Medium.otf||142948:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Medium.otf||142948:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24336,7 +24984,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-MediumItalic.otf||143044:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-MediumItalic.otf||143044:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24372,7 +25020,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Regular.otf||142884:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Regular.otf||142884:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24408,7 +25056,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-RegularItalic.otf||142128:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-RegularItalic.otf||142128:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24444,7 +25092,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Semibold.otf||143192:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Semibold.otf||143192:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24480,7 +25128,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-SemiboldItalic.otf||144476:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-SemiboldItalic.otf||144476:1753203894.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24516,7 +25164,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Black.otf||142964:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Black.otf||142964:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24552,7 +25200,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-BlackItalic.otf||141136:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-BlackItalic.otf||141136:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24588,7 +25236,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Bold.otf||141976:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Bold.otf||141976:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24624,7 +25272,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-BoldItalic.otf||142504:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-BoldItalic.otf||142504:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24660,7 +25308,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Heavy.otf||142332:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Heavy.otf||142332:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24696,7 +25344,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-HeavyItalic.otf||141852:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-HeavyItalic.otf||141852:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24732,7 +25380,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Medium.otf||141812:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Medium.otf||141812:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24768,7 +25416,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-MediumItalic.otf||141024:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-MediumItalic.otf||141024:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24804,7 +25452,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Regular.otf||130652:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Regular.otf||130652:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24840,7 +25488,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-RegularItalic.otf||129304:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-RegularItalic.otf||129304:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24876,7 +25524,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Semibold.otf||142228:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Semibold.otf||142228:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24912,7 +25560,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-SemiboldItalic.otf||143620:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-SemiboldItalic.otf||143620:1753203894.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -24948,7 +25596,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Black.otf||5203320:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Black.otf||5975896:1753203894.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -24984,7 +25632,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Bold.otf||5291120:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Bold.otf||6098200:1753203894.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25020,7 +25668,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Heavy.otf||5277108:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Heavy.otf||6073624:1753203894.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25056,7 +25704,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Light.otf||5281724:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Light.otf||6084884:1753203894.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25092,7 +25740,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Medium.otf||5333008:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Medium.otf||6109792:1753203894.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25128,7 +25776,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Regular.otf||5286636:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Regular.otf||6071932:1753203894.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25164,7 +25812,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Semibold.otf||5309856:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Semibold.otf||6111880:1753203894.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25200,7 +25848,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Thin.otf||5240352:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Thin.otf||6041448:1753203894.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25236,7 +25884,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Ultralight.otf||5208836:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Ultralight.otf||6000140:1753203894.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25272,7 +25920,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Italic.ttf||15615204:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Italic.ttf||18441904:1753203894.0": {
       "family_name": "SF Compact",
       "font-family": "SF Compact",
       "font-stretch": "normal",
@@ -25308,7 +25956,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Black.otf||5231928:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Black.otf||5997944:1753203894.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25344,7 +25992,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Bold.otf||5333276:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Bold.otf||6137884:1753203894.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25380,7 +26028,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Heavy.otf||5321104:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Heavy.otf||6126388:1753203894.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25416,7 +26064,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Light.otf||5328092:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Light.otf||6128436:1753203894.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25452,7 +26100,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Medium.otf||5373908:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Medium.otf||6154280:1753203894.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25488,7 +26136,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Regular.otf||5330060:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Regular.otf||6112492:1753203894.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25524,7 +26172,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Semibold.otf||5353516:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Semibold.otf||6154748:1753203894.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25560,7 +26208,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Thin.otf||5283264:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Thin.otf||6086396:1753203894.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25596,7 +26244,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Ultralight.otf||5255072:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Ultralight.otf||6043932:1753203894.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25632,7 +26280,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Black.otf||5205228:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Black.otf||5975148:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25668,7 +26316,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-BlackItalic.otf||5118784:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-BlackItalic.otf||5881836:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25704,7 +26352,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Bold.otf||5318160:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Bold.otf||6110656:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25740,7 +26388,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-BoldItalic.otf||5256448:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-BoldItalic.otf||6045612:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25776,7 +26424,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Heavy.otf||5273768:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Heavy.otf||6073940:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25812,7 +26460,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-HeavyItalic.otf||5217960:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-HeavyItalic.otf||6015512:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25848,7 +26496,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Light.otf||5234308:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Light.otf||6037156:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25884,7 +26532,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-LightItalic.otf||5180320:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-LightItalic.otf||5976408:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25920,7 +26568,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Medium.otf||5328208:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Medium.otf||6107172:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25956,7 +26604,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-MediumItalic.otf||5267004:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-MediumItalic.otf||6052032:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -25992,7 +26640,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Regular.otf||5293636:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Regular.otf||6102532:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26028,7 +26676,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-RegularItalic.otf||5233312:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-RegularItalic.otf||6041280:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26064,7 +26712,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Semibold.otf||5312192:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Semibold.otf||6108864:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26100,7 +26748,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-SemiboldItalic.otf||5252812:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-SemiboldItalic.otf||6051472:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26136,7 +26784,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Thin.otf||5215172:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Thin.otf||6001692:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26172,7 +26820,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-ThinItalic.otf||5155708:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-ThinItalic.otf||5949952:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26208,7 +26856,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Ultralight.otf||5205900:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Ultralight.otf||5975208:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26244,7 +26892,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-UltralightItalic.otf||5156304:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-UltralightItalic.otf||5920280:1753203894.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26280,7 +26928,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact.ttf||16565452:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact.ttf||19454724:1753203894.0": {
       "family_name": "SF Compact",
       "font-family": "SF Compact",
       "font-stretch": "normal",
@@ -26316,7 +26964,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Bold.otf||109468:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Bold.otf||109468:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26352,7 +27000,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-BoldItalic.otf||101776:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-BoldItalic.otf||101776:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26388,7 +27036,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Heavy.otf||103304:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Heavy.otf||103304:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26424,7 +27072,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-HeavyItalic.otf||92412:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-HeavyItalic.otf||92412:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26460,7 +27108,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Light.otf||102012:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Light.otf||102012:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26496,7 +27144,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-LightItalic.otf||91816:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-LightItalic.otf||91816:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26532,7 +27180,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Medium.otf||110632:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Medium.otf||110632:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26568,7 +27216,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-MediumItalic.otf||101284:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-MediumItalic.otf||101284:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26604,7 +27252,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Regular.otf||109692:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Regular.otf||109692:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26640,7 +27288,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-RegularItalic.otf||102308:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-RegularItalic.otf||102308:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26676,7 +27324,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Semibold.otf||110060:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Semibold.otf||110060:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26712,7 +27360,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-SemiboldItalic.otf||102204:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-SemiboldItalic.otf||102204:1753203894.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -26748,7 +27396,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Black.otf||5041216:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Black.otf||5756036:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -26784,7 +27432,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-BlackItalic.otf||4931900:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-BlackItalic.otf||5656212:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -26820,7 +27468,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Bold.otf||5347524:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Bold.otf||6165112:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -26856,7 +27504,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-BoldItalic.otf||5258324:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-BoldItalic.otf||6050128:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -26892,7 +27540,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Heavy.otf||5350544:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Heavy.otf||6167720:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -26928,7 +27576,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-HeavyItalic.otf||5248092:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-HeavyItalic.otf||6061708:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -26964,7 +27612,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Light.otf||5331980:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Light.otf||6133220:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27000,7 +27648,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-LightItalic.otf||5245004:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-LightItalic.otf||6045348:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27036,7 +27684,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Medium.otf||5343956:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Medium.otf||6155320:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27072,7 +27720,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-MediumItalic.otf||5241756:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-MediumItalic.otf||6034580:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27108,7 +27756,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Regular.otf||5237656:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Regular.otf||6037852:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27144,7 +27792,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-RegularItalic.otf||5157948:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-RegularItalic.otf||5947292:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27180,7 +27828,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Semibold.otf||5409360:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Semibold.otf||6216384:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27216,7 +27864,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-SemiboldItalic.otf||5313796:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-SemiboldItalic.otf||6121648:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27252,7 +27900,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Thin.otf||5259252:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Thin.otf||6052320:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27288,7 +27936,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-ThinItalic.otf||5169416:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-ThinItalic.otf||5969684:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27324,7 +27972,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Ultralight.otf||5274024:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Ultralight.otf||6073908:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27360,7 +28008,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-UltralightItalic.otf||5188644:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-UltralightItalic.otf||5989212:1753203894.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27396,7 +28044,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Italic.ttf||16857112:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Italic.ttf||19874992:1753203894.0": {
       "family_name": "SF Pro",
       "font-family": "SF Pro",
       "font-stretch": "normal",
@@ -27432,7 +28080,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Black.otf||5099664:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Black.otf||5825308:1753203894.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -27468,7 +28116,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Bold.otf||5423904:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Bold.otf||6239780:1753203894.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -27504,7 +28152,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Heavy.otf||5431268:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Heavy.otf||6248496:1753203894.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -27540,7 +28188,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Light.otf||5422816:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Light.otf||6225368:1753203894.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -27576,7 +28224,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Medium.otf||5422152:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Medium.otf||6229784:1753203894.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -27612,7 +28260,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Regular.otf||5288512:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Regular.otf||6083140:1753203894.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -27648,7 +28296,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Semibold.otf||5490132:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Semibold.otf||6299948:1753203894.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -27684,7 +28332,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Thin.otf||5344460:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Thin.otf||6142784:1753203894.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -27720,7 +28368,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Ultralight.otf||5361800:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Ultralight.otf||6169672:1753203894.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -27756,7 +28404,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Black.otf||5012612:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Black.otf||5744304:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -27792,7 +28440,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-BlackItalic.otf||4942352:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-BlackItalic.otf||5667952:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -27828,7 +28476,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Bold.otf||5324368:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Bold.otf||6140936:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -27864,7 +28512,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-BoldItalic.otf||5267212:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-BoldItalic.otf||6060456:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -27900,7 +28548,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Heavy.otf||5329908:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Heavy.otf||6141480:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -27936,7 +28584,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-HeavyItalic.otf||5251684:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-HeavyItalic.otf||6064988:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -27972,7 +28620,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Light.otf||5325488:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Light.otf||6125660:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28008,7 +28656,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-LightItalic.otf||5256132:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-LightItalic.otf||6050768:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28044,7 +28692,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Medium.otf||5323460:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Medium.otf||6129504:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28080,7 +28728,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-MediumItalic.otf||5246892:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-MediumItalic.otf||6038596:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28116,7 +28764,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Regular.otf||5235900:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Regular.otf||6036736:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28152,7 +28800,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-RegularItalic.otf||5157172:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-RegularItalic.otf||5952904:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28188,7 +28836,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Semibold.otf||5383688:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Semibold.otf||6197564:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28224,7 +28872,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-SemiboldItalic.otf||5319332:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-SemiboldItalic.otf||6122764:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28260,7 +28908,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Thin.otf||5245152:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Thin.otf||6042220:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28296,7 +28944,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-ThinItalic.otf||5177160:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-ThinItalic.otf||5968396:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28332,7 +28980,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Ultralight.otf||5264000:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Ultralight.otf||6068784:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28368,7 +29016,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-UltralightItalic.otf||5188992:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-UltralightItalic.otf||5992412:1753203894.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28404,7 +29052,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro.ttf||22452864:1737730153.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro.ttf||25715416:1753203894.0": {
       "family_name": "SF Pro",
       "font-family": "SF Pro",
       "font-stretch": "normal",

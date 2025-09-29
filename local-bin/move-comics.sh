@@ -8,6 +8,10 @@ DEST_DIR="/home/storage/Diego-Ortiz/Lambton-OneDrive/Apps/ComicTrack/content/imp
 mkdir -p "$DEST_DIR"
 
 # Find and move .cbr and .cbz files
-find "$SOURCE_DIR" -type f \( -iname "*.cbr" -o -iname "*.cbz" \) -exec mv {} "$DEST_DIR" \;
+find "$SOURCE_DIR" -type f \( -iname "*.cbr" -o -iname "*.cbz" \) -exec sh -c 'echo "Moving: $1" && mv "$1" "$2"' sh {} "$DEST_DIR" \;
 
 echo "All .cbr and .cbz files have been moved to $DEST_DIR"
+
+cd $SOURCE_DIR
+
+clear-empty-folders

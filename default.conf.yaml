@@ -8,6 +8,7 @@
 - clean: ["~", "~/.local/bin"]
 - create:
     - ~/.tmux/plugins
+    - ~/.config/ghostty/themes
 - git:
     "~/.config/nvim/lua/LYRD":
       description: LYRD in lua for Neovim from repository
@@ -38,6 +39,9 @@
     ~/.config/nvim/init.lua: ~/.config/nvim/lua/LYRD/root-init.lua
     # visual studio code
     ~/.vscode_vimrc: vscode/vimrc
+    # ghostty config files
+    ~/.config/ghostty/config: ghostty/config
+    ~/.config/ghostty/themes/gruvbox-dark: ghostty/gruvbox-dark
     # Jetbrains IDE
     ~/.ideavimrc: jetbrains/vimrc
     # Sublime config
