@@ -41,7 +41,6 @@
     ~/.vscode_vimrc: vscode/vimrc
     # ghostty config files
     ~/.config/ghostty/config: ghostty/config
-    ~/.config/ghostty/themes/gruvbox-dark: ghostty/gruvbox-dark
     # Jetbrains IDE
     ~/.ideavimrc: jetbrains/vimrc
     # Sublime config
