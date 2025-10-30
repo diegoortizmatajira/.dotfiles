@@ -1,0 +1,65 @@
+#Example AppIds Config for those not familiar with YAML:
+#AppIds:
+#  - 440
+#  - 730
+#Take care of not messing up your spaces! Otherwise it won't work
+
+#Example of DlcData:
+#DlcData:
+#  AppId:
+#    FirstDlcAppId: "Dlc Name"
+#    SecondDlcAppId: "Dlc Name"
+#Example of DenuvoGames:
+#DenuvoGames:
+#  SteamId:
+#    -  AppId1
+#    -  AppId2
+#Disables Family Share license locking for self and others
+DisableFamilyShareLock: yes
+#Switches to whitelist instead of the default blacklist
+UseWhitelist: no
+#Automatically filter Apps in CheckAppOwnership. Filters everything but Games and Applications. Should not affect DLC checks
+#Overrides black-/whitelist. Gets overriden by AdditionalApps
+AutoFilterList: yes
+#List of AppIds to ex-/include
+AppIds:
+#Enables playing of not owned games. Respects black-/whitelist AppIds
+PlayNotOwnedGames: yes
+#Additional AppIds to inject (Overrides your black-/whitelist & also overrides OwnerIds for apps you got shared!) Best to use this only on games NOT in your library.
+AdditionalApps:
+  - 1086940 # Baldur's Gate 3
+  - 1903340 # Clair Obscur: Expedition 33
+  - 1182900 # A Plague Tale: Requiem
+  - 1924360 # Lil' Guardsman
+  - 1174180 # Red Dead Redemption 2
+  - 201810 # Wolfenstein: The New Order
+  - 489830 # The Elder Scrolls V: Skyrim Special Edition
+  - 242050 # AC. Black Flag
+  - 292030 # Witcher 3
+  - 814380 # Sekiro: Shadows Die Twice - GOTY Edition
+  - 2005010 # Warhammer 40,000: Boltgun
+  - 2215430 # Ghost of Tsushima DIRECTOR'S CUT
+  - 2651280 # Marvel's Spider-Man 2
+  - 488790 # South Park: The Fractured But Whole
+  - 1030300 # Hollow Knight: Silksong
+  - 367520 # Hollow Knight
+  - 1313140 # Cult of the lamb
+#Extra Data for Dlcs belonging to a specific AppId. Only needed
+#when the App you're playing is hit by Steams 64 DLC limit
+DlcData:
+#Blocks games from unlocking on wrong accounts
+DenuvoGames:
+#Spoof Denuvo Games owner instead of blocking them
+DenuvoSpoof: no
+#Automatically disable SLSsteam when steamclient.so does not match a predefined file hash that is known to work
+#You should enable this if you're planing to use SLSsteam with Steam Deck's gamemode
+SafeMode: no
+#Toggles notifications via notify-send
+Notifications: yes
+#Warn user via notification when steamclient.so hash differs from known safe hash
+#Mostly useful for development so I don't accidentally miss an update
+WarnHashMissmatch: no
+#Notify when SLSsteam is done initializing
+NotifyInit: yes
+#Logs all calls to Steamworks (this makes the logfile huge! Only useful for debugging/analyzing
+ExtendedLogging: no

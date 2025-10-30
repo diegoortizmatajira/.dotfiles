@@ -66,6 +66,7 @@
     ~/.local/bin/display-control: linux/local-bin/display-control.sh
     ~/.local/share/fonts: local-fonts
     ~/.local/bin/move-comics: local-bin/move-comics.sh
+    ~/.config/SLSsteam/config.yaml: linux/SLSSteam/config.yaml
 - create:
     - ~/Development/Personal
     - ~/Development/Sandbox

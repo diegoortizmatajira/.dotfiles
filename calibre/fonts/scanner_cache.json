@@ -23652,7 +23652,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont.ttf||11934928:1749586789.0": {
+    "/usr/share/fonts/Unifont/Unifont.ttf||11936588:1759080607.0": {
       "family_name": "Unifont",
       "font-family": "Unifont",
       "font-stretch": "normal",
@@ -23688,7 +23688,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_CSUR.ttf||1637820:1749586789.0": {
+    "/usr/share/fonts/Unifont/Unifont_CSUR.ttf||1637840:1759080607.0": {
       "family_name": "Unifont CSUR",
       "font-family": "Unifont CSUR",
       "font-stretch": "normal",
@@ -23724,7 +23724,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_Upper.ttf||13244952:1749586789.0": {
+    "/usr/share/fonts/Unifont/Unifont_Upper.ttf||13209504:1759080607.0": {
       "family_name": "Unifont Upper",
       "font-family": "Unifont Upper",
       "font-stretch": "normal",
@@ -23760,7 +23760,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/Unifont/Unifont_jp.ttf||12259276:1749586789.0": {
+    "/usr/share/fonts/Unifont/Unifont_jp.ttf||12261080:1759080607.0": {
       "family_name": "Unifont-JP",
       "font-family": "Unifont-JP",
       "font-stretch": "normal",
@@ -23796,7 +23796,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYork.ttf||380580:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYork.ttf||380580:1759080148.0": {
       "family_name": "New York",
       "font-family": "New York",
       "font-stretch": "normal",
@@ -23832,7 +23832,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Black.otf||142956:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Black.otf||142956:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23868,7 +23868,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-BlackItalic.otf||144288:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-BlackItalic.otf||144288:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23904,7 +23904,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Bold.otf||143896:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Bold.otf||143896:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23940,7 +23940,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-BoldItalic.otf||146120:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-BoldItalic.otf||146120:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -23976,7 +23976,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Heavy.otf||145312:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Heavy.otf||145312:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -24012,7 +24012,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-HeavyItalic.otf||144200:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-HeavyItalic.otf||144200:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -24048,7 +24048,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Medium.otf||142948:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Medium.otf||142948:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -24084,7 +24084,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-MediumItalic.otf||143904:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-MediumItalic.otf||143904:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -24120,7 +24120,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Regular.otf||132848:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Regular.otf||132848:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -24156,7 +24156,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-RegularItalic.otf||132660:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-RegularItalic.otf||132660:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -24192,7 +24192,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Semibold.otf||143532:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-Semibold.otf||143532:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -24228,7 +24228,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-SemiboldItalic.otf||144620:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkExtraLarge-SemiboldItalic.otf||144620:1759080148.0": {
       "family_name": "New York Extra Large",
       "font-family": "New York Extra Large",
       "font-stretch": "normal",
@@ -24264,7 +24264,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkItalic.ttf||405524:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkItalic.ttf||405524:1759080148.0": {
       "family_name": "New York",
       "font-family": "New York",
       "font-stretch": "normal",
@@ -24300,7 +24300,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Black.otf||142628:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Black.otf||142628:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24336,7 +24336,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-BlackItalic.otf||145304:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-BlackItalic.otf||145304:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24372,7 +24372,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Bold.otf||142388:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Bold.otf||142388:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24408,7 +24408,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-BoldItalic.otf||144672:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-BoldItalic.otf||144672:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24444,7 +24444,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Heavy.otf||144212:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Heavy.otf||144212:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24480,7 +24480,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-HeavyItalic.otf||145508:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-HeavyItalic.otf||145508:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24516,7 +24516,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Medium.otf||142348:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Medium.otf||142348:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24552,7 +24552,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-MediumItalic.otf||144820:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-MediumItalic.otf||144820:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24588,7 +24588,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Regular.otf||140688:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Regular.otf||140688:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24624,7 +24624,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-RegularItalic.otf||143368:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-RegularItalic.otf||143368:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24660,7 +24660,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-Semibold.otf||143080:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-Semibold.otf||143080:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24696,7 +24696,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkLarge-SemiboldItalic.otf||144468:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkLarge-SemiboldItalic.otf||144468:1759080148.0": {
       "family_name": "New York Large",
       "font-family": "New York Large",
       "font-stretch": "normal",
@@ -24732,7 +24732,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Black.otf||142920:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Black.otf||142920:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24768,7 +24768,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-BlackItalic.otf||145864:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-BlackItalic.otf||145864:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24804,7 +24804,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Bold.otf||143612:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Bold.otf||143612:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24840,7 +24840,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-BoldItalic.otf||145756:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-BoldItalic.otf||145756:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24876,7 +24876,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Heavy.otf||142876:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Heavy.otf||142876:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24912,7 +24912,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-HeavyItalic.otf||145460:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-HeavyItalic.otf||145460:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24948,7 +24948,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Medium.otf||142948:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Medium.otf||142948:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -24984,7 +24984,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-MediumItalic.otf||143044:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-MediumItalic.otf||143044:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -25020,7 +25020,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Regular.otf||142884:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Regular.otf||142884:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -25056,7 +25056,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-RegularItalic.otf||142128:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-RegularItalic.otf||142128:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -25092,7 +25092,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-Semibold.otf||143192:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-Semibold.otf||143192:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -25128,7 +25128,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkMedium-SemiboldItalic.otf||144476:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkMedium-SemiboldItalic.otf||144476:1759080148.0": {
       "family_name": "New York Medium",
       "font-family": "New York Medium",
       "font-stretch": "normal",
@@ -25164,7 +25164,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Black.otf||142964:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Black.otf||142964:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25200,7 +25200,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-BlackItalic.otf||141136:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-BlackItalic.otf||141136:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25236,7 +25236,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Bold.otf||141976:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Bold.otf||141976:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25272,7 +25272,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-BoldItalic.otf||142504:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-BoldItalic.otf||142504:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25308,7 +25308,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Heavy.otf||142332:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Heavy.otf||142332:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25344,7 +25344,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-HeavyItalic.otf||141852:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-HeavyItalic.otf||141852:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25380,7 +25380,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Medium.otf||141812:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Medium.otf||141812:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25416,7 +25416,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-MediumItalic.otf||141024:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-MediumItalic.otf||141024:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25452,7 +25452,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Regular.otf||130652:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Regular.otf||130652:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25488,7 +25488,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-RegularItalic.otf||129304:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-RegularItalic.otf||129304:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25524,7 +25524,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-Semibold.otf||142228:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-Semibold.otf||142228:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25560,7 +25560,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/NewYorkSmall-SemiboldItalic.otf||143620:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/NewYorkSmall-SemiboldItalic.otf||143620:1759080148.0": {
       "family_name": "New York Small",
       "font-family": "New York Small",
       "font-stretch": "normal",
@@ -25596,7 +25596,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Black.otf||5975896:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Black.otf||5998388:1759080148.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25632,7 +25632,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Bold.otf||6098200:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Bold.otf||6120504:1759080148.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25668,7 +25668,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Heavy.otf||6073624:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Heavy.otf||6102824:1759080148.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25704,7 +25704,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Light.otf||6084884:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Light.otf||6111508:1759080148.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25740,7 +25740,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Medium.otf||6109792:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Medium.otf||6138200:1759080148.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25776,7 +25776,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Regular.otf||6071932:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Regular.otf||6099948:1759080148.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25812,7 +25812,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Semibold.otf||6111880:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Semibold.otf||6141796:1759080148.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25848,7 +25848,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Thin.otf||6041448:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Thin.otf||6064652:1759080148.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25884,7 +25884,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Ultralight.otf||6000140:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Display-Ultralight.otf||6026884:1759080148.0": {
       "family_name": "SF Compact Display",
       "font-family": "SF Compact Display",
       "font-stretch": "normal",
@@ -25920,7 +25920,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Italic.ttf||18441904:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Italic.ttf||18534004:1759080148.0": {
       "family_name": "SF Compact",
       "font-family": "SF Compact",
       "font-stretch": "normal",
@@ -25956,7 +25956,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Black.otf||5997944:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Black.otf||6026548:1759080148.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -25992,7 +25992,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Bold.otf||6137884:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Bold.otf||6166532:1759080148.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -26028,7 +26028,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Heavy.otf||6126388:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Heavy.otf||6146876:1759080148.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -26064,7 +26064,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Light.otf||6128436:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Light.otf||6154776:1759080148.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -26100,7 +26100,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Medium.otf||6154280:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Medium.otf||6177416:1759080148.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -26136,7 +26136,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Regular.otf||6112492:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Regular.otf||6137984:1759080148.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -26172,7 +26172,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Semibold.otf||6154748:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Semibold.otf||6179384:1759080148.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -26208,7 +26208,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Thin.otf||6086396:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Thin.otf||6113488:1759080148.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -26244,7 +26244,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Ultralight.otf||6043932:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Rounded-Ultralight.otf||6078732:1759080148.0": {
       "family_name": "SF Compact Rounded",
       "font-family": "SF Compact Rounded",
       "font-stretch": "normal",
@@ -26280,7 +26280,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Black.otf||5975148:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Black.otf||6001748:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26316,7 +26316,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-BlackItalic.otf||5881836:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-BlackItalic.otf||5909036:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26352,7 +26352,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Bold.otf||6110656:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Bold.otf||6131908:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26388,7 +26388,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-BoldItalic.otf||6045612:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-BoldItalic.otf||6068536:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26424,7 +26424,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Heavy.otf||6073940:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Heavy.otf||6103856:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26460,7 +26460,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-HeavyItalic.otf||6015512:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-HeavyItalic.otf||6041164:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26496,7 +26496,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Light.otf||6037156:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Light.otf||6057608:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26532,7 +26532,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-LightItalic.otf||5976408:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-LightItalic.otf||6005232:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26568,7 +26568,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Medium.otf||6107172:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Medium.otf||6138320:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26604,7 +26604,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-MediumItalic.otf||6052032:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-MediumItalic.otf||6074100:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26640,7 +26640,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Regular.otf||6102532:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Regular.otf||6126456:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26676,7 +26676,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-RegularItalic.otf||6041280:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-RegularItalic.otf||6066424:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26712,7 +26712,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Semibold.otf||6108864:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Semibold.otf||6135608:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26748,7 +26748,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-SemiboldItalic.otf||6051472:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-SemiboldItalic.otf||6076764:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26784,7 +26784,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Thin.otf||6001692:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Thin.otf||6033252:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26820,7 +26820,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-ThinItalic.otf||5949952:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-ThinItalic.otf||5973016:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26856,7 +26856,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Ultralight.otf||5975208:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-Ultralight.otf||6005036:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26892,7 +26892,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact-Text-UltralightItalic.otf||5920280:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact-Text-UltralightItalic.otf||5949824:1759080148.0": {
       "family_name": "SF Compact Text",
       "font-family": "SF Compact Text",
       "font-stretch": "normal",
@@ -26928,7 +26928,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Compact.ttf||19454724:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Compact.ttf||19547964:1759080148.0": {
       "family_name": "SF Compact",
       "font-family": "SF Compact",
       "font-stretch": "normal",
@@ -26964,7 +26964,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Bold.otf||109468:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Bold.otf||109468:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27000,7 +27000,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-BoldItalic.otf||101776:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-BoldItalic.otf||101776:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27036,7 +27036,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Heavy.otf||103304:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Heavy.otf||103304:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27072,7 +27072,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-HeavyItalic.otf||92412:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-HeavyItalic.otf||92412:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27108,7 +27108,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Light.otf||102012:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Light.otf||102012:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27144,7 +27144,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-LightItalic.otf||91816:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-LightItalic.otf||91816:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27180,7 +27180,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Medium.otf||110632:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Medium.otf||110632:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27216,7 +27216,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-MediumItalic.otf||101284:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-MediumItalic.otf||101284:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27252,7 +27252,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Regular.otf||109692:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Regular.otf||109692:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27288,7 +27288,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-RegularItalic.otf||102308:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-RegularItalic.otf||102308:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27324,7 +27324,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-Semibold.otf||110060:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-Semibold.otf||110060:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27360,7 +27360,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Mono-SemiboldItalic.otf||102204:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Mono-SemiboldItalic.otf||102204:1759080148.0": {
       "family_name": "SF Mono",
       "font-family": "SF Mono",
       "font-stretch": "normal",
@@ -27396,7 +27396,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Black.otf||5756036:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Black.otf||5787188:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27432,7 +27432,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-BlackItalic.otf||5656212:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-BlackItalic.otf||5682280:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27468,7 +27468,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Bold.otf||6165112:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Bold.otf||6189264:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27504,7 +27504,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-BoldItalic.otf||6050128:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-BoldItalic.otf||6080196:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27540,7 +27540,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Heavy.otf||6167720:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Heavy.otf||6191448:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27576,7 +27576,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-HeavyItalic.otf||6061708:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-HeavyItalic.otf||6085784:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27612,7 +27612,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Light.otf||6133220:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Light.otf||6162792:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27648,7 +27648,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-LightItalic.otf||6045348:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-LightItalic.otf||6075288:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27684,7 +27684,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Medium.otf||6155320:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Medium.otf||6181416:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27720,7 +27720,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-MediumItalic.otf||6034580:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-MediumItalic.otf||6057196:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27756,7 +27756,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Regular.otf||6037852:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Regular.otf||6054016:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27792,7 +27792,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-RegularItalic.otf||5947292:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-RegularItalic.otf||5973424:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27828,7 +27828,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Semibold.otf||6216384:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Semibold.otf||6249240:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27864,7 +27864,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-SemiboldItalic.otf||6121648:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-SemiboldItalic.otf||6144564:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27900,7 +27900,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Thin.otf||6052320:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Thin.otf||6082724:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27936,7 +27936,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-ThinItalic.otf||5969684:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-ThinItalic.otf||5994108:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -27972,7 +27972,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Ultralight.otf||6073908:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-Ultralight.otf||6102856:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -28008,7 +28008,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Display-UltralightItalic.otf||5989212:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Display-UltralightItalic.otf||6018540:1759080148.0": {
       "family_name": "SF Pro Display",
       "font-family": "SF Pro Display",
       "font-stretch": "normal",
@@ -28044,7 +28044,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Italic.ttf||19874992:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Italic.ttf||19973544:1759080148.0": {
       "family_name": "SF Pro",
       "font-family": "SF Pro",
       "font-stretch": "normal",
@@ -28080,7 +28080,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Black.otf||5825308:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Black.otf||5851640:1759080148.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -28116,7 +28116,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Bold.otf||6239780:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Bold.otf||6267820:1759080148.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -28152,7 +28152,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Heavy.otf||6248496:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Heavy.otf||6280776:1759080148.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -28188,7 +28188,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Light.otf||6225368:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Light.otf||6252240:1759080148.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -28224,7 +28224,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Medium.otf||6229784:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Medium.otf||6255132:1759080148.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -28260,7 +28260,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Regular.otf||6083140:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Regular.otf||6117872:1759080148.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -28296,7 +28296,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Semibold.otf||6299948:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Semibold.otf||6332172:1759080148.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -28332,7 +28332,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Thin.otf||6142784:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Thin.otf||6173420:1759080148.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -28368,7 +28368,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Ultralight.otf||6169672:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Rounded-Ultralight.otf||6197580:1759080148.0": {
       "family_name": "SF Pro Rounded",
       "font-family": "SF Pro Rounded",
       "font-stretch": "normal",
@@ -28404,7 +28404,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Black.otf||5744304:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Black.otf||5768004:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28440,7 +28440,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-BlackItalic.otf||5667952:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-BlackItalic.otf||5698200:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28476,7 +28476,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Bold.otf||6140936:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Bold.otf||6164980:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28512,7 +28512,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-BoldItalic.otf||6060456:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-BoldItalic.otf||6090248:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28548,7 +28548,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Heavy.otf||6141480:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Heavy.otf||6166464:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28584,7 +28584,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-HeavyItalic.otf||6064988:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-HeavyItalic.otf||6097012:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28620,7 +28620,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Light.otf||6125660:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Light.otf||6156004:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28656,7 +28656,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-LightItalic.otf||6050768:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-LightItalic.otf||6079984:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28692,7 +28692,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Medium.otf||6129504:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Medium.otf||6159232:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28728,7 +28728,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-MediumItalic.otf||6038596:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-MediumItalic.otf||6065960:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28764,7 +28764,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Regular.otf||6036736:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Regular.otf||6057916:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28800,7 +28800,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-RegularItalic.otf||5952904:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-RegularItalic.otf||5977860:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28836,7 +28836,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Semibold.otf||6197564:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Semibold.otf||6222932:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28872,7 +28872,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-SemiboldItalic.otf||6122764:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-SemiboldItalic.otf||6151792:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28908,7 +28908,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Thin.otf||6042220:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Thin.otf||6066948:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28944,7 +28944,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-ThinItalic.otf||5968396:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-ThinItalic.otf||5998256:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -28980,7 +28980,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Ultralight.otf||6068784:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-Ultralight.otf||6095492:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -29016,7 +29016,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro-Text-UltralightItalic.otf||5992412:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro-Text-UltralightItalic.otf||6018336:1759080148.0": {
       "family_name": "SF Pro Text",
       "font-family": "SF Pro Text",
       "font-stretch": "normal",
@@ -29052,7 +29052,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/apple-fonts/SF-Pro.ttf||25715416:1753203894.0": {
+    "/usr/share/fonts/apple-fonts/SF-Pro.ttf||25816756:1759080148.0": {
       "family_name": "SF Pro",
       "font-family": "SF Pro",
       "font-stretch": "normal",
@@ -29520,7 +29520,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/C059-BdIta.otf||103444:1751576178.0": {
+    "/usr/share/fonts/gsfonts/C059-BdIta.otf||103444:1759628689.0": {
       "family_name": "C059",
       "font-family": "C059",
       "font-stretch": "normal",
@@ -29556,7 +29556,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/C059-Bold.otf||100692:1751576178.0": {
+    "/usr/share/fonts/gsfonts/C059-Bold.otf||100692:1759628689.0": {
       "family_name": "C059",
       "font-family": "C059",
       "font-stretch": "normal",
@@ -29592,7 +29592,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/C059-Italic.otf||101324:1751576178.0": {
+    "/usr/share/fonts/gsfonts/C059-Italic.otf||101324:1759628689.0": {
       "family_name": "C059",
       "font-family": "C059",
       "font-stretch": "normal",
@@ -29628,7 +29628,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/C059-Roman.otf||97476:1751576178.0": {
+    "/usr/share/fonts/gsfonts/C059-Roman.otf||97476:1759628689.0": {
       "family_name": "C059",
       "font-family": "C059",
       "font-stretch": "normal",
@@ -29664,7 +29664,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/D050000L.otf||29832:1751576178.0": {
+    "/usr/share/fonts/gsfonts/D050000L.otf||29832:1759628689.0": {
       "family_name": "D050000L",
       "font-family": "D050000L",
       "font-stretch": "normal",
@@ -29700,7 +29700,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-Bold.otf||87520:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-Bold.otf||87520:1759628689.0": {
       "family_name": "Nimbus Mono PS",
       "font-family": "Nimbus Mono PS",
       "font-stretch": "normal",
@@ -29736,7 +29736,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-BoldItalic.otf||89580:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-BoldItalic.otf||89580:1759628689.0": {
       "family_name": "Nimbus Mono PS",
       "font-family": "Nimbus Mono PS",
       "font-stretch": "normal",
@@ -29772,7 +29772,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-Italic.otf||82648:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-Italic.otf||82648:1759628689.0": {
       "family_name": "Nimbus Mono PS",
       "font-family": "Nimbus Mono PS",
       "font-stretch": "normal",
@@ -29808,7 +29808,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusMonoPS-Regular.otf||77936:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusMonoPS-Regular.otf||77936:1759628689.0": {
       "family_name": "Nimbus Mono PS",
       "font-family": "Nimbus Mono PS",
       "font-stretch": "normal",
@@ -29844,7 +29844,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusRoman-Bold.otf||100984:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-Bold.otf||100984:1759628689.0": {
       "family_name": "Nimbus Roman",
       "font-family": "Nimbus Roman",
       "font-stretch": "normal",
@@ -29880,7 +29880,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusRoman-BoldItalic.otf||104772:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-BoldItalic.otf||104772:1759628689.0": {
       "family_name": "Nimbus Roman",
       "font-family": "Nimbus Roman",
       "font-stretch": "normal",
@@ -29916,7 +29916,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusRoman-Italic.otf||105684:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-Italic.otf||105684:1759628689.0": {
       "family_name": "Nimbus Roman",
       "font-family": "Nimbus Roman",
       "font-stretch": "normal",
@@ -29952,7 +29952,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusRoman-Regular.otf||98200:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusRoman-Regular.otf||98200:1759628689.0": {
       "family_name": "Nimbus Roman",
       "font-family": "Nimbus Roman",
       "font-stretch": "normal",
@@ -29988,7 +29988,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSans-Bold.otf||83264:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-Bold.otf||83264:1759628689.0": {
       "family_name": "Nimbus Sans",
       "font-family": "Nimbus Sans",
       "font-stretch": "normal",
@@ -30024,7 +30024,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSans-BoldItalic.otf||95396:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-BoldItalic.otf||95396:1759628689.0": {
       "family_name": "Nimbus Sans",
       "font-family": "Nimbus Sans",
       "font-stretch": "normal",
@@ -30060,7 +30060,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSans-Italic.otf||95244:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-Italic.otf||95244:1759628689.0": {
       "family_name": "Nimbus Sans",
       "font-family": "Nimbus Sans",
       "font-stretch": "normal",
@@ -30096,7 +30096,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSans-Regular.otf||82264:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusSans-Regular.otf||82264:1759628689.0": {
       "family_name": "Nimbus Sans",
       "font-family": "Nimbus Sans",
       "font-stretch": "normal",
@@ -30132,7 +30132,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Bold.otf||81340:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Bold.otf||81340:1759628689.0": {
       "family_name": "Nimbus Sans Narrow",
       "font-family": "Nimbus Sans Narrow",
       "font-stretch": "semi-condensed",
@@ -30168,7 +30168,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-BoldOblique.otf||87956:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-BoldOblique.otf||87956:1759628689.0": {
       "family_name": "Nimbus Sans Narrow",
       "font-family": "Nimbus Sans Narrow",
       "font-stretch": "semi-condensed",
@@ -30204,7 +30204,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Oblique.otf||87068:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Oblique.otf||87068:1759628689.0": {
       "family_name": "Nimbus Sans Narrow",
       "font-family": "Nimbus Sans Narrow",
       "font-stretch": "semi-condensed",
@@ -30240,7 +30240,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Regular.otf||80864:1751576178.0": {
+    "/usr/share/fonts/gsfonts/NimbusSansNarrow-Regular.otf||80864:1759628689.0": {
       "family_name": "Nimbus Sans Narrow",
       "font-family": "Nimbus Sans Narrow",
       "font-stretch": "semi-condensed",
@@ -30276,7 +30276,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/P052-Bold.otf||110980:1751576178.0": {
+    "/usr/share/fonts/gsfonts/P052-Bold.otf||110980:1759628689.0": {
       "family_name": "P052",
       "font-family": "P052",
       "font-stretch": "normal",
@@ -30312,7 +30312,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/P052-BoldItalic.otf||110928:1751576178.0": {
+    "/usr/share/fonts/gsfonts/P052-BoldItalic.otf||110928:1759628689.0": {
       "family_name": "P052",
       "font-family": "P052",
       "font-stretch": "normal",
@@ -30348,7 +30348,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/P052-Italic.otf||109824:1751576178.0": {
+    "/usr/share/fonts/gsfonts/P052-Italic.otf||109824:1759628689.0": {
       "family_name": "P052",
       "font-family": "P052",
       "font-stretch": "normal",
@@ -30384,7 +30384,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/P052-Roman.otf||110236:1751576178.0": {
+    "/usr/share/fonts/gsfonts/P052-Roman.otf||110236:1759628689.0": {
       "family_name": "P052",
       "font-family": "P052",
       "font-stretch": "normal",
@@ -30420,7 +30420,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/StandardSymbolsPS.otf||21176:1751576178.0": {
+    "/usr/share/fonts/gsfonts/StandardSymbolsPS.otf||21176:1759628689.0": {
       "family_name": "Standard Symbols PS",
       "font-family": "Standard Symbols PS",
       "font-stretch": "normal",
@@ -30456,7 +30456,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWBookman-Demi.otf||97208:1751576178.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-Demi.otf||97208:1759628689.0": {
       "family_name": "URW Bookman",
       "font-family": "URW Bookman",
       "font-stretch": "normal",
@@ -30492,7 +30492,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWBookman-DemiItalic.otf||101584:1751576178.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-DemiItalic.otf||101584:1759628689.0": {
       "family_name": "URW Bookman",
       "font-family": "URW Bookman",
       "font-stretch": "normal",
@@ -30528,7 +30528,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWBookman-Light.otf||98396:1751576178.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-Light.otf||98396:1759628689.0": {
       "family_name": "URW Bookman",
       "font-family": "URW Bookman",
       "font-stretch": "normal",
@@ -30564,7 +30564,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWBookman-LightItalic.otf||102764:1751576178.0": {
+    "/usr/share/fonts/gsfonts/URWBookman-LightItalic.otf||102764:1759628689.0": {
       "family_name": "URW Bookman",
       "font-family": "URW Bookman",
       "font-stretch": "normal",
@@ -30600,7 +30600,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWGothic-Book.otf||82968:1751576178.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-Book.otf||82968:1759628689.0": {
       "family_name": "URW Gothic",
       "font-family": "URW Gothic",
       "font-stretch": "normal",
@@ -30636,7 +30636,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWGothic-BookOblique.otf||85336:1751576178.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-BookOblique.otf||85336:1759628689.0": {
       "family_name": "URW Gothic",
       "font-family": "URW Gothic",
       "font-stretch": "normal",
@@ -30672,7 +30672,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWGothic-Demi.otf||83580:1751576178.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-Demi.otf||83580:1759628689.0": {
       "family_name": "URW Gothic",
       "font-family": "URW Gothic",
       "font-stretch": "normal",
@@ -30708,7 +30708,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/URWGothic-DemiOblique.otf||86232:1751576178.0": {
+    "/usr/share/fonts/gsfonts/URWGothic-DemiOblique.otf||86232:1759628689.0": {
       "family_name": "URW Gothic",
       "font-family": "URW Gothic",
       "font-stretch": "normal",
@@ -30744,7 +30744,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/gsfonts/Z003-MediumItalic.otf||114052:1751576178.0": {
+    "/usr/share/fonts/gsfonts/Z003-MediumItalic.otf||114052:1759628689.0": {
       "family_name": "Z003",
       "font-family": "Z003",
       "font-stretch": "normal",
@@ -31212,7 +31212,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/noto/NotoColorEmoji.ttf||10195752:1750625421.0": {
+    "/usr/share/fonts/noto/NotoColorEmoji.ttf||10673480:1758002085.0": {
       "family_name": "Noto Color Emoji",
       "font-family": "Noto Color Emoji",
       "font-stretch": "normal",
